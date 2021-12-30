@@ -1,0 +1,12 @@
+1. login to github
+
+2. fork https://github.com/mdecourse/cad2021_final
+
+fork 其他帳號的倉儲: 目的 1, 可以擁有這個倉儲的資料, 即使原倉儲關閉後, 仍可保有此份資料.
+                             目的 2, 可以在沒有直接對此倉儲改版的情況下, 以 pull requests 要求擁有者拉此版本回去合併.
+                             
+3. 直接在個人帳號下所 forked 線上倉儲的 downloads 上傳個人的動態期末報告版本. 
+
+檔案名稱必須為: 學號_html.txt
+
+4.  建立 pull requests, 然後由組長檢查後合併.

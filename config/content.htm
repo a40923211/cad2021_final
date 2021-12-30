@@ -106,7 +106,77 @@ utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*
 utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}]
 '''</pre>
 <p>使用者可以設法在 CoppeliaSim meArm 場景中驗證上述推導是否正確 (這是很好的課堂即時驗證題目) 並與 <a href="https://github.com/yorkhackspace/meArm">https://github.com/yorkhackspace/meArm</a> 中的控制運算進行比較.</p>
-<h2>2ag1</h2>
+<h3>scrum-2</h3>
+<p>CAD1 指各學員所分配到的第一套參數式 CAD 套件, 其中包括 Solidworks, Inventor, NX, Onshape 與 Solvespace.</p>
+<p>CAD1 將使用 Solvespace 執行零件繪圖.</p>
+<h4>有關 Solvespace</h4>
+<p>2013.06 Solvespace 1.9 移除限制, <a href="https://web.archive.org/web/20130719042128/http://solvespace.com/index.pl">轉為 Freeware</a>.</p>
+<p>2013.09 Solvespace 2.0 提供下載原始碼. <a href="https://web.archive.org/web/20130911213309/http://solvespace.com/download.pl">轉為 GPLv3 free software</a>.</p>
+<p>2013.12 Solvespace 2.0 正式宣布<a href="https://web.archive.org/web/20131212120216/http://solvespace.com/index.pl">轉為 GPL free software</a>.</p>
+<p>從 <a href="https://solvespace.com/forum.pl?action=viewall">https://solvespace.com/forum.pl?action=viewall</a> 列出從 2013.09 Forum 啟用後的所有討論串.</p>
+<p>Solvespace 原始碼: <a href="https://github.com/solvespace/solvespace">https://github.com/solvespace/solvespace</a></p>
+<h4>編譯 Solvespace</h4>
+<p>在 Windows 10 64 位元環境中編譯 Solvespace, 可以下載 <a href="https://drive.google.com/file/d/1hEGgONw8ahNs7JPAKOurc7JvGfhgO2zY/view?usp=sharing">compile_copsim_for_pj2022.7z</a> (檔案大小 4 GB, 解開壓縮後 14 GB) 後啟動可攜程式系統. 以 git clone --recurse-submodules <a href="https://github.com/solvespace/solvespace.git">https://github.com/solvespace/solvespace.git</a> 取得原始碼.</p>
+<p>cd solvespace 後以 mkdir build 建立 build 目錄, 然後 cd build 進入 build 目錄. 先執行:</p>
+<p style="padding-left: 30px;">cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release</p>
+<p>接著再執行:</p>
+<p style="padding-left: 30px;">mingw32-make</p>
+<p>就可以完成 solvespace.exe 的編譯.</p>
+<p>執行這裡利用 MSYS2 所編譯的 solvespace.exe, 必須從 Y:\msys64_20210419\mingw64\bin 目錄複製 libwinpthread-1.dll 檔案, 與 solvespace.exe 放在同一目錄中, 就可以啟動 solvespace.exe.</p>
+<p>以 MSYS2 編譯 Solvespace 的 log 請參考: <a href="/downloads/compile_solvespace_log.txt">compile_solvespace_log.txt</a></p>
+<h4>初步 2D 機構分析與基座組立</h4>
+<p></p>
+<p><img alt="" height="352" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_2d.png" width="600"/></p>
+<p><img caption="false" height="353" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_2d_w_base_and_frame.png" width="600"/></p>
+<p>上列 2D 機構分析與零組件下載: <a href="https://mde.tw/cad2021_hw/downloads/hw1_solvespace_stage1.7z">hw1_solvespace_stage1.7z</a></p>
+<p><img caption="false" height="348" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_one_more_joint.png" width="600"/></p>
+<p><img caption="false" height="305" src="https://mde.tw/cad2021_hw/images/coppeliaSim_solvespace_one_more_joint.png" width="600"/></p>
+<p><a href="/downloads/meArm_solvespace_coppeliasim_stage2.zip">meArm_in_solvespace_and_coppeliasim_stage2.zip</a></p>
+<p><img caption="false" height="368" src="https://mde.tw/cad2021_hw/images/meArm_in_solvespace.png" width="600"/></p>
+<p><a href="/downloads/meArm_in_solvespace.7z">meArm_in_solvespace.7z</a></p>
+<p><img caption="false" height="323" src="https://mde.tw/cad2021_hw/images/meArm_in_solvespacce_coppeliasim.png" width="600"/></p>
+<p><a href="/downloads/meArm_in_solvespace_coppeliasim.7z">meArm_in_solvespace_coppeliasim.7z</a></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/5NsxA3g2HaI" title="YouTube video player" width="560"></iframe></p>
+<p>接下來可以透過 sympy 以符號式運算求解逆向運動方程式:</p>
+<p>利用 <a href="https://www.sympy.org">sympy</a> 根據 <a href="https://mde.tw/cad2021/downloads/MeArmPiTechnicalOverviewV0-3DRAFT.pdf">meArm Pi Technical Overview</a> 中的說明 (修正錯誤後), 解出 Inverse Kinematics 如下:</p>
+<p>當已知 manimpulator 端點的座標為 (x, y ,z) 時, 求 theta, ltheta (low arm link theta) 與 utheta (upper arm link theta). 利用 <a href="https://www.sympy.org">sympy</a> 之前必須先以 pip install sympy 安裝模組.</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import sympy as sp
+ 
+# Define symbols
+theta, ltheta, utheta, r, x, y, z = sp.symbols("theta ltheta utheta r x y z")
+ 
+# Define equations, rearranged so expressions equal 0
+eq1 = 15 + 50 + 80*sp.sin(ltheta) + 80*sp.sin(utheta) - r
+eq2 = 53 + 80*sp.cos(ltheta) - 80*sp.cos(utheta) - z
+# 從 eq3 與 eq4 可以得到 eq5 與 eq6, 將 r 及 theta 表示成 x, y 輸入的函式
+# 因此 r 與 theta 在得知 x, y, z 時就可視為已知
+eq3 = r*sp.cos(theta) - x
+eq4 = r*sp.sin(theta) - y
+eq5 = sp.sqrt(x*x + y*y) - r
+eq6 = sp.atan(y/x) - theta
+ 
+# Solve for theta1 &amp; theta3
+solution = sp.solve([eq1, eq2], [ltheta, utheta], dict=True)
+print(solution)
+ 
+'''
+[{ltheta: pi - asin(r/80 + sin(2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) - 13/16), 
+ 
+utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
+ 
+{ltheta: asin(-r/80 + sin(2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) + 13/16) + pi, 
+ 
+utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
+ 
+{ltheta: -asin(-r/80 + sin(2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) + 13/16), 
+ 
+utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
+ 
+{ltheta: asin(r/80 + sin(2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) - 13/16), 
+ 
+utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}]
+'''</pre>
+<p>使用者可以設法在 CoppeliaSim meArm 場景中驗證上述推導是否正確 (這是很好的課堂即時驗證題目) 並與 <a href="https://github.com/yorkhackspace/meArm">https://github.com/yorkhackspace/meArm</a> 中的控制運算進行比較.</p><h2>2ag1</h2>
 <h2>2ag2</h2>
 <h2>2ag3</h2>
 <h3>40923148</h3>
