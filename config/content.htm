@@ -1,4 +1,4 @@
-<h1>About</h1>
+&gt;<h1>About</h1>
 <p>Repository: <a href="https://github.com/mdecourse/cad2021_final">https://github.com/mdecourse/cad2021_final</a></p>
 <p>Github Pages: <a href="https://mde.tw/cad2021_final">https://mde.tw/cad2021_final</a></p>
 <p>Discussion: <a href="https://github.com/mdecourse/cad2021_final/discussions">https://github.com/mdecourse/cad2021_final/discussions</a></p>
@@ -34,152 +34,9 @@
 <li>各組組長與副組長接到組員已經完成特定階段新增的 Pull Requests 後, 必須設法將其版本內容合併至期末評分網站中.</li>
 </ol>
 <h1>2a</h1>
-<h2>demo</h2>
-<h3>scrum-1</h3>
-<p>CAD1 指各學員所分配到的第一套參數式 CAD 套件, 其中包括 Solidworks, Inventor, NX, Onshape 與 Solvespace.</p>
-<p>CAD1 將使用 Solvespace 執行零件繪圖.</p>
-<h4>有關 Solvespace</h4>
-<p>2013.06 Solvespace 1.9 移除限制, <a href="https://web.archive.org/web/20130719042128/http://solvespace.com/index.pl">轉為 Freeware</a>.</p>
-<p>2013.09 Solvespace 2.0 提供下載原始碼. <a href="https://web.archive.org/web/20130911213309/http://solvespace.com/download.pl">轉為 GPLv3 free software</a>.</p>
-<p>2013.12 Solvespace 2.0 正式宣布<a href="https://web.archive.org/web/20131212120216/http://solvespace.com/index.pl">轉為 GPL free software</a>.</p>
-<p>從 <a href="https://solvespace.com/forum.pl?action=viewall">https://solvespace.com/forum.pl?action=viewall</a> 列出從 2013.09 Forum 啟用後的所有討論串.</p>
-<p>Solvespace 原始碼: <a href="https://github.com/solvespace/solvespace">https://github.com/solvespace/solvespace</a></p>
-<h4>編譯 Solvespace</h4>
-<p>在 Windows 10 64 位元環境中編譯 Solvespace, 可以下載 <a href="https://drive.google.com/file/d/1hEGgONw8ahNs7JPAKOurc7JvGfhgO2zY/view?usp=sharing">compile_copsim_for_pj2022.7z</a> (檔案大小 4 GB, 解開壓縮後 14 GB) 後啟動可攜程式系統. 以 git clone --recurse-submodules <a href="https://github.com/solvespace/solvespace.git">https://github.com/solvespace/solvespace.git</a> 取得原始碼.</p>
-<p>cd solvespace 後以 mkdir build 建立 build 目錄, 然後 cd build 進入 build 目錄. 先執行:</p>
-<p style="padding-left: 30px;">cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release</p>
-<p>接著再執行:</p>
-<p style="padding-left: 30px;">mingw32-make</p>
-<p>就可以完成 solvespace.exe 的編譯.</p>
-<p>執行這裡利用 MSYS2 所編譯的 solvespace.exe, 必須從 Y:\msys64_20210419\mingw64\bin 目錄複製 libwinpthread-1.dll 檔案, 與 solvespace.exe 放在同一目錄中, 就可以啟動 solvespace.exe.</p>
-<p>以 MSYS2 編譯 Solvespace 的 log 請參考: <a href="/downloads/compile_solvespace_log.txt">compile_solvespace_log.txt</a></p>
-<h4>初步 2D 機構分析與基座組立</h4>
-<p></p>
-<p><img alt="" height="352" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_2d.png" width="600"/></p>
-<p><img caption="false" height="353" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_2d_w_base_and_frame.png" width="600"/></p>
-<p>上列 2D 機構分析與零組件下載: <a href="https://mde.tw/cad2021_hw/downloads/hw1_solvespace_stage1.7z">hw1_solvespace_stage1.7z</a></p>
-<p><img alt="" height="348" src="/images/solvespace_meArm_one_more_joint.png" width="600"/></p>
-<p><img alt="" height="305" src="/images/coppeliaSim_solvespace_one_more_joint.png" width="600"/></p>
-<p><a href="/downloads/meArm_solvespace_coppeliasim_stage2.zip">meArm_in_solvespace_and_coppeliasim_stage2.zip</a></p>
-<p><img alt="" height="368" src="/images/meArm_in_solvespace.png" width="600"/></p>
-<p><a href="/downloads/meArm_in_solvespace.7z">meArm_in_solvespace.7z</a></p>
-<p><img alt="" height="323" src="/images/meArm_in_solvespacce_coppeliasim.png" width="600"/></p>
-<p><a href="/downloads/meArm_in_solvespace_coppeliasim.7z">meArm_in_solvespace_coppeliasim.7z</a></p>
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/5NsxA3g2HaI" title="YouTube video player" width="560"></iframe></p>
-<p>接下來可以透過 sympy 以符號式運算求解逆向運動方程式:</p>
-<p>利用 <a href="https://www.sympy.org">sympy</a> 根據 <a href="https://mde.tw/cad2021/downloads/MeArmPiTechnicalOverviewV0-3DRAFT.pdf">meArm Pi Technical Overview</a> 中的說明 (修正錯誤後), 解出 Inverse Kinematics 如下:</p>
-<p>當已知 manimpulator 端點的座標為 (x, y ,z) 時, 求 theta, ltheta (low arm link theta) 與 utheta (upper arm link theta). 利用 <a href="https://www.sympy.org">sympy</a> 之前必須先以 pip install sympy 安裝模組.</p>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import sympy as sp
- 
-# Define symbols
-theta, ltheta, utheta, r, x, y, z = sp.symbols("theta ltheta utheta r x y z")
- 
-# Define equations, rearranged so expressions equal 0
-eq1 = 15 + 50 + 80*sp.sin(ltheta) + 80*sp.sin(utheta) - r
-eq2 = 53 + 80*sp.cos(ltheta) - 80*sp.cos(utheta) - z
-# 從 eq3 與 eq4 可以得到 eq5 與 eq6, 將 r 及 theta 表示成 x, y 輸入的函式
-# 因此 r 與 theta 在得知 x, y, z 時就可視為已知
-eq3 = r*sp.cos(theta) - x
-eq4 = r*sp.sin(theta) - y
-eq5 = sp.sqrt(x*x + y*y) - r
-eq6 = sp.atan(y/x) - theta
- 
-# Solve for theta1 &amp; theta3
-solution = sp.solve([eq1, eq2], [ltheta, utheta], dict=True)
-print(solution)
- 
-'''
-[{ltheta: pi - asin(r/80 + sin(2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) - 13/16), 
- 
-utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
- 
-{ltheta: asin(-r/80 + sin(2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) + 13/16) + pi, 
- 
-utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
- 
-{ltheta: -asin(-r/80 + sin(2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) + 13/16), 
- 
-utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
- 
-{ltheta: asin(r/80 + sin(2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) - 13/16), 
- 
-utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}]
-'''</pre>
-<p>使用者可以設法在 CoppeliaSim meArm 場景中驗證上述推導是否正確 (這是很好的課堂即時驗證題目) 並與 <a href="https://github.com/yorkhackspace/meArm">https://github.com/yorkhackspace/meArm</a> 中的控制運算進行比較.</p>
-<h3>scrum-2</h3>
-<p>CAD1 指各學員所分配到的第一套參數式 CAD 套件, 其中包括 Solidworks, Inventor, NX, Onshape 與 Solvespace.</p>
-<p>CAD1 將使用 Solvespace 執行零件繪圖.</p>
-<h4>有關 Solvespace</h4>
-<p>2013.06 Solvespace 1.9 移除限制, <a href="https://web.archive.org/web/20130719042128/http://solvespace.com/index.pl">轉為 Freeware</a>.</p>
-<p>2013.09 Solvespace 2.0 提供下載原始碼. <a href="https://web.archive.org/web/20130911213309/http://solvespace.com/download.pl">轉為 GPLv3 free software</a>.</p>
-<p>2013.12 Solvespace 2.0 正式宣布<a href="https://web.archive.org/web/20131212120216/http://solvespace.com/index.pl">轉為 GPL free software</a>.</p>
-<p>從 <a href="https://solvespace.com/forum.pl?action=viewall">https://solvespace.com/forum.pl?action=viewall</a> 列出從 2013.09 Forum 啟用後的所有討論串.</p>
-<p>Solvespace 原始碼: <a href="https://github.com/solvespace/solvespace">https://github.com/solvespace/solvespace</a></p>
-<h4>編譯 Solvespace</h4>
-<p>在 Windows 10 64 位元環境中編譯 Solvespace, 可以下載 <a href="https://drive.google.com/file/d/1hEGgONw8ahNs7JPAKOurc7JvGfhgO2zY/view?usp=sharing">compile_copsim_for_pj2022.7z</a> (檔案大小 4 GB, 解開壓縮後 14 GB) 後啟動可攜程式系統. 以 git clone --recurse-submodules <a href="https://github.com/solvespace/solvespace.git">https://github.com/solvespace/solvespace.git</a> 取得原始碼.</p>
-<p>cd solvespace 後以 mkdir build 建立 build 目錄, 然後 cd build 進入 build 目錄. 先執行:</p>
-<p style="padding-left: 30px;">cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release</p>
-<p>接著再執行:</p>
-<p style="padding-left: 30px;">mingw32-make</p>
-<p>就可以完成 solvespace.exe 的編譯.</p>
-<p>執行這裡利用 MSYS2 所編譯的 solvespace.exe, 必須從 Y:\msys64_20210419\mingw64\bin 目錄複製 libwinpthread-1.dll 檔案, 與 solvespace.exe 放在同一目錄中, 就可以啟動 solvespace.exe.</p>
-<p>以 MSYS2 編譯 Solvespace 的 log 請參考: <a href="/downloads/compile_solvespace_log.txt">compile_solvespace_log.txt</a></p>
-<h4>初步 2D 機構分析與基座組立</h4>
-<p></p>
-<p><img alt="" height="352" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_2d.png" width="600"/></p>
-<p><img caption="false" height="353" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_2d_w_base_and_frame.png" width="600"/></p>
-<p>上列 2D 機構分析與零組件下載: <a href="https://mde.tw/cad2021_hw/downloads/hw1_solvespace_stage1.7z">hw1_solvespace_stage1.7z</a></p>
-<p><img caption="false" height="348" src="https://mde.tw/cad2021_hw/images/solvespace_meArm_one_more_joint.png" width="600"/></p>
-<p><img caption="false" height="305" src="https://mde.tw/cad2021_hw/images/coppeliaSim_solvespace_one_more_joint.png" width="600"/></p>
-<p><a href="/downloads/meArm_solvespace_coppeliasim_stage2.zip">meArm_in_solvespace_and_coppeliasim_stage2.zip</a></p>
-<p><img caption="false" height="368" src="https://mde.tw/cad2021_hw/images/meArm_in_solvespace.png" width="600"/></p>
-<p><a href="/downloads/meArm_in_solvespace.7z">meArm_in_solvespace.7z</a></p>
-<p><img caption="false" height="323" src="https://mde.tw/cad2021_hw/images/meArm_in_solvespacce_coppeliasim.png" width="600"/></p>
-<p><a href="/downloads/meArm_in_solvespace_coppeliasim.7z">meArm_in_solvespace_coppeliasim.7z</a></p>
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/5NsxA3g2HaI" title="YouTube video player" width="560"></iframe></p>
-<p>接下來可以透過 sympy 以符號式運算求解逆向運動方程式:</p>
-<p>利用 <a href="https://www.sympy.org">sympy</a> 根據 <a href="https://mde.tw/cad2021/downloads/MeArmPiTechnicalOverviewV0-3DRAFT.pdf">meArm Pi Technical Overview</a> 中的說明 (修正錯誤後), 解出 Inverse Kinematics 如下:</p>
-<p>當已知 manimpulator 端點的座標為 (x, y ,z) 時, 求 theta, ltheta (low arm link theta) 與 utheta (upper arm link theta). 利用 <a href="https://www.sympy.org">sympy</a> 之前必須先以 pip install sympy 安裝模組.</p>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">import sympy as sp
- 
-# Define symbols
-theta, ltheta, utheta, r, x, y, z = sp.symbols("theta ltheta utheta r x y z")
- 
-# Define equations, rearranged so expressions equal 0
-eq1 = 15 + 50 + 80*sp.sin(ltheta) + 80*sp.sin(utheta) - r
-eq2 = 53 + 80*sp.cos(ltheta) - 80*sp.cos(utheta) - z
-# 從 eq3 與 eq4 可以得到 eq5 與 eq6, 將 r 及 theta 表示成 x, y 輸入的函式
-# 因此 r 與 theta 在得知 x, y, z 時就可視為已知
-eq3 = r*sp.cos(theta) - x
-eq4 = r*sp.sin(theta) - y
-eq5 = sp.sqrt(x*x + y*y) - r
-eq6 = sp.atan(y/x) - theta
- 
-# Solve for theta1 &amp; theta3
-solution = sp.solve([eq1, eq2], [ltheta, utheta], dict=True)
-print(solution)
- 
-'''
-[{ltheta: pi - asin(r/80 + sin(2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) - 13/16), 
- 
-utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
- 
-{ltheta: asin(-r/80 + sin(2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) + 13/16) + pi, 
- 
-utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
- 
-{ltheta: -asin(-r/80 + sin(2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) + 13/16), 
- 
-utheta: 2*atan((160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) - 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}, 
- 
-{ltheta: asin(r/80 + sin(2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))) - 13/16), 
- 
-utheta: -2*atan((-160*r + sqrt(-r**4 + 260*r**3 - 2*r**2*z**2 + 212*r**2*z - 5368*r**2 + 260*r*z**2 - 27560*r*z - 1499160*r - z**4 + 212*z**3 + 296*z**2 - 1222392*z + 130593244) + 10400)/(r**2 - 130*r + z**2 - 266*z + 15514))}]
-'''</pre>
-<p>使用者可以設法在 CoppeliaSim meArm 場景中驗證上述推導是否正確 (這是很好的課堂即時驗證題目) 並與 <a href="https://github.com/yorkhackspace/meArm">https://github.com/yorkhackspace/meArm</a> 中的控制運算進行比較.</p><h2>2ag1</h2>
+<h2>2ag1</h2>
 <h2>2ag2</h2>
-<h2>2ag3</h2>
-<h3>40923148</h3>
+<h2>2ag3</h2><h3>40923148</h3>
 <p dir="auto">請在個人的 cad2021_hw 網站中的 HW1 最下方新增一個 H2 的頁面, 標題為 W13 (W 為大寫), 主要查驗個人 meArm 作業所完成的項目:</p>
 <ol dir="auto">
 <li>
@@ -221,53 +78,216 @@ var winkVideoData = {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <h2>2ag4</h2>
-<h3>40923129</h3>
-<h2>2ag5</h2>
+<h2>2ag5</h2><h3>40923151</h3>
+<p>這學期學習了兩套新的cad軟體，分別是onshape、solvespace，在畫圖上已經大致清楚</p>
+<p>但onshape跟solvespace的組合零件的功能還不是很清楚怎麼操作</p>
+<p><img alt="" height="360" src="https://40923151.github.io/cad2021_hw/images/chrome_Nor1gyezIM.png" width="640"/></p>
+<p>-------------------------------------------------------------</p>
+<p>學到了一個好用的新工具wink，能夠方便呈現多張圖像的步驟過程</p>
+<p>(wink下載)</p>
+<p><video controls="controls" height="300" width="600">
+<source src="https://40923151.github.io/cad2021_hw/downloads/wink_install.mp4" type="video/mp4"/></video></p>
+<p>(<span>wink加入網站步驟</span>)</p>
+<p><video controls="controls" height="300" width="600">
+<source src="https://40923151.github.io/cad2021_hw/downloads/wink_website.mp4" type="video/mp4"/></video></p>
+<p>(<span>wink按鈕功能&amp;放兩部以上的wink</span>)</p>
+<p><video controls="controls" height="300" width="600">
+<source src="https://40923151.github.io/cad2021_hw/downloads/wink_button_setting.mp4" type="video/mp4"/></video></p>
+<p>-------------------------------------------------------------</p>
+<p>學了coppeliasim，如何使用這個軟體來模擬畫出來的零件之運動過程</p>
+<p>(四連桿模擬練習)</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/xdJCJiluZOI" width="560"></iframe></p>
+<p>(meArm模擬)</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/XGmDpe26Ev0" width="560"></iframe></p>
 <h2>2ag6</h2>
 <h2>2ag7</h2>
-<h2>2ag8</h2>
 <h1>2b</h1>
 <h2>2bg1</h2>
-<h2>2bg2</h2>
-<h2>2bg3</h2>
-<h2>2bg4</h2>
+<h2>2bg2</h2><h3>40923209</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><br/><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<h3>40923207</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><br/><br/><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<h3>40923204</h3>
+<h3>40923203</h3>
+<h2>2bg3</h2><h3>40923252</h3>
+<p>期末報告</p>
+<h2>2bg4</h2>&gt;<h3>40923250</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><br/><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<h3>40923243</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<script src="https://mde.tw/cp2021/cmsimde/static/Cango-24v03-min.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/gearUtils-09.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/SVGpathUtils-6v03-min.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/sylvester.js"></script>
+<script src="https://mde.tw/cp2021/cmsimde/static/PrairieDraw.js"></script>
+<h3>Final Project</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<h3>40923227</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<h3>40923223</h3>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">最終項目佔階段提升40%</span></span></span></span></p>
+<p><span style="background-color: #ffff99;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">2a 和 2b 必須在 2022.01.06 上師之前完成 Final Project</span></span></span></span></span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">最終項目具體項目成果回報區</span></span></span></span></span></span></a><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">將於2021.12.09開啟，於</span></span></span></span></span></span><span style="background-color: #ff99cc;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">2022.01.05 22:00 關閉</span></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">彈性製造系統 佈景設計與製作</span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">請從</span></span></span></span></span></span></span></span></span></span><a href="https://github.com/mdecourse/scenes"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">https://github.com/mdecourse/scenes</span></span></span></span></span></span></span></span></span></span></a><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">與</span></span></span></span></span></span></span></span></span></span><a href="https://github.com/mdecourse/models"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">https://github.com/mdecourse/models</span></span></span></span></span></span></span></span></span></span></a><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">中選擇場景或模型，</span></span></span></span></span></span></span></span></span></span><a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">登</span></span></span></span></span></span></span></span></span></span></a><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">配合</span></span></span></span></span></span></span></span></span><a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">cad2021book.pdf</span></span></span></span></span></span></span></span></span></a><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">（入@gm後下載）教材中的內容，自選製作與組立產品，組合成一個組製造系統系統場景。</span></span></span></span></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">彈性製造系統內容說明</span></span></span></span></span></span></span></span></span></span></p>
+<h4><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">例子：</span></span></span></span></span></span></span></span></span></span></h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<div class="container"></div>
+<p><br/><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span><a href="https://colorlib.com" target="_blank"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></a></p>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+<div class="container-fluid"><nav>
+<div class="site-wrap"><header class="site-navbar py-4 bg-white" role="banner">
+<div class="container-fluid"></div>
+</header></div>
+<div id="tipue_search_content">
+<div class="container">
+<div class="row pt-3 mx-auto"></div>
+</div>
+</div>
+</nav></div>
+<div id="tipue_search_content"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Modiasim &lt;&lt;</span></span></span></span><a href="/Modiasim.html"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">上一頁</span></span></span></span></a></div>
+<h3>40923221</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
+<h3>40923218</h3>
+<p>我這次抽到的CAD是Inventor和NX 12.0</p>
+<p>NX12.0之前有用過，但是Inventor是我第一次使用，所以我還有很多地方不熟悉，明年六月要考立體丙級要加緊練習。</p>
+<hr/>
+<p>NX 12.0繪圖過程如下:</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/umxNlEpC-_g" title="YouTube video player" width="560"></iframe></p>
+<div class="winkVideoPlayOverlayClass"> </div>
+<p>Inventor繪圖過程如下:</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/O90ivuHgvow" title="YouTube video player" width="560"></iframe></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<hr/>
+<p>這是我第一次碰到Coppeliasim這個軟體，目前對於整個結構件要轉入進去目前還不會，只能先用參考件先做模擬，目前夾爪模擬部分也做出來了，下次更新再放上來。</p>
+<p>第一軸模擬:</p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923218.github.io/cad2021_hw/downloads/First%20axis.mp4" data-mce-fragment="1" data-varname="winkVideoData" height="1080" loop="loop" muted="" playsinline="" width="1866">
+<source src="./../downloads/First axis.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"> </div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+</div>
+</div>
+<p>二、三軸模擬:</p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923218.github.io/cad2021_hw/downloads/%E6%A8%A1%E6%93%AC.mp4" data-mce-fragment="1" data-varname="winkVideoData" height="1080" loop="loop" muted="" playsinline="" width="1920">
+<source src="./../downloads/模擬.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<hr/>
+<p>接下來連桿模擬，因為還沒了解怎麼將結構轉入，所以這是動手將各零件位置拉到定位後再進行模擬。</p>
+<p>繪圖過程(INV):</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/7IZEqd6TQh0" title="YouTube video player" width="560"></iframe></p>
+<div class="winkVideoPlayOverlayClass"> </div>
+<p><spawn></spawn></p>
+<p>繪圖過程(NX12.0):</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ztfLbpMuRY4" title="YouTube video player" width="560"></iframe></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<p><spawn></spawn></p>
+<p>模擬過程:</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/7HNwKBqgHk4" title="YouTube video player" width="560"></iframe></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<hr/>
+<p>總結:</p>
+<p>這學期碰到了許多新東西，希望對下學期的協同設計有幫助。</p>
+<h3>Final Project</h3>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player" width="560"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player" width="560"></iframe></p>
 <h2>2bg5</h2>
 <h2>2bg6</h2>
 <h2>2bg7</h2>
-<h2>2bg8</h2>
-<h2>2bg9</h2>
-<h3>40823117</h3>
-<p>CAD1(INV) 緣起說明與介紹</p>
-<p>Inventor是美國AutoDesk公司推出的三圍可視化實體模擬軟體，在AutoCAD平台開發的二維機械製圖和詳圖軟體AutoCAD Mechanical基礎上，加入了用於纜線和束線設計、管道設系和PCB IDF檔案輸入的專業功能模組，並加入FEA功能，可以直接Inventor中進行應力分析。<br>Inventor提供了二維轉換到三維最簡單的路徑，且提供最佳的DWG兼容性，Invnetor提供了全面的設計工具，可用於創建完整的數字樣機，以驗證設計的外型、結構及功能。</p>
-<p>CAD1(INV) 安裝配置</p>
-<p></p>
-<p>Inventor註冊下載:<a href="https://youtu.be/JPvTzNmna7g">https://youtu.be/JPvTzNmna7g</a></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/JPvTzNmna7g" title="YouTube video player"></iframe></p>
-<p>CAD1(INV) 零組件繪圖操作流程影片 (Youtube)</p>
-<p></p>
-<p>Inventor繪圖教學:<a href="https://youtu.be/BVBxhxRFIJw">https://youtu.be/BVBxhxRFIJw</a></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/BVBxhxRFIJw" title="YouTube video player"></iframe></p>
-<p>CAD2(ONS) 緣起說明與介紹</p>
-<p>Onshape的創始人Jon Hirschtick，在1993年創辦了Solidworks，在1997年時被達梭系統以3.1億美元收購，Jon Hirschtick在2011年離開Solidworks並在2012年成立公司開始創建Onshape。</p>
-<p>1.Onshape為免費軟體，不需購買授權即可使用。<br>2.支援瀏覽器操作，並有IOS、Android軟體支援。<br>3.可輸出圖檔供CNC、3D列印、雷射切割使用。</p>
-<p></p>
-<p><span>CAD2(ONS)</span> 安裝配置</p>
-<p></p>
-<p>Onshape註冊教學:<a href="https://youtu.be/toQO4diaIGA">https://youtu.be/toQO4diaIGA</a></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/toQO4diaIGA" title="YouTube video player"></iframe><span><br></span></p>
-<p><span>CAD2(ONS)</span> 零組件繪圖操作流程影片 (Youtube)</p>
-<p></p>
-<p>Onshape繪圖教學:<a href="https://youtu.be/179TUSG2Lso">https://youtu.be/179TUSG2Lso</a></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/179TUSG2Lso" title="YouTube video player"></iframe></p>
-<p></p>
-<p>轉入coppeliasim</p>
-<p></p>
-<p>CAD1(INV)</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Y_5jcqxE9R0" title="YouTube video player"></iframe></p>
-<p>HW1結果</p>
-<p>CAD1(INV)</p>
-<p><img caption="false" height="223" src="https://pyc40823117.github.io/cad2021_hw/images/messageImage_1640831957896.jpg" width="263"></p>
-<p>轉動第一軸</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/whmyDeVSrv0" title="YouTube video player"></iframe></p>
-<p>轉動1~3軸</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1S6FEAdxTgw" title="YouTube video player"></iframe></p>
+<h2>2bg8</h2><h3>40823122</h3>
+<p>test</p>
