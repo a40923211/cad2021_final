@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 # ref: https://stackoverflow.com/questions/3845423/remove-empty-strings-from-a-list-of-strings
 
 # Global parameters setup
-repo_path = "Y:/tmp/cad2021_final"
-class_name = "2b"
+repo_path = "./"
+class_name = "2a"
 group_file = repo_path + "/downloads/" + class_name + "_grouping.txt"
 page_head = "h2"
 
@@ -65,14 +65,12 @@ origin_html = """<h1>About</h1>
 <h2>2bg8</h2>
 """
 
-'''
 # 起始讀 a 班時從上述 html 寫入 content.htm
 # 但是讀 b 班資料時則須蓋掉, 以現存 content.htm 為主
 file_location = repo_path + "/config/content.htm"
 # 將動態網頁檔案內容讀出, 存入 data 變數區
 with open(file_location, "w", encoding="utf-8") as f:
     f.write(origin_html)
-'''
     
 def get_html(grp_title, student_id):
     
