@@ -1,0 +1,15 @@
+<h3>40923101</h3>
+<p><span>先下載&nbsp;</span><strong>SolveSpace</strong></p>
+<p><strong><img caption="false" height="299" src="https://40923212.github.io/cad2021_hw/images/z1.png" width="600"></strong></p>
+<p><strong><span>按下&nbsp;</span><strong>Download</strong></strong></p>
+<p><strong><strong><img caption="false" height="276" src="https://40923212.github.io/cad2021_hw/images/z2.png" width="600"></strong></strong></p>
+<p><strong><strong><span>點開</span><span>&nbsp;</span><strong>3.0stable</strong></strong></strong></p>
+<p><strong><strong><strong><img caption="false" height="314" src="https://40923212.github.io/cad2021_hw/images/z3.png" width="600"></strong></strong></strong></p>
+<p><strong><strong><strong><span>就來到</span><strong>github</strong><span>，再選擇</span><span>&nbsp;</span><strong>solvespace.exe&nbsp;</strong><span>下載下來</span></strong></strong></strong></p>
+<p><strong><strong><strong><img caption="false" height="301" src="https://40923212.github.io/cad2021_hw/images/z4.png" width="600"></strong></strong></strong></p>
+<p><strong><strong><strong><span>下載完後將小白窗開啟，加入&nbsp;</span><span><strong>star %Disk%solvespace.exe</strong></span><span>&nbsp;</span><span>，儲存下來</span></strong></strong></strong></p>
+<p><strong><strong><strong><span><img caption="false" height="344" src="https://40923212.github.io/cad2021_hw/images/z5.png" width="600"></span></strong></strong></strong></p>
+<p><strong><strong><strong><span>重啟<span>&nbsp;</span><strong>start_ipv4</strong><span>&nbsp;</span><span>後，就會直接開啟&nbsp;</span><strong>solvespace</strong></span></strong></strong></strong></p>
+<p><strong><strong><strong><span><strong><img caption="false" height="323" src="https://40923212.github.io/cad2021_hw/images/z6.png" width="600"></strong></span></strong></strong></strong></p>
+<p><b>影片</b></p>
+<p><iframe width="700" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/CK9byEq-qXc"></iframe></p>
