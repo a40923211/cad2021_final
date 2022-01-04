@@ -11,8 +11,9 @@
 <p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_GnCu4oQRdV.png" width="500"></p>
 <p>零件組合圖</p>
 <p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_ZedJoaIHiA.png" width="500"></p>
-<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/deI4Z7HfVE4"></iframe><span style="background-color: #ccffff;"><strong><br></strong></span></p>
-<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/NDHH_xiibPE"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/deI4Z7HfVE4"></iframe></p>
+<p><span style="background-color: #ccffff;"><strong><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ybEOXYlYOZQ"></iframe></strong></span></p>
+<p></p>
 <p><span>以相同尺寸完成對稱之連桿機構，</span><span>&nbsp;從 CAD 套件轉入 CoppeliaSim 後， 以 Slider 0-360 度控制 Point0-Point1 搖桿轉動.</span></p>
 <p><strong>這學期分配到&nbsp;Solvespace&nbsp;及 NX，</strong></p>
 <p><strong>之前都沒接觸過這兩款繪圖軟體，</strong></p>
@@ -38,5 +39,6 @@
 <p>wink<span>&nbsp;製作影片是用多張照片<strong><span style="color: #ff0000;">截圖編輯</span></strong>，</span></p>
 <p><span>在這些照片上面編輯文字或鼠標，</span></p>
 <p>形成一部影片。</p>
-<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EvvBaMt1ob0"></iframe><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/TcUFYGTy2Rs"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EvvBaMt1ob0"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/TcUFYGTy2Rs"></iframe></p>
 <p></p>
