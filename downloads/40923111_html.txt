@@ -1,0 +1,32 @@
+<h3>40923111</h3>
+<p>這學期學到很多軟件,有NX,<span>solvespace和WINK以及coppeliasim模擬,這些軟體大致上都學到了一點基礎</span></p>
+<p><span>但由於NX和solvespace的組合零件還是很不清楚要怎麼操作所以我改用我比較拿手的inventor來做組合</span></p>
+<p><span>--------------------------------------------------</span></p>
+<p><span>NX全總結</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/JYKkTJsgrLM"></iframe></span></p>
+<p><span></span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/N-VWo7cSwCc"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/lDyj__GiDvU"></iframe></p>
+<p>solvespace全總結<iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GrqeaonzCRU"></iframe></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/bCT3T2gRte0"></iframe></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Z51baE3K4TY"></iframe></span>對coppeliasim的操作有更加了解，但內部原理還不熟，所以在設定的部分花了很多時間，這次遇到的問題就是剩夾爪軸模擬跑不出來，在影片裡有示範做的成果和遇到的問題</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/fWipyDRQOyU"></iframe></p>
+<div class="winkVideoControlBarProgressLeftClass">
+<p></p>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923111.github.io/cad2021_hw/downloads/2021.11.1.mp4" type="video/mp4" /></video></p>
+<p></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923111.github.io/cad2021_hw/downloads/123.mp4" type="video/mp4" /></video></p>
+<p></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923111.github.io/cad2021_hw/downloads/NX.mp4" type="video/mp4" /></video></p>
+<p></p>
+<p>2022.1.03期末考</p>
+<p>心得:這次又更加了解繪圖軟體和模擬器</p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/m16uctCBwWI"></iframe></p>
