@@ -1,0 +1,323 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>Final Project</title>
+        <meta charset="utf-8">
+<meta property="head" content="H3">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+        
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <!-- for Wink3 -->
+        <link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css" />
+        <script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"></script>
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDiff.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushRust.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container-fluid'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container-fluid">
+                <div class="row align-items-center">
+                <h1>2021 電腦輔助設計實習課程期末評分網站</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">2021 電腦輔助設計實習課程期末評分網站</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li><a href='About.html'>About</a><li><a href='Final Project-1.html'>Final Project-1</a><li><a href='Notice.html'>Notice</a><li class='has-children'><a href='2a.html'>2a</a><ul class='dropdown'><li class='has-children'><a href='2ag1.html'>2ag1</a><ul class='dropdown'><li><a href='40923108.html'>40923108</a><li><a href='40923101.html'>40923101</a></li></ul><li class='has-children'><a href='2ag2.html'>2ag2</a><ul class='dropdown'><li><a href='40923107.html'>40923107</a></li></ul><li class='has-children'><a href='2ag3.html'>2ag3</a><ul class='dropdown'><li><a href='40923148.html'>40923148</a></li></ul><li class='has-children'><a href='2ag4.html'>2ag4</a><ul class='dropdown'><li><a href='40923146.html'>40923146</a><li><a href='40923129.html'>40923129</a><li><a href='40923122.html'>40923122</a><li><a href='40923115.html'>40923115</a><li><a href='40923111.html'>40923111</a></li></ul><li class='has-children'><a href='2ag5.html'>2ag5</a><ul class='dropdown'><li><a href='40923151.html'>40923151</a><li><a href='40923123.html'>40923123</a></li></ul><li><a href='2ag6.html'>2ag6</a><li><a href='2ag7.html'>2ag7</a></li></ul><li class='has-children'><a href='2b.html'>2b</a><ul class='dropdown'><li class='has-children'><a href='2bg1.html'>2bg1</a><ul class='dropdown'><li><a href='40923210.html'>40923210</a><li><a href='40923205.html'>40923205</a><li><a href='40923201.html'>40923201</a></li></ul><li class='has-children'><a href='2bg2.html'>2bg2</a><ul class='dropdown'><li><a href='40923209.html'>40923209</a><li><a href='40923207.html'>40923207</a><li><a href='40923204.html'>40923204</a><li><a href='40923203.html'>40923203</a></li></ul><li class='has-children'><a href='2bg3.html'>2bg3</a><ul class='dropdown'><li><a href='40923252.html'>40923252</a></li></ul><li class='has-children'><a href='2bg4.html'>2bg4</a><ul class='dropdown'><li><a href='40923250.html'>40923250</a><li><a href='40923243.html'>40923243</a><li><a href='Final Project-2.html'>Final Project-2</a><li><a href='40923227.html'>40923227</a><li><a href='40923223.html'>40923223</a><li><a href='40923221.html'>40923221</a><li><a href='40923218.html'>40923218</a><li><a href='Final Project-3.html'>Final Project-3</a></li></ul><li><a href='2bg5.html'>2bg5</a><li><a href='2bg6.html'>2bg6</a><li class='has-children'><a href='2bg7.html'>2bg7</a><ul class='dropdown'><li><a href='40923240.html'>40923240</a><li><a href='40923220.html'>40923220</a></li></ul><li class='has-children'><a href='2bg8.html'>2bg8</a><ul class='dropdown'><li><a href='40871106.html'>40871106</a><li><a href='40823122.html'>40823122</a><li><a href='40823117.html'>40823117</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+          
+        </header>
+    <div id="tipue_search_content">40923129 << <a href='40923129.html'>Previous</a> <a href='40923115.html'>Next</a> >> 40923115<br /><h1>40923122</h1>
+<p>這學期有學了兩套繪圖軟體，一個是NX12，另一個是solve spacd，<span>solve spacd這一套是我完全沒有學過的，研究了很久，雖然繪畫了一點點，但畫的速度非常慢，不太熟悉，一些簡單組合式還可以，NX呢，我是算比較熟的，因為以前有學過一點點，所以會比較上手，再來還有學到一個新的程式，就是wink，算是一個可以記錄你操作過程的程式，這也是一個新的東西，這我也已經學會了，再來就是coppeliasim，這...我真的沒有很熟悉，但還是有學到一些。</span></p>
+<p><span>四連趕機構</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/tuo-Vsy_xpI" width="560"></iframe></span></p>
+<p><span>機械手臂</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/5yRNeXfF8yc" width="560"></iframe></p>
+<p>機械手臂零件</p>
+<script>
+var winkVideoData1 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData1" height="600" loop="loop" muted="" playsinline="" width="900">
+<source src="./../downloads/NX.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+<div class="winkVideoPlayOverlayClass">下載wink</div>
+<script>
+var winkVideoData2 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 549, y: 283, width: 33, height: 17 }, target: 3 },
+    ],
+    "7": [
+      { type: "gotoframe", rect: { x: 496, y: 284, width: 33, height: 17 }, target: 2 },
+      { type: "gotoframe", rect: { x: 529, y: 284, width: 33, height: 17 }, target: 8 },
+    ],
+    "12": [
+      { type: "gotoframe", rect: { x: 575, y: 322, width: 33, height: 17 }, target: 7 },
+    ],
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData2" height="600" loop="loop" muted="" playsinline="" width="900">
+<source src="./../downloads/test2.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<script>
+var winkVideoData3 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 564, y: 361, width: 60, height: 24 }, target: 3 },
+    ],
+    "7": [
+      { type: "gotoframe", rect: { x: 345, y: 373, width: 60, height: 24 }, target: 2 },
+      { type: "gotoframe", rect: { x: 418, y: 370, width: 60, height: 24 }, target: 8 },
+    ],
+    "12": [
+      { type: "gotoframe", rect: { x: 676, y: 373, width: 60, height: 24 }, target: 7 },
+      { type: "gotoframe", rect: { x: 751, y: 372, width: 60, height: 24 }, target: 13 },
+    ],
+    "17": [
+      { type: "gotoframe", rect: { x: 550, y: 296, width: 60, height: 24 }, target: 12 },
+      { type: "gotoframe", rect: { x: 623, y: 293, width: 60, height: 24 }, target: 18 },
+    ],
+    "22": [
+      { type: "gotoframe", rect: { x: 463, y: 167, width: 60, height: 24 }, target: 17 },
+      { type: "gotoframe", rect: { x: 544, y: 168, width: 60, height: 24 }, target: 23 },
+    ],
+    "27": [
+      { type: "gotoframe", rect: { x: 644, y: 415, width: 60, height: 24 }, target: 22 },
+      { type: "gotoframe", rect: { x: 711, y: 415, width: 60, height: 24 }, target: 28 },
+    ],
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData3" height="600" loop="loop" muted="" playsinline="" width="900">
+<source src="./../downloads/test3.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><span>NX可攜式下載教學 </span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/mXj7sVWiVh4" width="560"></iframe></p>
+<p><br/><span>NX操作流程及簡介 </span></p>
+<p><span></span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/saajcB59x-c" width="560"></iframe></span></p>
+<p><span>NX零件轉出後轉入 CoppeliaSim 操作影片</span></p>
+<p><span></span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/prEOELo0tDQ" width="560"></iframe></span>SolveSpace</p>
+<p><span>solvespace可攜式下載教學</span></p>
+<p><span></span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/JRGkOAtvksY" width="560"></iframe></p>
+<p><br/><span>solvespace操作流程及簡介</span></p>
+<p><span></span></p>
+<p><a href="https://youtu.be/6xIrPhM1yY0" rel="nofollow"></a></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/6xIrPhM1yY0" width="560"></iframe></p>
+<p><br/><span>solvespace零件轉出後轉入 CoppeliaSim 操作影片</span></p>
+<p><span></span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/B4wGzqZsTGo" width="560"></iframe></p>
+<br />40923129 << <a href='40923129.html'>Previous</a> <a href='40923115.html'>Next</a> >> 40923115</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        

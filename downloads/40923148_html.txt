@@ -1,22 +1,19 @@
 <h3>40923148</h3>
-<p dir="auto">請在個人的 cad2021_hw 網站中的 HW1 最下方新增一個 H2 的頁面, 標題為 W13 (W 為大寫), 主要查驗個人 meArm 作業所完成的項目:</p>
-<ol dir="auto">
-<li>
-<p dir="auto">請建立一個 Wink 檔案說明截至目前所完成的兩套 CAD 零組件繪圖進度 (30%).</p>
-sw已經做好零件繪製也組立完成，但nx還沒全部畫完，所以wink沒有製作完全。</li>
-<li>
-<p dir="auto">請建立一個 Wink 檔案, 將 1. 已經完成的 meArm 機械手臂臂第一軸, 加入<span>&nbsp;</span><a href="https://www.coppeliarobotics.com/helpFiles/en/simUI-widgets.htm" rel="nofollow">https://www.coppeliarobotics.com/helpFiles/en/simUI-widgets.htm</a><span>&nbsp;</span>slider, 可以在執行時, 利用滑鼠拖動旋轉 360 度 (30%).</p>
-還無法成功使第一軸旋轉，所以還每有製作wink。</li>
-<li>
-<p dir="auto">請建立一個 Wink 檔案, 將 1. 已經完成的 meArm 機械手臂其中的 1 ~ 3 軸 (夾爪除外), 加入 UI 介面 slider, 可以在執行十, 利用滑鼠拖動在各軸的極限位置旋轉 (40%).</p>
-2未完成故無第三</li>
-<li>
-<p dir="auto">完成後請將個人網頁 w13 連結登錄在下列回應, 並簡要說明上課至今的心得.</p>
-</li>
-</ol>
-<p>零件:</p>
-<p><a href="https://drive.google.com/drive/folders/1K5uefYJjCmvRgr2GscDNHck2y8jhL-0d?usp=sharing">https://drive.google.com/drive/folders/1K5uefYJjCmvRgr2GscDNHck2y8jhL-0d?usp=sharing</a></p>
-<h4>組立</h4>
+<p>這學期老師給每人分配了兩樣cad來做使用，讓我不拘泥於使用一種cad來繪圖，我抽到了sw與nx由於之前就很常使用sw所以在操作上沒遇到甚麼問題，但nx不是很常使用的原因以至於無法快速地完成作業，但最後還是漸漸的習慣nx。</p>
+<p>還有使用coppeliasim還操作機械手臂，雖然介面都是英文無法順利完成作業，只能做到自動旋轉，還無法用<span>&nbsp;Slider 0-360 度控制藍色搖桿轉動。</span></p>
+<p><span>跟學習使用wink工具來製作影片。</span></p>
+<p><br><span></span></p>
+<p>solidwork</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/dULhbTEnTU8"></iframe></p>
+<p></p>
+<p>nx</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Nk3f5JrYzdU"></iframe></p>
+<p>wink</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/U7FvZCGXZLw"></iframe></p>
+<p>作業</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/QQmKNA4_ufg"></iframe></p>
+<p><span></span>四連桿</p>
+<p></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -27,13 +24,59 @@ var winkVideoData = {
   },
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/me.mp4" type="video/mp4" /></video>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass1" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923148.github.io/cad2021_hw/downloads/40.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
 <div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p dir="auto"></p>
+<p>sw已經做好零件繪製也組立完成。成功在兩套繪圖軟體中轉動</p>
+<p>meARM組立</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass2" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923148.github.io/cad2021_hw/downloads/me.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button></div>
+</div>
+<p dir="auto">meARM轉動</p>
+<p dir="auto"></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass3" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923148.github.io/cad2021_hw/downloads/5.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>

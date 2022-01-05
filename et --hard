@@ -1,0 +1,285 @@
+[33mcommit ab649076037f2aa4daf8902ae411a3ae0fc5c67d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 61c4d12 d14717e
+Author: mdecourse <mdecourse@gmail.com>
+Date:   Sun Jan 2 20:33:52 2022 +0800
+
+    Merge branch 'main' of https://github.com/mdecourse/cad2021_final
+
+[33mcommit 61c4d123f9d143162e70b1d7fafb3fd86caaa9af[m
+Author: mdecourse <mdecourse@gmail.com>
+Date:   Sun Jan 2 20:32:47 2022 +0800
+
+    complete basic generate_pages.py program
+
+[33mcommit d14717e4c3281dd18f40ba953e2ed8994777ec3c[m
+Merge: c7754ad 8964497
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Sun Jan 2 20:29:29 2022 +0800
+
+    Merge pull request #43 from 40923122/main
+    
+    40923122finish
+
+[33mcommit 8964497ba22d45adf44752a95ed17cf29acbadef[m
+Author: 40923122 <71480201+40923122@users.noreply.github.com>
+Date:   Sun Jan 2 20:25:30 2022 +0800
+
+    40923122finish
+
+[33mcommit c7754ada2260044a3d6dbd8eba7e6ab882f4e72e[m
+Merge: c041053 318e932
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Sun Jan 2 17:55:47 2022 +0800
+
+    Merge pull request #42 from 40923111/main
+    
+    40923111 test
+
+[33mcommit 318e93231dbf1f09db2a30baedb6860d7beba0b3[m
+Author: 40923111 <40923111@gm.nfu.edu.tw>
+Date:   Sun Jan 2 17:54:19 2022 +0800
+
+    test
+
+[33mcommit c0410536a63ddb2bdb199ace5b15824e556bdeba[m
+Merge: d4ef12b a8aa1ca
+Author: 40923125 <40923125@gm.nfu.edu.tw>
+Date:   Sat Jan 1 17:34:53 2022 +0800
+
+    student ID
+
+[33mcommit d4ef12b402583c7a35671db2d943a60488b984c1[m
+Author: 40923125 <40923125@gm.nfu.edu.tw>
+Date:   Sat Jan 1 17:33:06 2022 +0800
+
+    student ID
+
+[33mcommit a8aa1ca39f5496f8416f04779e5d89e4018162e2[m
+Merge: 843bf82 14302e9
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Sat Jan 1 16:31:32 2022 +0800
+
+    Merge pull request #41 from jason60714/main
+    
+    edit final summary
+
+[33mcommit 14302e9c002e0963fc187eb18f860b1ce6cfd2bd[m
+Author: jason60714 <jason910807@gmail.com>
+Date:   Sat Jan 1 14:18:17 2022 +0800
+
+    edit final summary photo 0101-5
+
+[33mcommit a62c764e7e9f7a9b5f3b5fb846e38c456a9e90b3[m
+Author: jason60714 <jason910807@gmail.com>
+Date:   Sat Jan 1 14:15:48 2022 +0800
+
+    edit final summary photo 0101-4
+
+[33mcommit eeeb1ba4615566785b78e79677545cd4c8b9fcc4[m
+Author: jason60714 <jason910807@gmail.com>
+Date:   Sat Jan 1 14:13:00 2022 +0800
+
+    edit final summary photo 0101-3
+
+[33mcommit a3c4846b6391f461aaa6709da2d434105c45fbe0[m
+Author: jason60714 <jason910807@gmail.com>
+Date:   Sat Jan 1 14:07:56 2022 +0800
+
+    edit final summary 0101-2
+
+[33mcommit 43ca6b83db32555728c05b61d5f1729fab9b38a7[m
+Merge: e098c0b 843bf82
+Author: jason60714 <91652322+jason60714@users.noreply.github.com>
+Date:   Sat Jan 1 14:05:24 2022 +0800
+
+    Merge branch 'mdecourse:main' into main
+
+[33mcommit e098c0bf58eb77e881f6b3975ea01f1591775418[m
+Author: jason60714 <jason910807@gmail.com>
+Date:   Sat Jan 1 14:04:45 2022 +0800
+
+    edit final summary 0101-1
+
+[33mcommit 843bf82943bad36f92ea0441d7fe99f98d4cbee8[m
+Merge: 6166c98 348bc97
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Sat Jan 1 11:40:48 2022 +0800
+
+    Merge pull request #40 from jason60714/main
+    
+    20220101 test
+
+[33mcommit 348bc97159e468a3dd26b30cdc793cb589c27480[m
+Author: jason60714 <jason910807@gmail.com>
+Date:   Sat Jan 1 11:39:59 2022 +0800
+
+    20220101 test
+
+[33mcommit 6166c98e7166f0252e0b3f2ae8c6d2634d3b1ef7[m
+Merge: 5575af9 b2fd88f
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Fri Dec 31 16:25:56 2021 +0800
+
+    Merge pull request #39 from 40923116/main
+    
+    40923116 test
+
+[33mcommit b2fd88ff3e3b2830d221b33a14f13fddaaedd480[m
+Author: 40923129 <40923129@gm.nfu.edu.tw>
+Date:   Fri Dec 31 16:21:31 2021 +0800
+
+    1231 test
+
+[33mcommit 5575af9f43ae7be265cd1f783a67484e5d7aaf58[m
+Merge: 433c842 c0f0f63
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Fri Dec 31 13:44:12 2021 +0800
+
+    Merge pull request #38 from jason60714/main
+    
+    40923115 final page
+
+[33mcommit c0f0f6357d3447dbef0ffb76027069d1eef58ef3[m
+Author: jason60714 <91652322+jason60714@users.noreply.github.com>
+Date:   Fri Dec 31 13:41:37 2021 +0800
+
+    40923115 final page
+
+[33mcommit 433c842b6fcdf46067317d0632e0cb8e1e830bce[m
+Merge: 1ec1d9f 8def59d
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Thu Dec 30 20:50:14 2021 +0800
+
+    Merge pull request #37 from 40923129/main
+    
+    新增h3組員標題
+
+[33mcommit 8def59df4b7289ae6a1b07aaf8c5475bf5e400b7[m
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Thu Dec 30 20:46:47 2021 +0800
+
+    Add files via upload
+
+[33mcommit 0fbf15ed01e2334058749a0162105be29c91d041[m
+Merge: c99c721 1ec1d9f
+Author: 40923129 <40923129@gm.nfu.edu.tw>
+Date:   Thu Dec 30 20:46:06 2021 +0800
+
+    Merge branch 'main' of https://github.com/40923129/cad2021_final
+
+[33mcommit c99c7210473edad9c6a1b856404d8e89d19918a8[m
+Author: 40923129 <40923129@gm.nfu.edu.tw>
+Date:   Thu Dec 30 20:45:52 2021 +0800
+
+    1230 final 2ag5 page
+
+[33mcommit 1ec1d9f81e1d6f353c61ac3e22491844f4515699[m
+Merge: fbe28b5 51e943f
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Thu Dec 30 14:27:38 2021 +0800
+
+    Merge pull request #36 from 40923129/main
+    
+    test 40923129
+
+[33mcommit 351c99061dd72cc0b5ddad9f49adbab09fd1bec9[m
+Author: 40923129 <40923129@gm.nfu.edu.tw>
+Date:   Thu Dec 30 14:26:36 2021 +0800
+
+    1230test
+
+[33mcommit 51e943fdee5a0f223b28726b8e7b563f8175af2b[m
+Author: lin <71478694+40923129@users.noreply.github.com>
+Date:   Thu Dec 30 14:26:33 2021 +0800
+
+    Add files via upload
+
+[33mcommit fbe28b5c3b981c4f7bbfde3c7bce06e9714acae3[m
+Merge: c95b801 d099895
+Author: nfu40923209 <91604388+nfu40923209@users.noreply.github.com>
+Date:   Thu Dec 30 12:43:48 2021 +0800
+
+    Merge pull request #35 from 40923204/main
+    
+    40923204_html.txt
+
+[33mcommit c95b80180e65c4dc34d7db309b8ef104e68cda12[m
+Merge: 2ed1a65 f6b4812
+Author: 40923252 <71626768+40923252@users.noreply.github.com>
+Date:   Thu Dec 30 11:52:41 2021 +0800
+
+    Merge pull request #33 from 40923252/main
+    
+    40923252_html.txt
+
+[33mcommit 2ed1a6534136d0926f997c03d1f25098721f60ae[m
+Merge: 015be00 9c717e8
+Author: nfu40923209 <91604388+nfu40923209@users.noreply.github.com>
+Date:   Thu Dec 30 11:52:22 2021 +0800
+
+    Merge pull request #34 from nfu40923209/main
+    
+    40923209_html.txt
+
+[33mcommit 9c717e87d12e7d146abae3bfa522e49b80f59e7f[m
+Merge: 10d10f8 6d30c50
+Author: nfu40923209 <91604388+nfu40923209@users.noreply.github.com>
+Date:   Thu Dec 30 11:48:35 2021 +0800
+
+    Merge pull request #2 from youshin40923203/main
+    
+    youshin40923203_html.txt
+
+[33mcommit 015be009f8814ac23fc3efc6df8fb43aebda54ce[m
+Author: 40923223 <71627722+40923223@users.noreply.github.com>
+Date:   Thu Dec 30 11:47:49 2021 +0800
+
+    Delete 40823117_html.txt
+
+[33mcommit d6261e4e54de93998757698d5cbbc31351970756[m
+Merge: 308242a 10d10f8
+Author: nfu40923209 <91604388+nfu40923209@users.noreply.github.com>
+Date:   Thu Dec 30 11:46:36 2021 +0800
+
+    Merge pull request #32 from nfu40923209/main
+    
+    40923209_html.txt
+
+[33mcommit 10d10f8a8385abd35cbac056c313b146ef2937e3[m
+Merge: 1a95c8a 8fae148
+Author: nfu40923209 <91604388+nfu40923209@users.noreply.github.com>
+Date:   Thu Dec 30 11:41:45 2021 +0800
+
+    Merge pull request #1 from 40923207/main
+    
+    final_add
+
+[33mcommit 308242a763ee97801e1008e598ebfe2316145e13[m
+Merge: 58f57fa a8c5c2c
+Author: 40923223 <71627722+40923223@users.noreply.github.com>
+Date:   Thu Dec 30 11:38:56 2021 +0800
+
+    Merge pull request #19 from 40923221/main
+    
+    40923221_html.txt
+
+[33mcommit 58f57fa25b2f91c5d2b6449834657b8938928352[m
+Merge: 89931ec 48325f6
+Author: 40923223 <71627722+40923223@users.noreply.github.com>
+Date:   Thu Dec 30 11:38:46 2021 +0800
+
+    Merge pull request #20 from 40923243/main
+    
+    40923243_html.txt
+
+[33mcommit 89931eca7c071f68e9ddf76ab5dd760de77d334f[m
+Merge: bad5808 224740a
+Author: 40923223 <71627722+40923223@users.noreply.github.com>
+Date:   Thu Dec 30 11:38:09 2021 +0800
+
+    Merge pull request #18 from 40923223/main
+    
+    40923223_html.txt
+
+[33mcommit bad5808baad0d4eef6ef1fc55dd8a14b11a11e30[m
+Merge: 886dacd 0

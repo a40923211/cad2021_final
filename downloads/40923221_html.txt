@@ -1,0 +1,113 @@
+<h3>40923221</h3>
+<p><span _mstmutation="1">這次我是使用Inventor跟Soildworks這兩套軟體以前就想要學習了，但是一直沒有機會拿到軟體及有學習的機會，經由這次的課程，我學會了這套軟體的基本操作，在之後也準備考取丙級執照，這次的使用也讓我更加有自信。</span></p>
+<p><span _mstmutation="1"><span>Inventor的繪圖過程：</span></span></p>
+<p><span _mstmutation="1"><span>&nbsp;</span></span></p>
+<p><span style="background-color: #ffff99;"></span></p>
+<p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/0haSKU5-3vM" title="YouTube video player"></iframe></p>
+<hr>
+<p>Soildworks的繪圖過程：</p>
+<p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/5Xo7xzk5HRE" title="YouTube video player"></iframe></p>
+<hr>
+<p>CoppeliaSim初體驗：</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923221.github.io/cad2021_hw/downloads/1move.mp4" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
+<source src="./../downloads/1move.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<hr>
+<p>CoppeliaSim作業完成：</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923221.github.io/cad2021_hw/downloads/HW13-3.mp4" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
+<source src="./../downloads/HW13-3.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<hr>
+<p>連趕繪製過程：</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923221.github.io/cad2021_hw/downloads/1208.mp4" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
+<source src="./../downloads/1208.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<hr>
+<p>連桿運動過程：</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923221.github.io/cad2021_hw/downloads/1206.mp4" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
+<source src="./../downloads/1206.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
