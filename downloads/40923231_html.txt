@@ -1,7 +1,9 @@
-<h3>40923201</h3>
-<p></p>
-<p>連桿機構CoppeliaSim運轉</p>
-<p>
+<h3>40923231</h3>
+<p>Final Project</p>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><span style="background-color: #ffff99;"></span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8"></a>零件</p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -12,20 +14,23 @@ var winkVideoData = {
   },
 };
 // ]]></script>
-</p>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="static" data-varname="winkVideoData" source="" src="https://40923201.github.io/cad2021_hw/downloads/coppeliasim%E5%BD%B1%E7%89%87.mp4" type="video/mp4" video=""></video>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923231.github.io/cad2021_hw/downloads/in.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
 <div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<p>連桿繪製過程及組合</p>
-<p>
+<p>-----------------------------------------</p>
+<p>多連桿</p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -36,8 +41,8 @@ var winkVideoData = {
   },
 };
 // ]]></script>
-</p>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" source="" src="https://40923201.github.io/cad2021_hw/downloads/inventor%E5%BD%B1%E7%89%87.mp4" type="video/mp4" video=""></video>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923231.github.io/cad2021_hw/downloads/%E5%85%AB%E9%80%A3%E6%A1%BF%E5%8B%95%E5%8B%95.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
