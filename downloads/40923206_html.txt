@@ -79,6 +79,7 @@ var winkVideoData = {
 <li>貼到網站原始碼中，即可完成</li>
 </ol>
 </ol>
+<p>&lt;script&gt;<br>var winkVideoData = {<br> dataVersion: 1,<br> frameRate: 20,<br> buttonFrameLength: 10,<br> buttonFrameOffset: 5,<br> frameStops: {<br> },<br>};<br>&lt;/script&gt;<br> &lt;div class="winkVideoContainerClass"&gt;&lt;video <span style="background-color: #ffff00;">width="1344"height="756"</span><br> &lt;video class="winkVideoClass" data-varname="winkVideoData" data-dirname="/static"&gt;<br> &lt;source src="/downloads/<span style="background-color: #ff9900;">Wink01</span>.mp4" type="video/mp4"&gt;<br> &lt;/video&gt;<br> &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarClass"&gt;<br> &lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt;<br> &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;<br> &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;<br> &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;</p>
 <p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <ol>
 <ol>
