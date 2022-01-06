@@ -1,2 +1,28 @@
-<h3>40923249-1</h3>
-<p>期末報告<p>
+<h3>40923249</h3>
+<p><a href="https://youtu.be/q0MujZfgTKA">繪圖及組裝</a></p>
+<p><a href="https://drive.google.com/drive/folders/1Hq-Bn1DGRqSVk6wWqbxv5mbmi4UqWnTA?usp=sharing">零件檔案</a></p>
+<p><a href="https://drive.google.com/drive/folders/1y3gcgGxDuTk3tHn8XwaoMjLP-CXv9rNs?usp=sharing">零件檔stl</a></p>
+<p>心得: 這學期老師上課導入了wink跟coppeliasim搭配高中學過的一些繪圖軟體，可以一邊複習又可以學習新東西，但這兩個軟體操作有點繁瑣需要再花多一些時間熟悉。</p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923249-1.github.io/cad2021_hw/downloads/11111.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
