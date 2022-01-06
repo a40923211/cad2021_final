@@ -1,2 +1,36 @@
 <h3>40923226</h3>
-<p>期末報告<p>
+<p>心得:</p>
+<p>&nbsp; 這學期碰觸到了些新的繪圖程式，而我被分配到的是onshape還有inventor，簡單的繪圖就像下面影片所做，onshape的話可直接畫在同一個圖檔接下來直接在裡面組裝即可。inventor的話，需新創一個組合件，再把要用零件全部匯入即可組裝。</p>
+<p>&nbsp; 接下來思考各軸與各軸的運動關係，然後想辦法讓他做動，還有直線運動、旋轉運動等等，onshape我是用圓柱結合和平面結合所去組成，inventor則是用約束裡面的貼合和插入去組，過程非常困難，但是組起來可以說很有成就感。</p>
+<p>&nbsp; 還有重點就是在coppeliasim裡都是英文，是平常幾乎看不到的單字讓我非常頭痛，不過這也讓我花時間去翻譯去學習。過程中，需插入軸，並將它定位，定位完後合併零件，再更改程式就差不多了。</p>
+<p>零件檔:<a href="https://drive.google.com/drive/folders/1JYKKdiOHVzTR8SJaAc1mNlDM9UagbAoz?usp=sharing">https://drive.google.com/drive/folders/1JYKKdiOHVzTR8SJaAc1mNlDM9UagbAoz?usp=sharing</a></p>
+<p></p>
+<p>繪圖過程:<a href="https://www.youtube.com/watch?v=gJJvBSnFo54">https://www.youtube.com/watch?v=gJJvBSnFo54</a></p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/gJJvBSnFo54"></iframe></p>
+<p></p>
+<p>組裝影片:<a href="https://www.youtube.com/watch?v=tq-kHz-yLA8">https://www.youtube.com/watch?v=tq-kHz-yLA8</a></p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/tq-kHz-yLA8"></iframe></p>
+<p></p>
+<p>---------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923226.github.io/cad2021_hw/downloads/123.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
