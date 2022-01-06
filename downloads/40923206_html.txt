@@ -51,6 +51,7 @@ var winkVideoData = {
 </div>
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
 <p>期末零件組裝放入coppeliaSim並轉動</p>
+<p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/LAdkN6RbD-k"></iframe></p>
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
 <p>學習心得:</p>
 <p>一.新學習到的錄製軟體Wink</p>
@@ -72,8 +73,11 @@ var winkVideoData = {
 <li>電腦下方會出現一個Wink的圖示，按右鍵選擇Start Timed Capture</li>
 <li>錄製完後再對圖示按右鍵，選擇Finish&nbsp;<span>Capture</span></li>
 <li><span>等待一會兒Wink頁面會出現即可編輯影片</span></li>
-<li><span>編輯完成後</span></li>
+<li><span>編輯完成後點選上方綠色箭頭，完成後再點選綠色鍵頭旁的地球</span></li>
+<li><span>確認影片成功後複製下方原始碼，將黃底的更改成自訂的大小，橘底更改成自己影片存的名稱</span><span></span></li>
+<li>貼到網站原始碼中，即可完成</li>
 </ol>
+<p>&lt;script&gt;<br>var winkVideoData = {<br> dataVersion: 1,<br> frameRate: 20,<br> buttonFrameLength: 10,<br> buttonFrameOffset: 5,<br> frameStops: {<br> },<br>};<br>&lt;/script&gt;<br> &lt;div class="winkVideoContainerClass"&gt;&lt;video width="<span style="background-color: #ffff00;">1344</span>"height="<span style="background-color: #ffff00;">756</span>"<br> &lt;video class="winkVideoClass" data-varname="winkVideoData" data-dirname="/static"&gt;<br> &lt;source src="/downloads/<span style="background-color: #ff9900;">w13</span>.mp4" type="video/mp4"&gt;<br> &lt;/video&gt;<br> &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarClass"&gt;<br> &lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt;<br> &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;<br> &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;<br> &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;</p>
 <p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
 <source src="/downloads/Wink01.mp4" type="video/mp4" /></video>
@@ -88,11 +92,7 @@ var winkVideoData = {
 <p></p>
 <p></p>
 <p>二.四連桿</p>
-<ol>
-<li>各<span>零件尺寸圖</span>與<span>&nbsp;</span><span>3D 零件檔案</span>, 請放入各學員的倉儲中並在 W11 標題 H2 頁面中<span>提供下載</span>.</li>
-<li>請將兩套 CAD<span>&nbsp;</span><span>繪圖過程製作成一份 Wink 影片</span>檔案, 並放入 W11 標題 H2 頁面中..</li>
-<li>請將組立件轉入 CoppeliaSim, 並製作運動<span>模擬場景的過程, 製作成一份 Wink 影片</span>檔案, 並放入個人網頁中的 W11 標題 H2 頁面中.</li>
-</ol>
+<p>尺寸圖</p>
 <p><img alt="" height="608" src="/images/擷取1.PNG" width="163"><img alt="" height="586" src="/images/擷取4.PNG" width="208"><img alt="" height="242" src="/images/擷取.PNG" width="147"><img alt="" height="268" src="/images/擷取2.PNG" width="549"></p>
 <p>---------------------------------------------------------------------------------------------------------------</p>
 <script>// <![CDATA[
@@ -119,55 +119,4 @@ var winkVideoData = {
 </div>
 <p>---------------------------------------------------------------------------------------------------------------</p>
 <p>三.學習到了<span>CoppeliaSim軟體，並了解如何轉入組合件、爆炸組合件、裝馬達和放入程式轉動馬達。</span></p>
-<p>四.meArm 作業所完成的項目:</p>
-<ol>
-<li>
-<p>請建立一個 Wink 檔案說明截至目前所完成的兩套 CAD 零組件繪圖進度 (30%).</p>
-</li>
-<li>
-<p>請建立一個 Wink 檔案, 將 1. 已經完成的 meArm 機械手臂第一軸, 加入<span>&nbsp;</span><a class="link" href="https://www.coppeliarobotics.com/helpFiles/en/simUI-widgets.htm" rel="nofollow noopener noreferrer" target="_blank">https://www.coppeliarobotics.com/helpFiles/en/simUI-widgets.htm</a><span>&nbsp;</span>slider, 可以在執行時, 利用滑鼠拖動旋轉 360 度 (30%).</p>
-</li>
-<li>
-<p>請建立一個 Wink 檔案, 將 1. 已經完成的 meArm 機械手臂其中的 1 ~ 3 軸 (夾爪除外), 加入 UI 介面 slider, 可以在執行時, 利用滑鼠拖動在各軸的極限位置旋轉 (40%).</p>
-</li>
-</ol>
-<p></p>
-<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/w13.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button><span>&nbsp;</span><button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<p>-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/123.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button><span>&nbsp;</span><button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<p>-----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/w13-2.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button><span>&nbsp;</span><button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
 <p></p>
