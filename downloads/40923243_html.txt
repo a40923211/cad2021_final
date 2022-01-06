@@ -1,15 +1,70 @@
 <h3>40923243</h3>
-<p>Final Project 佔學期成績 40%</p>
-<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
-<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
-<p>彈性製造系統場景設計與製作</p>
-<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
-<p>彈性製造系統內容說明</p>
-<h4>範例:</h4>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player"></iframe></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player"></iframe></p>
-<script src="https://mde.tw/cp2021/cmsimde/static/Cango-24v03-min.js"></script>
-<script src="https://mde.tw/cp2021/cmsimde/static/gearUtils-09.js"></script>
-<script src="https://mde.tw/cp2021/cmsimde/static/SVGpathUtils-6v03-min.js"></script>
-<script src="https://mde.tw/cp2021/cmsimde/static/sylvester.js"></script>
-<script src="https://mde.tw/cp2021/cmsimde/static/PrairieDraw.js"></script>
+<p>在這學期學到了Solidworks和Solvespace這兩套繪圖軟體，Solidworks在畫圖及零件組合方面已經可以自由運用了，但Solvespace在零件組合的部分還不太清楚如何操作。</p>
+<hr>
+<p>Solidworks畫圖過程:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/UzFOvf8aWx8"></iframe></p>
+<p>Solvespace畫圖過程:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/WOAz2yIsUNc"></iframe></p>
+<hr>
+<p>在這堂課學到的Coppeliasim是目前最難的東西，把STL檔案轉入都沒有什麼問題，只是在Coppeliasim的模擬組合過程有遇到許多問題，像是UI的設定要修改許多地方才能順利運動</p>
+<p>第一軸模擬:</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923243.github.io/cad2021_hw/downloads/w13-2.mp4" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
+<source src="./../downloads/w13-2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>第二 三軸模擬:</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="https://40923243.github.io/cad2021_hw/downloads/w13-3.mp4" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
+<source src="./../downloads/w13-2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<hr>
+<p>W16考試內容 2022/01/06</p>
+<p></p>
+<p>畫圖過程:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6qmeBfkQUo0"></iframe></p>
+<p></p>
+<p>轉入Coppeliasim過程:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/CaH4suvhYKU"></iframe></p>
+<p></p>
+<p>在Coppeliasim中組合模擬過程:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/AqZGdU4X5TU"></iframe></p>
+<p></p>
+<p>Coppeliasim的UI介面控制操作:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Zj2znxXqmW0"></iframe></p>
+<p>考試心得:這次考試的題目和之前的作業截然不同，在Coppeliasim裡面組合模擬時有遇到許多問題，例如對於用<span style="color: #ff0000;">dummy</span>去做限制的功能還不太熟悉，在經過同學的幫助下也慢慢了解如何使用。</p>
+<hr>
+<p>Solidworks零件圖檔下載(SPD檔): <a href="/downloads/所有零件">全部零件</a></p>
+<p>Coppeliasim組合零件下載:<a href="/downloads/w16.ttt">組合件</a></p>
+<p></p>
