@@ -1,2 +1,8 @@
 <h3>40923245</h3>
-<p>期末報告<>
+<p>Onshape零件繪製+組裝</p>
+<p><iframe width="560" height="315" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/VE03YEsTj9w"></iframe></p>
+<p><span>CoppeliaSim作動</span></p>
+<p><span><iframe width="560" height="315" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/-wkhHOzM80s"></iframe></span></p>
+<p>心得:這次的功課學到了如何運用CoppeliaSim及裡面的Dummy，在不太熟悉的情況下問了班上實力較強的同學以及組長，幫助了我許多，希望之後的我能夠越來越順利並且熟能生巧。也因為這次的功課使我更加熟悉Onshape</p>
+<p></p>
+<p></p>
