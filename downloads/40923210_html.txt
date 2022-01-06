@@ -2,6 +2,7 @@
 <p>Final Project 佔學期成績 40%</p>
 <p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
 <p>繪圖過程及組裝<br><span style="background-color: #ffff99;"></span></p>
+<p><a href="https://www.youtube.com/watch?v=Y0vp08faQ_Y">https://www.youtube.com/watch?v=Y0vp08faQ_Y</a><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Y0vp08faQ_Y"></iframe></p>
 <p><a href="https://github.com/mdecourse/cad2021/discussions/8"></a></p>
 <script>// <![CDATA[
 var winkVideoData = {
@@ -27,6 +28,8 @@ var winkVideoData = {
 </div>
 <p>---------------------------------------------------------------------------------------------</p>
 <p>CoppeliaSim 運動場景</p>
+<p><a href="https://www.youtube.com/watch?v=MIyMs4iAgik">https://www.youtube.com/watch?v=MIyMs4iAgik</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/MIyMs4iAgik"></iframe></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
