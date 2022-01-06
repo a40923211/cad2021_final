@@ -70,4 +70,7 @@ frameStops: {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <p>----------------------------------------------------------------------------------</p>
-
+<p>心得</p>
+<p>這學期學到了Invertor跟Solvespace的操作方法，也學會Coppeliasim，中間還遇到很多同學倉儲崩潰</p>
+<div class="winkVideoControlBarProgressThumbClass">的，我也解決了他們的問題，現在也有最後的分組合作，擔任組長同意組員的pull request，最後我認為依靠之前所學的，我可以建造一個屬於自己的Github倉儲與網站。</div>
+<div class="winkVideoPlayOverlayClass"></div>
