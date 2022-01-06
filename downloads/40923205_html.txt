@@ -1,5 +1,70 @@
 <h3>40923205</h3>
-<p>Final Project 佔學期成績 40%</p>
-<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
-<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
-<p>彈性製造系統場景設計與製作</p>
+<h5><span style="background-color: #ffff99;"><strong>零件圖</strong></span></h5>
+<p><img alt="" height="169" src="https://40923205.github.io/cad2021_hw/images/1.png" width="300"></p>
+<p><img alt="" height="169" src="https://40923205.github.io/cad2021_hw/images/2.png" width="300"></p>
+<p><img alt="" height="169" src="https://40923205.github.io/cad2021_hw/images/3.png" width="300"></p>
+<p><img alt="" height="169" src="https://40923205.github.io/cad2021_hw/images/4.png" width="300"></p>
+<p><img alt="" src="https://40923205.github.io/cad2021_hw/images/5.png" width="300"></p>
+<p><img alt="" src="https://40923205.github.io/cad2021_hw/images/6.png" width="300"></p>
+<p><img alt="" src="https://40923205.github.io/cad2021_hw/images/7.png" width="300"></p>
+<p><img alt="" src="https://40923205.github.io/cad2021_hw/images/8.png" width="300"></p>
+<p><img alt="" src="https://40923205.github.io/cad2021_hw/images/10.png" width="300"></p>
+<p>----------------------------------</p>
+<h5><span style="color: #000000; background-color: #ffff99;"><strong>連桿繪製過程及組合</strong></span></h5>
+<p>YouTube:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/sCy46wkhFgc"></iframe></p>
+<p>Wink:</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/40923205inv.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>----------------------------------</p>
+<h5><span style="background-color: #ffff99;"><strong>連桿機構CoppeliaSim運轉</strong></span></h5>
+<p>YouTube:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/iMlDTBQSkBU"></iframe></p>
+<p></p>
+<p>Wink:</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/40923205copp.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
