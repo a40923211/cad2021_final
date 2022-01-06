@@ -13,7 +13,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/期1.mp4" type="video/mp4" /></video>
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/期1.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -38,7 +38,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/期2.mp4" type="video/mp4" /></video>
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/期2.mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -77,7 +77,7 @@ var winkVideoData = {
 <li><span>確認影片成功後複製下方原始碼，將黃底的更改成自訂的大小，橘底更改成自己影片存的名稱</span><span></span></li>
 <li>貼到網站原始碼中，即可完成</li>
 </ol>
-<p>&lt;script&gt;<br>var winkVideoData = {<br> dataVersion: 1,<br> frameRate: 20,<br> buttonFrameLength: 10,<br> buttonFrameOffset: 5,<br> frameStops: {<br> },<br>};<br>&lt;/script&gt;<br> &lt;div class="winkVideoContainerClass"&gt;&lt;video width="<span style="background-color: #ffff00;">1344</span>"height="<span style="background-color: #ffff00;">756</span>"<br> &lt;video class="winkVideoClass" data-varname="winkVideoData" data-dirname="/static"&gt;<br> &lt;source src="/downloads/<span style="background-color: #ff9900;">w13</span>.mp4" type="video/mp4"&gt;<br> &lt;/video&gt;<br> &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarClass"&gt;<br> &lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt;<br> &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;<br> &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;<br> &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;</p>
+<p>&lt;script&gt;<br>var winkVideoData = {<br> dataVersion: 1,<br> frameRate: 20,<br> buttonFrameLength: 10,<br> buttonFrameOffset: 5,<br> frameStops: {<br> },<br>};<br>&lt;/script&gt;<br> &lt;div class="winkVideoContainerClass"&gt;&lt;video width="<span style="background-color: #ffff00;">1344</span>"height="<span style="background-color: #ffff00;">756</span>"<br> &lt;video class="winkVideoClass" data-varname="winkVideoData" data-dirname="/static"&gt;<br> &lt;source src="https://40923206-1.github.io/cad2021_hw/downloads/Wink01.mp4" type="video/mp4"&gt;<br> &lt;/video&gt;<br> &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarClass"&gt;<br> &lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt;<br> &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;<br> &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;<br> &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;<br> &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;<br> &lt;/div&gt;</p>
 <p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
 <source src="/downloads/Wink01.mp4" type="video/mp4" /></video>
@@ -93,7 +93,7 @@ var winkVideoData = {
 <p></p>
 <p>二.四連桿</p>
 <p>尺寸圖</p>
-<p><img alt="" height="608" src="/images/擷取1.PNG" width="163"><img alt="" height="586" src="/images/擷取4.PNG" width="208"><img alt="" height="242" src="/images/擷取.PNG" width="147"><img alt="" height="268" src="/images/擷取2.PNG" width="549"></p>
+<p><img caption="false" height="608" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%961.PNG" width="163"><img caption="false" height="586" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%964.PNG" width="208"><img caption="false" height="242" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%96.PNG" width="147"><img caption="false" height="268" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%962.PNG" width="549"></p>
 <p>---------------------------------------------------------------------------------------------------------------</p>
 <script>// <![CDATA[
 var winkVideoData = {
@@ -106,7 +106,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/四連.mp4" type="video/mp4" /></video>
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/四連.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -119,4 +119,5 @@ var winkVideoData = {
 </div>
 <p>---------------------------------------------------------------------------------------------------------------</p>
 <p>三.學習到了<span>CoppeliaSim軟體，並了解如何轉入組合件、爆炸組合件、裝馬達和放入程式轉動馬達。</span></p>
+<p><span>四.學習到了Onshape和NX兩個繪圖軟體的操作，Onshape的操作比較了解，NX的操作還需繼續研究。</span></p>
 <p></p>
