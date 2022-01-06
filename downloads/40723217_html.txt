@@ -1,0 +1,29 @@
+<h3>W13</h3>
+<p>---------------------------------</p>
+<p><a href="https://drive.google.com/file/d/1S_39OWmNxG_HsPPH72UZo7P0htLxyP62/view?usp=sharing">四連桿結構繪製檔案(零件檔)</a></p>
+<p><a href="https://drive.google.com/file/d/1qj2hitWgr6edFTRWtZqAgW7nzyi-Qjd6/view?usp=sharing">四連桿結構組合檔</a></p>
+<p><a href="https://drive.google.com/file/d/1y41XFZiV4MqGNXFJCZ5tUugqRoGU6soX/view?usp=sharing">CoppeliaSimEdu繪製檔案</a></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1000" height="600" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/SWwrite.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoControlBarClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------</p>
