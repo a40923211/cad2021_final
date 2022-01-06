@@ -1,0 +1,10 @@
+<h3>40923251</h3>
+<p><strong><img alt="Siemens NX - Wikipedia" src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png"></strong></p>
+<p><strong>NX</strong><span>是</span><strong>Siemens PLM Software</strong><span>公司出品的一個產品工程，可以在產品設計及加工過程提供了數字化造型和驗證手段。</span></p>
+<p><span>NX12優點</span></p>
+<ol>
+<li><span>可以同時顯示多個prt.檔，對於比對、修改或參考2d圖的顯示更加方便。</span></li>
+<li><span>支援多檔案同時修編。</span></li>
+<li><span>在座檔案之間切換，檔案之間的記錄不會被洗掉。</span><span></span></li>
+</ol>
+<p><span></span></p>
