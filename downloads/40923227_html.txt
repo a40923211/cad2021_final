@@ -1,21 +1,28 @@
-<h3>40923227<h3>
-<p><img alt="Onshape &mdash; Dropcopter" height="172" src="https://images.squarespace-cdn.com/content/v1/5f794c441e9a250fb42727e3/1604291197235-LHVSTB2B7ZO2LQBD5VLQ/Onshape-a-ptc-business.png" width="399"></p>
+<h3>40923227</h3>
+<p>這學期抽到了onshape和solidworks，以前都沒有用過這兩種軟體，剛開始時有點不適應，但久了之後就熟悉了。</p>
+<p><img alt="" height="186" src="https://images.squarespace-cdn.com/content/v1/5f794c441e9a250fb42727e3/1604291197235-LHVSTB2B7ZO2LQBD5VLQ/Onshape-a-ptc-business.png" width="431"></p>
 <p>onshape繪製過程</p>
 <p><a href="https://youtu.be/UD4KpnBiO0A">https://www.youtube.com/watch</a></p>
-<p><img alt="Onshape-3D繪圖軟體&ndash; 珩宇老師的生活科技網站" height="226" src="https://i.ytimg.com/vi/zDZiE3_F0pY/maxresdefault.jpg" width="402"></p>
-<p></p>
+<p><img alt="" height="254" src="https://i.ytimg.com/vi/zDZiE3_F0pY/maxresdefault.jpg" width="451"></p>
 <p>solidworks 2017安裝配置</p>
 <p>如下網址</p>
 <p><a href="https://www.youtube.com/watch?v=JjZneJPQr8M&amp;ab_channel=%E9%BB%83%E5%AE%87%E9%99%BD">https://www.youtube.com/watch</a></p>
 <p></p>
 <p>meArm零件壓縮檔</p>
-<p><a href="https://drive.google.com/file/d/1WTFvX6mTW822gXNZ9cmQ4ebpCrkqQ9U9/view?usp=sharing">https://drive.google.com/file/d/1WTFvX6mTW822gXNZ9cmQ4ebpCrkqQ9U9/view?usp=sharing</a></p>
+<p><a href="/downloads/slk零件.7z">/downloads/slk零件.7z</a></p>
+<p>meArm第一軸模擬</p>
+<p><iframe width="968" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/HTHAJSAQT6Q" title="YouTube video player"></iframe></p>
+<p>meArm第三軸模擬</p>
+<p><iframe width="968" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3atzhAnKKOA" title="YouTube video player"></iframe></p>
 <p></p>
 <p>期末零件繪製</p>
 <p><a href="https://youtu.be/94ZwhCNbRoA">https://youtu.be/94ZwhCNbRoA</a></p>
+<p><iframe width="993" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/94ZwhCNbRoA" title="YouTube video player"></iframe></p>
 <hr>
 <p>期末零件組裝+轉檔</p>
 <p><a href="https://youtu.be/D_e8quoHWRc">https://youtu.be/D_e8quoHWRc</a></p>
+<p><iframe width="993" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/D_e8quoHWRc" title="YouTube video player"></iframe></p>
 <hr>
 <p>連桿運動</p>
 <p><a href="https://youtu.be/TLy5pqXPRsc">https://youtu.be/TLy5pqXPRsc</a></p>
+<p><iframe width="1013" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/TLy5pqXPRsc" title="YouTube video player"></iframe>lerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/TLy5pqXPRsc" title="YouTube video player"&gt;</p>
