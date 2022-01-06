@@ -1,0 +1,51 @@
+<h3>40923218</h3>
+<p>我這次抽到的CAD是Inventor和NX 12.0</p>
+<p>NX12.0之前有用過，但是Inventor是我第一次使用，所以我還有很多地方不熟悉，明年六月要考立體丙級要加緊練習。</p>
+<hr>
+<p>NX 12.0繪圖過程如下:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/umxNlEpC-_g" title="YouTube video player"></iframe></p>
+<div class="winkVideoPlayOverlayClass">&nbsp;</div>
+<p>Inventor繪圖過程如下:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/O90ivuHgvow" title="YouTube video player"></iframe></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<hr>
+<p>這是我第一次碰到Coppeliasim這個軟體，目前對於整個結構件要轉入進去目前還不會，只能先用參考件先做模擬，目前夾爪模擬部分也做出來了，下次更新再放上來。</p>
+<p></p>
+<p>第一軸模擬:</p>
+<p></p>
+<p><video width="560" height="315" controls="controls">
+<source src="https://40923218.github.io/cad2021_hw/downloads/First%20axis.mp4" type="video/mp4" /></video></p>
+<p>二、三軸模擬:</p>
+<p></p>
+<p><video width="560" height="315" controls="controls">
+<source src="https://40923218.github.io/cad2021_hw/downloads/%E6%A8%A1%E6%93%AC.mp4" type="video/mp4" /></video></p>
+<hr>
+<p>接下來連桿模擬，因為還沒了解怎麼將結構轉入，所以這是動手將各零件位置拉到定位後再進行模擬。</p>
+<p>繪圖過程(INV):</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/7IZEqd6TQh0" title="YouTube video player"></iframe></p>
+<div class="winkVideoPlayOverlayClass">&nbsp;</div>
+<p><spawn></spawn></p>
+<p>繪圖過程(NX12.0):</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ztfLbpMuRY4" title="YouTube video player"></iframe></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<p></p>
+<p><spawn></spawn></p>
+<p>模擬過程:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/7HNwKBqgHk4" title="YouTube video player"></iframe></p>
+<div class="winkVideoPlayOverlayClass"></div>
+<p></p>
+<hr>
+<p>W16周考試內容</p>
+<p>繪圖過程:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QKcuk6kozTI" title="YouTube video player"></iframe></p>
+<p>組立過程</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/GwZZ5y_vo_E" title="YouTube video player"></iframe></p>
+<p>轉入過程and組立</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Y_V1xHcg88s" title="YouTube video player"></iframe></p>
+<p>模擬過程</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wMlw2eTw67Q" title="YouTube video player"></iframe></p>
+<p>本次考試心得:</p>
+<p>這次的題目，最大的問題就是我不知道如何轉入，經過摸索之後，我已經習的這塊最後的拼圖了，接著連結前面所學的，繪圖、組立、轉入、模擬串聯起來，謝謝老師，我學會這項軟體的基礎了</p>
+<hr>
+<p>總結:</p>
+<p>這學期碰到了許多新東西，希望對下學期的協同設計有幫助。</p>
