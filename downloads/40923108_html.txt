@@ -1,6 +1,21 @@
 <h3>40923108</h3>
 <p>自選 CAD 套件, 完成零組件繪圖後, 轉入 CoppeliaSim, 以 Slider 0-360 度控制藍色搖桿轉動<em>.</em></p>
 <p>零件繪製：</p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/1.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/2.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/3.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/4.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/5.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/6.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/7.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/8.png" width="850"></p>
+<p><img alt="" height="478" src="https://40923108.github.io/cad2021_hw/images/9.png" width="850"></p>
 <p></p>
-<p></p>
-<p></p>
+<p>-------------------------------------------------------------------------------------------------------</p>
+<p>學期被分配到 solvespace、onshape</p>
+<p>solvespace下載繪圖：</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/vOUEuf1r1Y0"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/umXKjHe8JaE"></iframe></p>
+<p>onshap下載和繪圖：</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/wwo_z3CrS18"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/_G4Q2V4uqYc"></iframe></p>

@@ -1,0 +1,289 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>Final Project</title>
+        <meta charset="utf-8">
+<meta property="head" content="H3">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+        
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <!-- for Wink3 -->
+        <link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css" />
+        <script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"></script>
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDiff.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushRust.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container-fluid'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container-fluid">
+                <div class="row align-items-center">
+                <h1>2021 電腦輔助設計實習課程期末評分網站</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">2021 電腦輔助設計實習課程期末評分網站</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li><a href='About.html'>About</a><li><a href='Final Project-1.html'>Final Project-1</a><li><a href='Notice.html'>Notice</a><li class='has-children'><a href='2a.html'>2a</a><ul class='dropdown'><li class='has-children'><a href='2ag1.html'>2ag1</a><ul class='dropdown'><li><a href='40923156.html'>40923156</a><li><a href='40923108.html'>40923108</a><li><a href='40923101.html'>40923101</a></li></ul><li class='has-children'><a href='2ag2.html'>2ag2</a><ul class='dropdown'><li><a href='40923107.html'>40923107</a></li></ul><li class='has-children'><a href='2ag3.html'>2ag3</a><ul class='dropdown'><li><a href='40923148.html'>40923148</a></li></ul><li class='has-children'><a href='2ag4.html'>2ag4</a><ul class='dropdown'><li><a href='40923146.html'>40923146</a><li><a href='40923129.html'>40923129</a><li><a href='40923122.html'>40923122</a><li><a href='40923115.html'>40923115</a><li><a href='40923111.html'>40923111</a></li></ul><li class='has-children'><a href='2ag5.html'>2ag5</a><ul class='dropdown'><li><a href='40923151.html'>40923151</a><li><a href='40923123.html'>40923123</a></li></ul><li><a href='2ag6.html'>2ag6</a><li><a href='2ag7.html'>2ag7</a></li></ul><li class='has-children'><a href='2b.html'>2b</a><ul class='dropdown'><li class='has-children'><a href='2bg1.html'>2bg1</a><ul class='dropdown'><li><a href='40923217.html'>40923217</a><li><a href='40923210.html'>40923210</a><li><a href='40923205.html'>40923205</a><li><a href='40923201.html'>40923201</a></li></ul><li class='has-children'><a href='2bg2.html'>2bg2</a><ul class='dropdown'><li><a href='40923209.html'>40923209</a><li><a href='40923207.html'>40923207</a><li><a href='40923204.html'>40923204</a><li><a href='40923203.html'>40923203</a></li></ul><li class='has-children'><a href='2bg3.html'>2bg3</a><ul class='dropdown'><li><a href='40923252.html'>40923252</a><li><a href='40923216.html'>40923216</a><li><a href='40923206.html'>40923206</a></li></ul><li class='has-children'><a href='2bg4.html'>2bg4</a><ul class='dropdown'><li><a href='40923250.html'>40923250</a><li><a href='40923243.html'>40923243</a><li><a href='Final Project-2.html'>Final Project-2</a><li><a href='40923227.html'>40923227</a><li><a href='40923223.html'>40923223</a><li><a href='40923221.html'>40923221</a><li><a href='40923218.html'>40923218</a><li><a href='Final Project-3.html'>Final Project-3</a></li></ul><li class='has-children'><a href='2bg5.html'>2bg5</a><ul class='dropdown'><li><a href='40923253.html'>40923253</a><li><a href='40923251.html'>40923251</a><li><a href='40923237.html'>40923237</a><li><a href='40923234.html'>40923234</a><li><a href='40923229.html'>40923229</a><li><a href='40923212.html'>40923212</a></li></ul><li class='has-children'><a href='2bg6.html'>2bg6</a><ul class='dropdown'><li><a href='40923246.html'>40923246</a><li><a href='W13.html'>W13</a></li></ul><li class='has-children'><a href='2bg7.html'>2bg7</a><ul class='dropdown'><li><a href='40923220.html'>40923220</a></li></ul><li class='has-children'><a href='2bg8.html'>2bg8</a><ul class='dropdown'><li><a href='40871106.html'>40871106</a><li><a href='40823122.html'>40823122</a><li><a href='40823117.html'>40823117</a><li><a href='40823115.html'>40823115</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+          
+        </header>
+    <div id="tipue_search_content">2ag1 << <a href='2ag1.html'>Previous</a> <a href='40923108.html'>Next</a> >> 40923108<br /><h1>40923156</h1>
+<p>當倉儲網站發生404問題的排解方法</p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/1101-4.png" width="500"/></p>
+<p><strong>1-先到D槽找到DATA</strong></p>
+<p><strong></strong></p>
+<p><strong><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/1101-5.png" width="500"/><br/></strong></p>
+<p><strong>2-然後再進到tmp</strong></p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/1101-3.png" width="500"/></p>
+<p><strong>3-cad2021_hw</strong></p>
+<p><strong><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/1101-2.png" width="500"/></strong></p>
+<p><strong></strong><strong>4-點選config</strong></p>
+<p><strong><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/1101-1.png" width="500"/></strong></p>
+<p><strong>5-  新增  &lt;h1&gt;solvespace&lt;/h1&gt;</strong></p>
+<p><strong>並且把原原本的&lt;h1&gt;的部分換成&lt;h2&gt; 然後 save 就完成了。</strong></p>
+<p><strong></strong></p>
+<p><img alt="" src="https://zhilin-0817.github.io/cad2021_hw/content/%E6%9C%80%E7%B5%82%E9%A0%85%E7%9B%AE.html" width="500"/><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/1101-6.png" width="500"/></p>
+<p><strong>最後記得把動態轉成靜態 -完成 。</strong></p>
+<p>指令步驟</p>
+<p><span style="background-color: #ffff99;">1-   cd tmp</span></p>
+<p><span style="background-color: #ffff99;"><strong></strong>2-   cd cad2021_hw</span></p>
+<p><span style="background-color: #ffff99;">3-   cms</span></p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/%E6%9C%AA%E5%91%BD%E5%90%8D.png" width="500"/></p>
+<p><span style="background-color: #ffff99;">4- 打完上述指令會得到<span> </span><strong><a href="/" style="background-color: #ffff99;">https://127.0.0.1:9444/</a></strong></span></p>
+<p><span style="background-color: #ffff99;"><strong><img alt="" height="270" src="https://zhilin-0817.github.io/cad2021_hw/images/login.png" width="500"/></strong></span></p>
+<p><span style="background-color: #ffff99;">5- 進到網站選 login<span> </span><strong>密碼: admin</strong></span></p>
+<p>解說設定wink</p>
+<p><strong>1-先進到data開啟已經下載好的wink</strong></p>
+<p><strong>然後進到wink工具列</strong></p>
+<p><b>打開preferences </b></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1122-1.png" width="500"/></p>
+<p><strong>2-在data裡找到已下載的shareX-portable</strong></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1122-2.png" width="500"/></p>
+<p><strong></strong><strong>3-打開shareX的資料夾</strong></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1122-8.png" width="500"/></p>
+<p><span style="background-color: #ffff00;">solvespace緣起說明與介紹</span></p>
+<p>Slocespace 屬於機械設計軟件 基礎功能跟大多數的機械設計軟件都大同小異。</p>
+<p>功能特性</p>
+<p>1-尺寸驅動的參數化二維草圖系統</p>
+<p>2-尺寸和約束的參數化裝配系統</p>
+<p>3-動態運動仿真功能</p>
+<p>4-PNG預覽圖形倒出的能力</p>
+<p>5-二維圖紙DXF/DWG 格式導入/導出 能力</p>
+<p>6-運動軌跡的捕捉 繪製 數據導出</p>
+<p>7-距離/體積/面積/重心的量測</p>
+<p><span style="background-color: #ffff00;">Inventor緣起說明與介紹</span></p>
+<p>Autodesk inventor 3D CAD  這套軟件為3D機械設計 ，產品模擬，模具建立與設計溝通提供一套彈性的軟體。Inventor能讓設計 視覺化以及模擬產品， 超越3D進化至數位原型製作。同時Inventor 是一套較符合成本效益且較為容易學習的軟件</p>
+<p><span style="background-color: #ff9900;">Inventor數位化原型製作優點</span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">1-在設計流程早期改進協作以及創新</span><br/></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">2-縮短產品設計和開發的生命週期</span></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">3-能更有效的控制設計者的設計資料</span></span></p>
+<p>4-在複雜的環境中有效提升競爭力</p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;"></span></span></p>
+<p><span style="background-color: #ff9900;">主要功能及特色</span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">1-整合直接建模和參數式工作流程</span><br/></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">2-CAD數據整合。使用任何3D CAD 系統中的資料，保持關聯設計連結</span></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">3-iLogic支持規則驅動設計，無須複雜程式即可使用iLogic來標準化和自動化設計流程並且配置設計者的虛擬產品</span></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">4-3D標註與 3D PDF匯出 ，使用3D標註在3D模型中添加公差尺寸 註解和其他工程細節</span></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">5-大型組件效能 改進圖形交互速度加快 大型檔案打開時間縮短 這些都大大提升設計流程的工作效率</span></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;">6-機電整合 連結Inventor 和AutoCAD Electtrical的設計數據達到機電一體化的設計目的</span></span></p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;"></span></span></p>
+<p>每個人會被分配到兩套軟件</p>
+<p>這一套是solvespace</p>
+<p>可參考以下步驟完成下載程序</p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/--1.png" width="500"/><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/--2.png" width="500"/></p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/--4.png" width="500"/></p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/--5.png" width="500"/></p>
+<p>即可啟動solvespace</p>
+<p><img alt="" height="377" src="https://zhilin-0817.github.io/cad2021_hw/images/--7.png" width="500"/></p>
+<p><strong>零組件繪圖進度</strong></p>
+<p><strong>目前用inventor繪製完大部分零件</strong></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1213------.png" width="500"/></p>
+<p><strong></strong></p>
+<p>四連桿組合</p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/%E5%9B%9B%E9%80%A3%E6%A1%BF.png" width="500"/></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1224.png" width="500"/></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/0103-1.png" width="500"/></p>
+<p>零件組裝完成。</p>
+<p>組裝步驟 參考wink影片 ....</p>
+<p>倉儲e-mail</p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1108-4.png" width="500"/></p>
+<p>當倉儲推送平率表發生問題時，需要進一步確認e-mail 是否與綁定帳號相同</p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1108-5.png" width="500"/></p>
+<p>上圖中紅色表格中ZHILIN-0817才是修改過正確的e-mail帳號</p>
+<p><span style="color: #000000; background-color: #ffcc99;"><img alt="" height="238" src="https://zhilin-0817.github.io/cad2021_hw/images/1108-1.png" width="500"/></span></p>
+<p><span style="color: #000000; background-color: #ffcc99;">1-先到資料夾找到data</span></p>
+<p><span style="color: #000000; background-color: #ffcc99;">2-選home_ipv4</span></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1108-2.png" width="500"/></p>
+<p><span style="background-color: #ffcc99;">3-打開小白窗SciTE 將.gitconfig 拉進小白窗進行編輯</span></p>
+<p><img alt="" height="281" src="https://zhilin-0817.github.io/cad2021_hw/images/1108-----.png" width="500"/></p>
+<p><span style="background-color: #ffcc99;">4-將e-mail改成正確的帳號 最後記得save </span></p>
+<div class="winkVideoContainerClass"></div>
+<p>  </p>
+<p><span style="background-color: #ff9900;"><span style="background-color: #ffffff;"> </span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></p><br />2ag1 << <a href='2ag1.html'>Previous</a> <a href='40923108.html'>Next</a> >> 40923108</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        
