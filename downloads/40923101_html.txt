@@ -100,3 +100,57 @@
 <p><strong><span style="background-color: #ccffff;">wink放進網站影片</span></strong></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/TcUFYGTy2Rs"></iframe></p>
 <p></p>
+<p>說明從 1950 年至 2020 年從 2D CAD 至目前常見的 3D 套件發展分別具備哪些功能與特性。</p>
+<p><strong>第一代1946-1958</strong></p>
+<p><strong><span style="background-color: #ffcc99;">使用元件</span></strong>:真空管</p>
+<p><strong><span style="background-color: #99ccff;">軟體</span></strong>:機器語言或組合語言</p>
+<p><img alt="" height="382" src="/images/47.jpg" width="500"></p>
+<p>在1950年代早期的電腦繪圖 (CG，ComputerGraphics) 萌芽初期，</p>
+<p>電腦本身仍屬於初始的技術研發階段，</p>
+<p>大致是應用於科學運算的模擬運作，如<strong>太空飛行</strong>、<strong>軍事演模擬</strong>等</p>
+<p>此時的電腦繪圖僅限於<strong><span style="color: #ff0000;">數字</span><span style="color: #ff0000;">的運算</span></strong>和<strong><span style="color: #ff0000;">科技</span></strong>的使用範圍，</p>
+<p>經過電腦的輸出入方法進一步的發展可以直接處理視覺性的圖形之後，</p>
+<p>電腦開始引起了一些從事藝術工作者的注意，</p>
+<p>於是利用電腦從事藝術創作的活動便逐漸的活躍了起來。</p>
+<p></p>
+<p><strong>第二代1959-1964</strong></p>
+<p><span><span style="background-color: #ffcc99;"><strong>使用元件</strong></span><span>:</span>使用電晶體</span></p>
+<p><span><strong><span style="background-color: #99ccff;">軟體</span></strong><span>:</span>高階語言或等來設計應用程式</span></p>
+<p><span><img alt="" height="396" src="/images/50.jpg" width="500"></span></p>
+<p><span>在1960年代在美國波音公司的研究報告中</span><span>出現了「<span style="color: #ff0000;"><strong>電腦繪圖</strong></span>」。</span></p>
+<p><span>這一時期大部分藝術家停在觀望的腳步，</span></p>
+<p><span>主要電腦繪圖的研究人員仍是科學家，</span></p>
+<p><span>由於在發展的初期電腦繪圖必須由人設計程式的方式展現，</span></p>
+<p><span>操空介面<strong>人性化程度低</strong>，</span></p>
+<p><span>此階段所呈現的作品以<strong>點線面</strong>的變化為主，</span></p>
+<p><span>此時的作品以<strong>數學運算為基礎</strong>，</span></p>
+<p><span>在呈現上非常難以直觀與具體的控制呈現，</span></p>
+<p><span>直到<strong><span style="color: #ff0000;">數位描繪板</span></strong>的發明，</span></p>
+<p><span>電腦繪圖對使用者而言可以說是劃時代的突破。</span></p>
+<p><span></span></p>
+<p><strong>第三代1965-1970</strong></p>
+<p><strong><span style="background-color: #ffcc99;">使用元件</span></strong><span>:</span>使用機體電路IC</p>
+<p><strong><span style="background-color: #99ccff;">軟體</span></strong><span>:</span>繼續發展簡易的<span>高階語言，使用作業系統與套裝軟體是本階段的重要特色</span></p>
+<p><span><img alt="" height="375" src="/images/48.jpg" width="500"></span></p>
+<p><span></span></p>
+<p><strong>第四代1971-今日</strong></p>
+<p><span><strong><span style="background-color: #ffcc99;">使用元件</span></strong><span>:</span>使用大型機體電路LSI或使用超大型機體電路VLSI</span></p>
+<p><span><strong><span style="background-color: #99ccff;">軟體</span></strong><span>:</span>以功能導向接近自然語言的第四代電腦語言<strong></strong></span></p>
+<p><span><img alt="" height="476" src="/images/49.jpg" width="500"></span></p>
+<p><span>1970年代以後，在電子科技的強</span><span>勁發展中產生了功能強大的「<span style="color: #ff0000;"><strong>超大型積體電路</strong></span>」，</span></p>
+<p><span>之後產生的第四代電腦不斷升級發展，</span><strong>個人微電腦時代</strong>已經來臨了，</p>
+<p>此時期由於電腦體積縮小了許多，也不再是高價電腦時代。</p>
+<p><span>自1984年美國蘋果電腦公司發展麥金塔電腦系統以來，</span></p>
+<p><span>短短十年間，設計者對此軟硬體之神奇著迷不已，</span></p>
+<p><span>改變了設計者之思考及工作方式，我們稱為<strong>電腦革命</strong>。</span></p>
+<p><span><strong>多媒體時代</strong>的來臨也是一個明顯的發展，這種<strong>整合科技</strong>應用在藝術上的表現方式，</span></p>
+<p><span>就是把攝影、電影、通訊、視訊、音樂、表演等特殊的專業知識結合電腦一起運用，</span></p>
+<p><span>此時的電腦藝術創作，已經跳離了單人的藝術創作層面，而進入集體創作的型態。</span></p>
+<p><span>現今的電腦繪圖發展多彩多姿，</span></p>
+<p><span><strong>虛擬實境技術發明</strong>、<strong>娛樂遊戲方面</strong>、<strong>設計與藝術方面</strong>、<strong>醫療方面</strong>、<strong>軍事科技方面</strong>等，</span></p>
+<p><span>上述</span><span>只是電腦繪圖在今日的部分應用，</span></p>
+<p><span>電腦繪圖正改變人的圖文傳播與呈現方式，</span></p>
+<p><span>可預期電腦繪圖在未來的發展中，</span></p>
+<p><span>只要是有關圖文的產業發展，</span></p>
+<p><span>絕對是成為非常重要的工具之一，</span></p>
+<p><span>電腦繪圖的發展與知識將會成為在人類歷史中重要的一環。</span></p>
