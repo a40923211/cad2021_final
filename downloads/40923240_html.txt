@@ -69,5 +69,3 @@ frameStops: {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<p>----------------------------------------------------------------------------------</p>
-
