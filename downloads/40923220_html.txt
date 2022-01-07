@@ -1,2 +1,34 @@
 <h3>40923220</h3>
-<p>從 40923240 copy 資料, 誤將 H3 標註打為 H1</p>
+<h1>Final test</h1>
+<p>繪圖過程及組裝</p>
+<p>繪圖放在遠端提供下載</p>
+<p>:<a href="https://drive.google.com/drive/folders/1PuDlVR3GtfOBhYhnzvwgmcxwrJ1vYwnC?usp=sharing">https://drive.google.com/drive/folders/1PuDlVR3GtfOBhYhnzvwgmcxwrJ1vYwnC?usp=sharing</a></p>
+<p dir="auto"></p>
+<p dir="auto">solidwork繪製圖</p>
+<p dir="auto"><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/yf4g9ptXPXc"></iframe></p>
+<p dir="auto">__________________________________________________________________________</p>
+<p dir="auto">CoppeliaSim 運動場景</p>
+<p>------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData">
+<source src="https://40923220.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A9%A6.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得:我覺得coppeliasim對我來說還是稍微困難了點，還需要花費時間來熟悉此軟體，學期比起大一時，學了更多充實的內容，雖然過程真的很辛苦不過完成了一些還是稍微得到了成就感，所以要更努力去理解這門課的內容。</p>
