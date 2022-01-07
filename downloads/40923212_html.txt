@@ -1,4 +1,9 @@
 <h3>40923212</h3>
+<p>1/6考試</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/z6ObqxOczDQ"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/onYftMILr40"></iframe></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/qL0z_NTJ-ik"></iframe></p>
 <p>這學期分配到的cad軟體是nx跟<span>SOLVESPACE。</span></p>
 <p><strong>NX</strong>是<strong>Siemens PLM Software</strong>公司出品的一個產品工程解決方案，它為用户的產品設計及加工過程提供了數字化造型和驗證手段。</p>
 <p>NX這是一個交互式 CAD/CAM(計算機輔助設計與計算機輔助製造)系統，它功能強大，可以輕鬆實現各種複雜實體及造型的建構。</p>
