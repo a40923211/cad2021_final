@@ -44,10 +44,6 @@
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Y_V1xHcg88s" title="YouTube video player"></iframe></p>
 <p>模擬過程</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wMlw2eTw67Q" title="YouTube video player"></iframe></p>
-<p>轉入過程and組立(延伸題)</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/h6s4xeGzLz4" title="YouTube video player"></iframe></p>
-<p>模擬過程(延伸題)</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/tcf4_VcnDO4" title="YouTube video player"></iframe></p>
 <p>本次考試心得:</p>
 <p>這次的題目，最大的問題就是我不知道如何轉入，經過摸索之後，我已經習的這塊最後的拼圖了，接著連結前面所學的，繪圖、組立、轉入、模擬串聯起來，謝謝老師，我學會這項軟體的基礎了</p>
 <hr>
