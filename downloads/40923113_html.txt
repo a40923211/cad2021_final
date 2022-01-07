@@ -1,0 +1,30 @@
+<h3>40923113</h3>
+<h4><span>SolveSpace介紹</span></h4>
+<p><span><span>本項目基於SolveSpace，從2.30版本開始進行代碼重構、修改編譯腳本（只保留Win32支持性）。</span><span>在完成整體漢化工作的基礎之上，有選擇的吸取了原版從2.30至3.0之間的部分補丁，計劃從當前代碼形成全新的項目脫離原項目，根據國內的需求繼續開發。</span></span></p>
+<p><span><span>由於近期反盜版聲勢浩大，許多公司不得不選擇購買正版3D CAD 設計軟件來維持工作， 因此造成很多企業事業單位工作遲滯。</span><span>在這種環境下，SolveSpace 作為開源界一款優秀的3D CAD/CAM 設計軟件，還是應當得到重視.</span></span></p>
+<p><span><span>當前初始提交的版本是基於SolveSpace 2.3 老版本代碼基礎進行修改、漢化的，由於最新官方版SolveSpace 3.0 已經開始趨於臃腫和性能降低、運行卡頓遲滯，因而我們選擇了從作者的初心2.3 版本代碼開始修改。</span><span>在漢化之後，又對後續持續到3.0 版本過程中原作者及其餘開源開發工作參與者進行的各種補丁和改進進行了吸收，捨棄了後續Angle 等庫的引入內容以保持原有的圖形顯示性能。</span><span>同時針對自己使用中遇到的一些程序bug 等問題進行了大量修復和優化。</span></span></p>
+<p><span><span>項目當前的工作計劃，是持續對代碼進行研究、除錯、優化工作，歡迎大家進行Pull Request 和Issue/Request 提交。</span><span>本人期望能拋磚引玉，歡迎大家一同來發現問題、解決問題，提交新的功能和需求，讓本項目在中國生根發芽，形成國產3D CAD 開源軟件的先河。</span></span></p>
+<h4><a class="anchor" href="https://gitee.com/crowraven/SolveSpace#%E5%8A%9F%E8%83%BD%E7%89%B9%E6%80%A7" id="user-content-功能特性"></a><span><span>功能特性</span></span></h4>
+<ol>
+<li><span><span>基於數學原理的實時運動求解系統</span></span></li>
+<li><span><span>尺寸驅動的參數化二維草圖系統</span></span></li>
+<li><span><span>基於尺寸和約束的參數化裝配系統</span></span></li>
+<li><span><span>實時動態運動仿真功能</span></span></li>
+<li><span><span>PNG預覽圖形導出能力</span></span></li>
+<li><span><span>二維圖紙DXF/DWG 格式的導入、導出能力</span></span></li>
+<li><span><span>二維圖紙PDFSTEP/HGPL/G代碼/PostScript/SVG 格式的導出能力</span></span></li>
+<li><span><span>支持STL/HTML/VRML/STEP 三維網格導出能力</span></span></li>
+<li><span><span>運動軌蹟的捕捉、繪製、數據導出</span></span></li>
+<li><span><span>距離/體積/面積/重心的測量能力</span></span></li>
+</ol>
+<h6>CAD2&nbsp;Inventor</h6>
+<div><span>介紹：</span></div>
+<p>Autodesk &nbsp;Inventor 3D 軟體產品提供一整套彈性的 3D 機械設計、產品模擬、模具製作、接單設計和設計溝通軟體。Inventor 讓您製作精確的 3D 模型，輔助產品的設計工作，並在尚未有成品前就展開視覺效果和模擬工作，帶您超越 3D，進入數位化原型製作的領域。Inventor 的數位化原型製作功能讓企業得以提升產品設計水準、降低開發成本，並且加快上市時程。</p>
+<div><span><span>●</span></span><strong>3D&nbsp; 機械設計<span>&nbsp;</span></strong>&mdash; 整合直接建模和參數式工作流程。</div>
+<div><span><span>●</span></span><strong>DWG互用性<span>&nbsp;</span></strong>&mdash; 將 AutoCAD 和 3D 資料安全整合成一個數位模型。</div>
+<div><span><span>●</span></span><strong>大型組件、塑膠零件和板金設計<span>&nbsp;</span></strong>&mdash; 確保您的設計確實可行。</div>
+<div><span><span>●</span></span><strong>設計視覺效果和製造文件<span>&nbsp;</span></strong>&mdash; 讓您與合作廠商以及客戶的合作關係更順利。</div>
+<div><span><span>●</span></span><strong>設計自動化<span>&nbsp;</span></strong>&mdash; 可自動執行重複性的設計工作流程，提高生產力。</div>
+<div><span><span>●</span></span><strong>整合模擬和有限元素分析 (FEA) 功能<span>&nbsp;</span></strong>&mdash; 以數位方式輕鬆模擬、設計最佳作品。</div>
+<div><span><span>●</span></span><strong>配管與佈線系統設計<span>&nbsp;</span></strong>&mdash;&nbsp;簡化電氣系統和複雜粗細管路的設計工作。</div>
+<div><span><span>●</span></span><strong>模具設計與模座元件庫&nbsp;</strong>&mdash; 設計、分析、製造高水準的射出成形模具製品。</div>
