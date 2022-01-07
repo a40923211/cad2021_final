@@ -1,5 +1,0 @@
-<h3>40923223</h3>
-<p>期末連桿繪製</p>
-<p><iframe width="1182" height="665" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3NKMZ-gKSs0" title="YouTube video player"></iframe></p>
-<p><iframe width="1182" height="665" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/XVOikWD1MEQ" title="YouTube video player"></iframe> <iframe width="1182" height="665" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/e4-hCr0899U" title="YouTube video player"></iframe></p>
-<p><iframe width="688" height="387" src="https://www.youtube.com/embed/hsbB5b2fYJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
