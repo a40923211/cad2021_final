@@ -1,11 +1,79 @@
 <h3>40923233</h3>
-<p>SSL-VPN(學校VPN)</p>
-<p>登入"校務eCare"</p>
-<p>在選單中找到"個人資訊及設定_SSL-VPN連線申請"</p>
-<p>點選我要申請&nbsp;</p>
-<p>填寫資料後送出</p>
-<p><a href="https://drive.google.com/file/d/1KPpXzumzBIvMCovZdBYh0s468uFO277k/view?usp=sharing">SW2017 Professional 安裝光碟下載</a><span>&nbsp;</span>(必須先登入 @gm 帳號後才能下載)</p>
-<p><a href="https://drive.google.com/file/d/1tfRPPDIWgJuuPElLsIFv3bi_acNctp5u/view?usp=sharing">SW2020 Professional 安裝光碟下載</a><span>&nbsp;</span>(必須先登入 @gm 帳號後才能下載)</p>
-<p><a href="https://youtu.be/FXrKLTplKrI">solidworks 安裝教學</a></p>
-<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/FXrKLTplKrI"></iframe><span class="Y2IQFc" lang="en"><br></span></p>
-<p><br><span class="Y2IQFc" lang="en">solidworks 操作流程</span><br><br><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/_4phkY2ji7g"></iframe></p>
+<p>-----------------------------Solidworks組裝+運動-----------------------------------------</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923233.github.io/cad2021_hw/downloads/1234.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>------------------------------------------------------------------------------------------</p>
+<p></p>
+<p>-----------------------------Solidworks繪畫-----------------------------------------</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923233.github.io/cad2021_hw/downloads/12345.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>------------------------------------------------------------------------------------------</p>
+<p></p>
+<p>-----------------------------CoppeliaSin運動----------------------------------------</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923233.github.io/cad2021_hw/downloads/wink%20%E9%80%A3%E6%A1%BF%E5%8B%95%E5%9C%96-1.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>------------------------------------------------------------------------------------------</p>
+<p>開始到現在一點點的畫用了高職學過solidworks和第一次接觸的solvespace，在繪製的進度簡直天差地遠，solidworks用2分鐘solvespace大概多個三倍，後來漸漸熟悉後雖然話比較快但還是會有差距，也學到了CoppeliaSim建立軸並且旋轉，除了上課講的內容也多了組員和同學的幫助，讓我在一學期內能學到不同軟體的操作方式。</p>
