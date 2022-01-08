@@ -1,3 +1,10 @@
-<h3>40923119</h3>
-<p></p>
+<h3>期末總結</h3>
 <p>test</p>
+<p>本學期老師幫每人抽籤分配了各兩樣cad來用，使用coppeliasim</p>
+<p><span>跟學習使用wink工具來製作影片。</span></p>
+<p><span>solvecpace教學&nbsp;</span><span><a href="https://youtu.be/IFsdsiGaZPI">https://youtu.be/IFsdsiGaZPI</a></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/IFsdsiGaZPI"></iframe></span></p>
+<p><span>oneshape教學&nbsp;<a href="https://youtu.be/6g_wlwlXjPE">https://youtu.be/6g_wlwlXjPE</a></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6g_wlwlXjPE"></iframe></span><span></span></p>
+<p><span>&nbsp;CoppeliaSim 操作&nbsp;<a href="https://youtu.be/1O2fT4JT-9U">https://youtu.be/1O2fT4JT-9U</a></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/1O2fT4JT-9U"></iframe></span></p>
