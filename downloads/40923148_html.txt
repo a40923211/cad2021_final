@@ -12,6 +12,7 @@
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/U7FvZCGXZLw"></iframe></p>
 <p>作業</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/QQmKNA4_ufg"></iframe></p>
+<p><span><iframe width="560" height="314" src="//www.youtube.com/embed/2jWdCbwsKPY" allowfullscreen="allowfullscreen"></iframe></span></p>
 <p><span></span>四連桿</p>
 <p></p>
 <script>// <![CDATA[
@@ -51,7 +52,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass2" data-dirname="/static" data-varname="winkVideoData">
-<source src="https://40923148.github.io/cad2021_hw/downloads/me.mp4" type="video/mp4" /></video>
+<source src="./../downloads/me.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button></div>
@@ -69,7 +70,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass3" data-dirname="/static" data-varname="winkVideoData">
-<source src="https://40923148.github.io/cad2021_hw/downloads/5.mp4" type="video/mp4" /></video>
+<source src="./../downloads/5.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
