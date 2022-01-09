@@ -1,0 +1,364 @@
+<h3>40923120</h3>
+<p>這學期被分到NX12與Inventer兩套軟體，因為高中有學過solidwork所以<span>Inventer比較快上手，NX12還不是很熟悉。</span></p>
+<p><span>這學期還有使用用到Wink與CoppeliaSim兩個軟體</span></p>
+<p><span>Wink影片我覺得蠻好用的，可以加入步驟和文字，讓其他人知道現在是在做什麼，Wink影片上傳還不太熟悉，有時候影片無法上傳，檔案大小、檔名、程式碼都檢查過沒看到什麼問題。</span></p>
+<p><span>CoppeliaSim可以做一些機械運動模擬，這個程式組裝機件比較沒問題，設定裡面的參數問題比較大，但最後完成運動模擬後，會有一種成就感。</span></p>
+<p></p>
+<p>WINK安裝</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="900" height="600" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+loop="loop" muted="" playsinline=""autoplay="autoplay"&gt;
+<source src="./../downloads/wink T.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"><button class="winkVideoControlBarPlayButtonClass"></button>Wink查驗</div>
+<p>零件檔案</p>
+<p><a href="https://drive.google.com/drive/folders/1l2AZAgRx0Vi_W8j-4YgWpMGLTzZuPcna?usp=sharing">https://drive.google.com/drive/folders/1l2AZAgRx0Vi_W8j-4YgWpMGLTzZuPcna?usp=sharing</a></p>
+<p></p>
+<p>零件繪製</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData1 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 3 },
+    ],
+    "20": [
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 21 },
+      { type: "gotoframe", rect: { x: 733, y: 576, width: 60, height: 24 }, target: 2 },
+    ],
+    "77": [
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 78 },
+      { type: "gotoframe", rect: { x: 733, y: 576, width: 60, height: 24 }, target: 20 },
+    ],
+    "107": [
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 108 },
+      { type: "gotoframe", rect: { x: 732, y: 576, width: 60, height: 24 }, target: 77 },
+    ],
+    "156": [
+      { type: "gotoframe", rect: { x: 733, y: 576, width: 60, height: 24 }, target: 107 },
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 157 },
+    ],
+    "201": [
+      { type: "gotoframe", rect: { x: 732, y: 576, width: 60, height: 24 }, target: 156 },
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 202 },
+    ],
+    "225": [
+      { type: "gotoframe", rect: { x: 732, y: 576, width: 60, height: 24 }, target: 201 },
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 226 },
+    ],
+    "253": [
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 254 },
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 225 },
+    ],
+    "268": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 253 },
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 269 },
+    ],
+    "315": [
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 316 },
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 268 },
+    ],
+    "374": [
+      { type: "gotoframe", rect: { x: 732, y: 576, width: 60, height: 24 }, target: 315 },
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 375 },
+    ],
+    "436": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 374 },
+      { type: "gotoframe", rect: { x: 801, y: 576, width: 60, height: 24 }, target: 437 },
+    ],
+    "498": [
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 499 },
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 436 },
+    ],
+    "548": [
+      { type: "gotoframe", rect: { x: 733, y: 576, width: 60, height: 24 }, target: 498 },
+      { type: "gotoframe", rect: { x: 802, y: 576, width: 60, height: 24 }, target: 549 },
+    ],
+    "596": [
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 597 },
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 548 },
+    ],
+    "609": [
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 610 },
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 596 },
+    ],
+    "670": [
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 671 },
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 609 },
+    ],
+    "741": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 670 },
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 742 },
+    ],
+    "776": [
+      { type: "gotoframe", rect: { x: 803, y: 576, width: 60, height: 24 }, target: 777 },
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 741 },
+    ],
+    "794": [
+      { type: "gotoframe", rect: { x: 801, y: 576, width: 60, height: 24 }, target: 795 },
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 776 },
+    ],
+    "827": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 794 },
+    ],
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="900" height="600" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData1">
+loop="loop" muted="" playsinline=""autoplay="autoplay"&gt;
+<source src="./../downloads/123.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+</div>
+</div>
+<p><span>CoppeliaSim 組裝</span></p>
+<script>// <![CDATA[
+var winkVideoData2 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 3 },
+    ],
+    "34": [
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 35 },
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 2 },
+    ],
+    "52": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 34 },
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 53 },
+    ],
+    "62": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 52 },
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 63 },
+    ],
+    "117": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 62 },
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 118 },
+    ],
+    "189": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 117 },
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 190 },
+    ],
+    "260": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 189 },
+      { type: "gotoframe", rect: { x: 807, y: 576, width: 60, height: 24 }, target: 261 },
+    ],
+    "329": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 260 },
+      { type: "gotoframe", rect: { x: 807, y: 576, width: 60, height: 24 }, target: 330 },
+    ],
+    "366": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 329 },
+      { type: "gotoframe", rect: { x: 806, y: 576, width: 60, height: 24 }, target: 367 },
+    ],
+    "418": [
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 366 },
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 419 },
+    ],
+    "471": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 418 },
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 472 },
+    ],
+    "478": [
+      { type: "gotoframe", rect: { x: 730, y: 576, width: 60, height: 24 }, target: 471 },
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 479 },
+    ],
+    "499": [
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 478 },
+      { type: "gotoframe", rect: { x: 807, y: 576, width: 60, height: 24 }, target: 500 },
+    ],
+    "545": [
+      { type: "gotoframe", rect: { x: 728, y: 576, width: 60, height: 24 }, target: 499 },
+      { type: "gotoframe", rect: { x: 806, y: 576, width: 60, height: 24 }, target: 546 },
+    ],
+    "601": [
+      { type: "gotoframe", rect: { x: 808, y: 576, width: 60, height: 24 }, target: 602 },
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 545 },
+    ],
+    "652": [
+      { type: "gotoframe", rect: { x: 728, y: 576, width: 60, height: 24 }, target: 601 },
+      { type: "gotoframe", rect: { x: 804, y: 576, width: 60, height: 24 }, target: 653 },
+    ],
+    "664": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 652 },
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 665 },
+    ],
+    "728": [
+      { type: "gotoframe", rect: { x: 731, y: 576, width: 60, height: 24 }, target: 664 },
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 729 },
+    ],
+    "792": [
+      { type: "gotoframe", rect: { x: 728, y: 576, width: 60, height: 24 }, target: 728 },
+      { type: "gotoframe", rect: { x: 805, y: 576, width: 60, height: 24 }, target: 793 },
+    ],
+    "857": [
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 792 },
+      { type: "gotoframe", rect: { x: 806, y: 576, width: 60, height: 24 }, target: 858 },
+    ],
+    "922": [
+      { type: "gotoframe", rect: { x: 808, y: 576, width: 60, height: 24 }, target: 923 },
+      { type: "gotoframe", rect: { x: 728, y: 576, width: 60, height: 24 }, target: 857 },
+    ],
+    "986": [
+      { type: "gotoframe", rect: { x: 729, y: 576, width: 60, height: 24 }, target: 922 },
+    ],
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="900" height="600" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData2">
+loop="loop" muted="" playsinline=""autoplay="autoplay"&gt;
+<source src="./../downloads/123456789.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressRightClass"></div>
+</div>
+</div>
+<p>運動模擬</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/WULJ2HGIkYw"></iframe></p>
+<p>W13</p>
+<p>零件進度</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData3 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 3 },
+    ],
+    "33": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 34 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 2 },
+    ],
+    "48": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 49 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 33 },
+    ],
+    "57": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 58 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 48 },
+    ],
+    "62": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 63 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 57 },
+    ],
+    "72": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 73 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 62 },
+    ],
+    "81": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 82 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 72 },
+    ],
+    "90": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 91 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 81 },
+    ],
+    "98": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 99 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 90 },
+    ],
+    "107": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 108 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 98 },
+    ],
+    "114": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 115 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 107 },
+    ],
+    "119": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 120 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 114 },
+    ],
+    "134": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 135 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 119 },
+    ],
+    "149": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 150 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 134 },
+    ],
+    "156": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 157 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 149 },
+    ],
+    "163": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 164 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 156 },
+    ],
+    "172": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 173 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 163 },
+    ],
+    "180": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 181 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 172 },
+    ],
+    "186": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 187 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 180 },
+    ],
+    "199": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 200 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 186 },
+    ],
+    "204": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 205 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 199 },
+    ],
+    "217": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 218 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 204 },
+    ],
+    "222": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 223 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 217 },
+    ],
+    "228": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 229 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 222 },
+    ],
+    "236": [
+      { type: "gotoframe", rect: { x: 812, y: 576, width: 60, height: 24 }, target: 237 },
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 228 },
+    ],
+    "243": [
+      { type: "gotoframe", rect: { x: 743, y: 576, width: 60, height: 24 }, target: 236 },
+    ],
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="900" height="600" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData3">
+loop="loop" muted="" playsinline=""autoplay="autoplay"&gt;
+<source src="./../downloads/123132.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass">機械手臂模擬</div>
+</div>
+</div>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/WBeKE_LL-dI"></iframe></p>
+<p></p>
+<p>課堂考試 運動模擬</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/F9nUz7HqkWQ"></iframe></p>
+</div>
