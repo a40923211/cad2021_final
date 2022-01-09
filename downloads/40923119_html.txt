@@ -1,7 +1,12 @@
 <h3>40923119</h3>
 <p>本學期老師幫每人抽籤分配了各兩樣cad來用，使用coppeliasim</p>
 <p><span>跟學習使用wink工具來製作影片。</span></p>
-<p><span><span style="background-color: #ffff00;">solvespace教學</span>&nbsp;</span><span><a href="https://youtu.be/IFsdsiGaZPI">https://youtu.be/IFsdsiGaZPI</a></span></p>
+<p><span>從學期開始，跟著課程上到現在，也知道這學期不會像一下的課一樣大家都過，人人pass</span></p>
+<p>雖然沒有放多少心思在這門課，但也是有做作業出來，努力跟上進度</p>
+<p>也算是學到新的繪圖軟體，今後繪圖多了幾種新選擇，可以據各狀況使用</p>
+<p><span>CoppeliaSim這個軟體也是挺酷的，可以對機構進行模擬</span></p>
+<p><span>總結來說，我在這門課也是有帶走東西，學費沒白繳了</span></p>
+<p><span><span style="background-color: #ffff00;">`solvespace教學</span>&nbsp;</span><span><a href="https://youtu.be/IFsdsiGaZPI">https://youtu.be/IFsdsiGaZPI</a></span></p>
 <p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/IFsdsiGaZPI"></iframe></span></p>
 <p><span><span style="background-color: #ffff00;">oneshape教學</span>&nbsp;<a href="https://youtu.be/6g_wlwlXjPE">https://youtu.be/6g_wlwlXjPE</a></span></p>
 <p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6g_wlwlXjPE"></iframe></span><span></span></p>
@@ -44,4 +49,8 @@
 <p><a href="/downloads/Assembly 2 - Part 1 (5).stl">/downloads/Assembly 2 - Part 1 (5).stl</a></p>
 <p><a href="/downloads/Assembly 2 - Part 1 (6).stl">/downloads/Assembly 2 - Part 1 (6).stl</a></p>
 <p><a href="/downloads/Assembly 2 - Part 1 (7).stl">/downloads/Assembly 2 - Part 1 (7).stl</a></p>
-<p><span>2022.1.03課堂繪圖</span><iframe width="560" height="314" src="//www.youtube.com/embed/nTw0HOAOO2I" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+<p><span>2022.1.03課堂繪圖</span></p>
+<p><span></span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/nTw0HOAOO2I"></iframe></p>
+<p></p>
