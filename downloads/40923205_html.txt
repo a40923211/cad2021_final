@@ -68,3 +68,83 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p>----------------------------------</p>
+<h4><span style="color: #ff0000;"><strong>2.以相同尺寸完成對稱之連桿機構</strong></span></h4>
+<p><span style="background-color: #ffff99;"><strong>零件圖及stl檔</strong></span></p>
+<p><a href="/downloads/固定軸-2.stl">固定軸-2.stl</a></p>
+<p><a href="/downloads/blue2.stl">blue2.stl</a></p>
+<p><a href="/downloads/white3.stl">white3.stl</a></p>
+<p><a href="/downloads/red4-2.stl">red4-2.stl</a></p>
+<p><a href="/downloads/yellow5.stl">yellow5.stl</a></p>
+<p><a href="/downloads/pink6.stl">pink6.stl</a></p>
+<p><a href="/downloads/orange7.stl">orange7.stl</a></p>
+<p><a href="/downloads/gray8-2.stl">gray8-2.stl</a></p>
+<p><a href="/downloads/9.stl">9.stl</a></p>
+<p><a href="/downloads/test2組合.stl">test2組合.stl</a></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-1.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-2.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-3.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-4.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-5.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-6.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-7.png" width="400"></p>
+<p><img alt="" height="225" src="https://40923205.github.io/cad2021_hw/images/2-8.png" width="400"></p>
+<p><span style="background-color: #ffff99;"><strong></strong></span></p>
+<p>----------------------------------</p>
+<p><strong><span style="background-color: #ffff99;">對稱連桿繪製過程及組合</span></strong></p>
+<p>YouTube:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/3q0azoELa-A"></iframe></p>
+<p>Wink:</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="806" height="454" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923205.github.io/cad2021_hw/downloads/2-40923205sw.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>----------------------------------</p>
+<p><span style="background-color: #ffff99;"><strong>對稱連桿機構CoppeliaSim運轉</strong></span></p>
+<p>YouTube:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/zV4MqHP0nLY"></iframe></p>
+<p>Wink:</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="806" height="454" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923205.github.io/cad2021_hw/downloads/2-40923205.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
