@@ -9,6 +9,7 @@
 <p></p>
 <p>作業</p>
 <p>組裝部分 影片連結:<a href="https://www.youtube.com/watch?v=waok7bmPvPw">https://www.youtube.com/watch?v=waok7bmPvPw</a></p>
+<p>CoppeliaSim軸承設定:<a href="https://www.youtube.com/watch?v=p7tl04qUmD0">https://www.youtube.com/watch?v=p7tl04qUmD0</a></p>
 <p></p>
 <p></p>
 <p>meARM</p>
