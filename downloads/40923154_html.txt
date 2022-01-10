@@ -12,7 +12,7 @@
 <p>CoppeliaSim軸承設定:<a href="https://www.youtube.com/watch?v=p7tl04qUmD0">https://www.youtube.com/watch?v=p7tl04qUmD0</a></p>
 <p>另外我發現 NX12的Touch Align並不適用在所有的組立場合，在圓場合進行面約束時有時會發生無法面相接的情況。</p>
 <p><img alt="" height="125" src="/images/ugraf_Ip67fGAjTz.png" width="244"></p>
-<p>發生上圖狀況時改以Concentric(同心圓，可以避免此狀況的發生。</p>
+<p>發生上圖狀況時改以Concentric(同心圓)可以避免此狀況的發生。</p>
 <p>meARM</p>
 <p>組立</p>
 <p><img alt="" height="256" src="/images/sjsSdKYcYh.png" width="455"></p>
