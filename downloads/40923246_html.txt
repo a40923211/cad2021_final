@@ -234,4 +234,4 @@ frameStops: {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <p><span style="color: #ffffff;"><span style="background-color: #ffffff;">心得：</span></span></p>
-<p><span style="color: #ffffff;"><span style="background-color: #ffffff;">好難</span></span></p>
+<p><span style="color: #ffffff;"><span style="background-color: #ffffff;">再pull一次，拜託一定要成功</span></span></p>
