@@ -31,6 +31,17 @@
 <p>v-rep模擬影片</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ZFevlZ4su08" title="YouTube video player"></iframe></p>
 <p>期末作業1</p>
-<p><a href="https://cad.onshape.com/documents/cc5532d133d14eb388e3d54e/w/428a1335f56dacc4fcef50dd/e/a66a0011b1fcb63102aa4ada">onshape組合圖檔案</a></p>
-<p>影片</p>
+<p>onshape組合圖影片</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/CeTuj-0rgxU" title="YouTube video player"></iframe></p>
+<p><a href="https://github.com/40823115/cad2021_hw/blob/main/downloads/%E6%9C%9F%E6%9C%AB1.ttt">v-rep場景檔</a></p>
+<p><a href="https://cad.onshape.com/documents/c2c8a3e2dfdde23ace0eb10b/w/20eec0455b2e13b8dd63cf04/e/242c575202d5680b99b40cbb">onshape組合圖檔案</a></p>
+<p>v-rep模擬影片</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/gWRkh_rbqyY" title="YouTube video player"></iframe></p>
+<p>期末延伸</p>
+<p><span>onshape組合圖延伸影片</span></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/S57_y6jHDtw" title="YouTube video player"></iframe></p>
+<p><a href="https://github.com/40823115/cad2021_hw/blob/main/downloads/%E6%9C%9F%E6%9C%AB%E4%BA%8C.ttt">v-rep場景檔(延伸題)</a></p>
+<p><a href="https://cad.onshape.com/documents/cc5532d133d14eb388e3d54e/w/428a1335f56dacc4fcef50dd/e/a66a0011b1fcb63102aa4ada">onshape組合圖</a></p>
+<p><img alt="" height="402" src="/images/拜拜拜.PNG" width="433"></p>
+<p><span>v-rep模擬影片</span></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/R793dfJraVo" title="YouTube video player"></iframe><br><a href="https://cad.onshape.com/documents/c2c8a3e2dfdde23ace0eb10b/w/20eec0455b2e13b8dd63cf04/e/242c575202d5680b99b40cbb"></a></p>

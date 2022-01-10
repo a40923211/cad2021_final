@@ -1,0 +1,28 @@
+<h3>40923248</h3>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<p><span>馬達驅動Jansen's linkage影片(wink</span><span><span>)</span></span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923248.github.io/cad2021_hw/downloads/%E5%98%89%E6%98%8E%E7%9C%BC.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/vKfJ8TJbpOQ"></iframe></p>
+<p>心得：透過小組組員的幫忙與協助，讓我學習到不少東西，我認為繪圖不難，但是要加上運動，就需要多點心力了，很感謝老師的指導，希望下學習也可以學習到更多程式。</p>

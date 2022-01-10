@@ -1,4 +1,18 @@
 <h3>40923101</h3>
+<p><span><strong>第一階段</strong>: 請將自己所完成繪製的 meArm Robot 零件與組立檔案畫面呈現在網頁中，</span></p>
+<p><span> 並將所有零件與組立檔案壓縮成"學號_final.zip" 送到個人的&nbsp;</span><span>GDrive，並將連結轉為公開下載。</span></p>
+<p><span style="background-color: #cc99ff;">meArm Robot 零件與組立檔下載</span></p>
+<p><a href="https://drive.google.com/file/d/1E040yAglk14i4q_jkw9qVQkEhlMPF8lV/view?usp=sharing">https://drive.google.com/file/d/1E040yAglk14i4q_jkw9qVQkEhlMPF8lV/view?usp=sharing</a></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/78.png" alt="" width="500" height="281"></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/79.png" alt="" width="500" height="281"></p>
+<p><br><span><strong>第二階段</strong>: 請修改第一階段個人所完成的 meArm 組立檔案，</span></p>
+<p><span>將兩側連桿機構互換， 即將帶有三角形連桿的機構與另一方機構互相對調。</span></p>
+<p><span>完成後在網頁中呈現所完成的組立圖畫面，</span></p>
+<p><span>並將零組件檔案壓縮成"學號_final_stage2.zip" 送到個人的</span><span>&nbsp;GDrive， 並將連結轉為公開下載。</span></p>
+<p><span style="background-color: #cc99ff;">meArm 零件與組立檔下載</span></p>
+<p><span><a href="https://drive.google.com/file/d/1hkae5JA148rwG2aVY1FEd3FtQfKxp8c7/view?usp=sharing">https://drive.google.com/file/d/1hkae5JA148rwG2aVY1FEd3FtQfKxp8c7/view?usp=sharing</a></span></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/75.png" width="500"></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/76.png" alt="" width="500" height="281"></p>
 <p><span>請自選 <strong>CAD</strong> 套件</span><span>完成零組件繪圖後， </span></p>
 <p><span>轉入 <strong>CoppeliaSim&nbsp;</strong>以 <strong>Slider 0-360</strong> 度控制藍色搖桿轉動。</span></p>
 <p><span>零件繪製</span></p>

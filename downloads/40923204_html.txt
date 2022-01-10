@@ -1,1 +1,61 @@
 <h3>40923204</h3>
+<p></p>
+<p>零件繪製以及組裝過程(youtube):</p>
+<p></p>
+<p><iframe width="700" height="585" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/v4DWSg0ynck" title="YouTube video player"></iframe></p>
+<p><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件1.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件2.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件3.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件4.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件5.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件6.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件7.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></span></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件8.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></span></span></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><img alt="" height="169" id="__mcenew" src="/images/零件9.png" width="300"><span id="__caret" mce-data-marked="1">_</span><br></span></span></span></span></span></span></span></span></span></p>
+<p><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span mce-data-marked="1"><span data-mce-new="true">零件繪製以及組裝過程(wink):</span></span></span></span></span></span></span></span></span></span></span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1314" height="650" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/考試.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1314" height="650" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/考試wink.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>

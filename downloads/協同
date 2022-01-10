@@ -1,0 +1,66 @@
+<h3>40923134</h3>
+<p>學習inventor與SolveSpace兩套新的cad軟體</p>
+<p>目前一般繪圖功能大致了解 組合零件的操作還很模糊</p>
+<p><img alt="" src="/images/Inventor_Af3M4wxgDJ.png" width="710" height="400"></p>
+<p></p>
+<p></p>
+<p>學習wink製作多張圖片組成之簡易動畫</p>
+<p>wink下載</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1550" height="850" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/1.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p>四連桿wink</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1500" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/W11.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>學習coppeliasim模擬組合零件之運動模擬過程</p>
+<p></p>
+<p>四連桿動態模擬<a href="https://youtu.be/QsXURAvwsfg"><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/QsXURAvwsfg"></iframe></a></p>
+<p></p>
+<p>meARM動態模擬</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EEJCzvLEQZo"></iframe></p>
+<p>考試(01/03)</p>
+<p>考試心得:更加了解inventor零件組裝以及CoppeliaSim動態模擬組裝程序</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/-A4wp09PsfA"></iframe></p>
+<p></p>
+<p></p>
