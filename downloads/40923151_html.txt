@@ -1,6 +1,7 @@
 <h3>40923151</h3>
 <p>這學期學習了兩套新的cad軟體，分別是onshape、solvespace，在畫圖上已經大致清楚</p>
 <p>但onshape跟solvespace的組合零件的功能還不是很清楚怎麼操作</p>
+<p>onshape零件檔案:<a href="https://cad.onshape.com/documents/379919a54f9611168181a770/w/e6c1027ba2c1db1a18b8219f/e/dafce372af4b32d593f941fa?renderMode=0&amp;uiState=61dba1bdf046c96049685802">連結</a></p>
 <p><img alt="" height="360" src="https://40923151.github.io/cad2021_hw/images/chrome_Nor1gyezIM.png" width="640"></p>
 <p>-------------------------------------------------------------</p>
 <p>學到了一個好用的新工具wink，能夠方便呈現多張圖像的步驟過程</p>
@@ -189,7 +190,7 @@ var winkVideoData3 = {
 <p>(四連桿模擬練習)</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xdJCJiluZOI"></iframe></p>
 <p>(meArm模擬)</p>
-<p>模擬檔案:<a href="https://drive.google.com/file/d/154Y6cba4tB8eaWRpusbaNr6o71bBM73h/view?usp=sharing">下載</a></p>
+<p>模擬檔案:<a href="https://drive.google.com/file/d/184H_BpXXvUyZFgSOUWPhRcWcU9PT7M0P/view?usp=sharing">下載</a></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/XGmDpe26Ev0"></iframe></p>
 <p>-------------------------------------------------------------</p>
 <p>課堂考試 2022_01_03</p>
@@ -198,3 +199,8 @@ var winkVideoData3 = {
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/MKj9xwZH2T0"></iframe></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/brDchhtDtRA"></iframe></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ZW8nEN8Ow3U"></iframe></p>
+<p><span>-------------------------------------------------------------</span></p>
+<p>期末考試</p>
+<p>目前用onshape組裝mearm還組不太出來，還卡在不清楚他計算組合方程式的運算規則</p>
+<p>onshape檔案:<a href="https://cad.onshape.com/documents/379919a54f9611168181a770/w/e6c1027ba2c1db1a18b8219f/e/dafce372af4b32d593f941fa?renderMode=0&amp;uiState=61dbc47f64ff677dc4aea987">連結</a></p>
+<p>coppeliasim檔案:<a href="https://drive.google.com/file/d/184H_BpXXvUyZFgSOUWPhRcWcU9PT7M0P/view?usp=sharing">連結</a></p>
