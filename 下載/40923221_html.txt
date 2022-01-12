@@ -40,3 +40,16 @@ src="https://40923221.github.io/cad2021_hw/images/%E4%B8%8B%E4%B8%89%E8%A7%92.pn
 <hr>
 <p>第二題延伸：</p>
 <p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/057JPNV5ZV8" title="YouTube video player"></iframe></p>
+<hr>
+<p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/5Xo7xzk5HRE" title="YouTube video player"></iframe></p>
+<p>Solidwork 檔案下載：<a href="https://drive.google.com/file/d/1g0U_4t4OMjJvVfGXxfkC4lx-EuyDM03j/view?usp=sharing">按這裡</a></p>
+<hr>
+<p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/0haSKU5-3vM" title="YouTube video player"></iframe></p>
+<p><span>Inventor 檔案下載：<a href="https://drive.google.com/file/d/1XGyqkWWeIRZCEOad5_rwLBdFd3n_F9sg/view?usp=sharing">按這裡</a></span></p>
+<p><a href="https://drive.google.com/file/d/1ZucSYr8YeW0OmuNDqzhT1zewFw4v4a4Q/view?usp=sharing">40923221_final.zip</a></p>
+<hr>
+<p>繪圖過程</p>
+<p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ezFVMcUENKI" title="YouTube video player"></iframe></p>
+<hr>
+<p><iframe width="1280" height="720" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/GZqWbJ6jGdQ" title="YouTube video player"></iframe></p>
+<p><span></span>meArm Robot.ttt：<a href="https://drive.google.com/file/d/1YNvVDSFqzruUu426UBoAiQ1xO8mN8Ysy/view?usp=sharing">按這裡</a></p>
