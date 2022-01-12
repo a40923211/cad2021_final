@@ -3,11 +3,14 @@
 <p><img alt="" height="186" src="https://images.squarespace-cdn.com/content/v1/5f794c441e9a250fb42727e3/1604291197235-LHVSTB2B7ZO2LQBD5VLQ/Onshape-a-ptc-business.png" width="431"></p>
 <p>onshape繪製過程</p>
 <p><a href="https://youtu.be/UD4KpnBiO0A">https://www.youtube.com/watch</a></p>
+<p><iframe width="934" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/94ZwhCNbRoA" title="YouTube video player"></iframe></p>
 <p><img alt="" height="254" src="https://i.ytimg.com/vi/zDZiE3_F0pY/maxresdefault.jpg" width="451"></p>
 <p>solidworks 2017安裝配置</p>
 <p>如下網址</p>
 <p><a href="https://www.youtube.com/watch?v=JjZneJPQr8M&amp;ab_channel=%E9%BB%83%E5%AE%87%E9%99%BD">https://www.youtube.com/watch</a></p>
+<p>solidworks繪製過程</p>
 <p></p>
+<p><iframe width="941" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/20qxpfKEAQQ" title="YouTube video player"></iframe></p>
 <p>meArm零件壓縮檔</p>
 <p><a href="/downloads/slk零件.7z">/downloads/slk零件.7z</a></p>
 <p>meArm第一軸模擬</p>
@@ -25,4 +28,6 @@
 <hr>
 <p>連桿運動</p>
 <p><a href="https://youtu.be/TLy5pqXPRsc">https://youtu.be/TLy5pqXPRsc</a></p>
-<p><iframe width="1013" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/TLy5pqXPRsc" title="YouTube video player"></iframe>lerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/TLy5pqXPRsc" title="YouTube video player"&gt;</p>
+<p><iframe width="1013" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/TLy5pqXPRsc" title="YouTube video player"></iframe>final-1 stl檔與solidworks檔<a href="/downloads/40923227final-1零件檔.zip">/downloads/40923227final-1零件檔.zip</a><br><br></p>
+<p>期末2延伸</p>
+<p><iframe width="900" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/eq64vhuaO14" title="YouTube video player"></iframe></p>
