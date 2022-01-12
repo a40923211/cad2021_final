@@ -195,3 +195,9 @@ var winkVideoData4 = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p>w17考試內容</p>
+<p><iframe width="640" height="360" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/RlmQ4cSrqpI" title="YouTube video player"></iframe></p>
+<p><a href="https://drive.google.com/file/d/1M1RYQQDPofEq-l7RWREniCBYODRimW6-/view?usp=sharing">solvespace零件下載</a></p>
+<p><iframe width="688" height="387" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/7hJmOLE3zDU" title="YouTube video player"></iframe></p>
+<p><a href="https://drive.google.com/file/d/1M1RYQQDPofEq-l7RWREniCBYODRimW6-/view?usp=sharing">solidworks零件</a><iframe width="688" height="387" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/AcN-18wc4uA" title="YouTube video player"></iframe></p>
+<p><iframe width="640" height="360" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/zpt5M7S71Do" title="YouTube video player"></iframe><a href="https://drive.google.com/file/d/1SoObvzs6678d-Fuv2CVe7wcaXb4_dUWP/view?usp=sharing">40923223 ttt檔</a></p>
