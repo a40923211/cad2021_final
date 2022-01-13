@@ -108,3 +108,13 @@
 <p><strong><span><img alt="" height="222" src="https://40923212.github.io/cad2021_hw/images/4.png" width="600"></span></strong></p>
 <p><strong><span>隨後他們收到我的回信後，就給我一份問卷請我填寫，我填寫完後他們就移除標記我的帳號了。我的github就正常了。</span></strong></p>
 <p><strong><span><img alt="" height="285" src="https://40923212.github.io/cad2021_hw/images/5.png" width="600"></span></strong></p>
+<p></p>
+<p><span style="background-color: #00ffff;"><strong>期末考試</strong></span></p>
+<p>這學期學到了coppeliasim這個軟體，這是我第一次用到它，我覺得他滿厲害的地方是它可以做很多旋轉模擬，還可以用UI介面操作它，雖然有些難上手，但是去找影片並且照著影片一步一步做，也是大概可以學會這個軟體的基本操作。</p>
+<p>meArm原始組合</p>
+<p><img height="317" src="https://40923212.github.io/cad2021_hw/images/%E5%8E%9F%E6%9C%AC%E7%B5%84%E7%AB%8B.png" width="600" caption="false"></p>
+<p><span>meArm對調組合</span></p>
+<p><img height="318" src="https://40923212.github.io/cad2021_hw/images/%E6%9C%9F%E6%9C%AB%E8%80%83%E7%B5%84%E7%AB%8B.png" width="600" caption="false"></p>
+<p></p>
+<p><a href="https://drive.google.com/drive/folders/1TEojDHlLFUiC-w9H9X0WEjYVq4Y9ja2k?usp=sharing">零件檔案下載</a></p>
+<p><a href="https://drive.google.com/drive/folders/1Yys5Xn-5R4HSaezHUhKRCceGlWq4Dt9F?usp=sharing">組合件檔案</a></p>
