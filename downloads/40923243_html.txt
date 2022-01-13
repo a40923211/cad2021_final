@@ -1,5 +1,5 @@
 <h3>40923243</h3>
-<p>在這學期學到了Solidworks和Solvespace這兩套繪圖軟體，Solidworks在畫圖及零件組合方面已經可以自由運用了，但Solvespace在零件組合的部分還不太清楚如何操作。</p>
+<p>在這學期學到了Solidworks和Solvespace這兩套繪圖軟體，Solidworks在畫圖及零件組合方面已經可以自由運用了，只是Solvespace在零件組合的部分還不太清楚如何操作。雖然花了很多時間在Solvespace的建模上，但還是慢慢摸索它的使用方法。在這學期的課程遇到最多瓶頸的是在Coppeliasim這個軟體，在組合模擬的過程內常常會把開啟實體和開啟模擬搞混，後來有去詢問比較厲害的同學，所以在考試的部分也相對比較好處理一點。</p>
 <hr>
 <p>Solidworks畫圖過程:</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/UzFOvf8aWx8"></iframe></p>
@@ -7,17 +7,15 @@
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/WOAz2yIsUNc"></iframe></p>
 <hr>
 <p>在這堂課學到的Coppeliasim是目前最難的東西，把STL檔案轉入都沒有什麼問題，只是在Coppeliasim的模擬組合過程有遇到許多問題，像是UI的設定要修改許多地方才能順利運動</p>
-<p>第一軸模擬:</p>
-<p><strong>協同流程:</strong></p>
-<p><video controls="controls" height="300" width="600">
-<source src="https://40923243.github.io/cad2021_hw/downloads/w13-2.mp4" type="video/mp4"/></video></p>
-<p>第二 三軸模擬:</p>
-<p><strong>協同流程:</strong></p>
-<p><video controls="controls" height="300" width="600">
-<source src="https://40923243.github.io/cad2021_hw/downloads/w13-3.mp4" type="video/mp4"/></video></p>
+<p><strong>第一軸模擬:</strong></p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923243.github.io/cad2021_hw/downloads/w13-2.mp4" type="video/mp4" /></video></p>
+<p><strong>第二 三軸模擬:</strong></p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923243.github.io/cad2021_hw/downloads/w13-3.mp4" type="video/mp4" /></video></p>
 <hr>
 <p>W16考試內容 2022/01/06</p>
-<p></p>
+<p>(第一題)</p>
 <p>畫圖過程:</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6qmeBfkQUo0"></iframe></p>
 <p></p>
@@ -29,8 +27,18 @@
 <p></p>
 <p>Coppeliasim的UI介面控制操作:</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Zj2znxXqmW0"></iframe></p>
-<p>考試心得:這次考試的題目和之前的作業截然不同，在Coppeliasim裡面組合模擬時有遇到許多問題，例如對於用<span style="color: #ff0000;">dummy</span>去做限制的功能還不太熟悉，在經過同學的幫助下也慢慢了解如何使用。</p>
+<p></p>
+<p>(第二題)</p>
+<p>在Coppeliasim中組合模擬過程:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/SRv7ejSecTA"></iframe></p>
+<p>Coppeliasim的UI介面控制操作:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GJTdzl9GmDI"></iframe></p>
+<p>考試心得:</p>
+<p>這次考試的題目和之前的作業截然不同，在Coppeliasim裡面組合模擬時有遇到許多問題，例如對於用<span style="color: #ff0000;">dummy</span>去特定零件和軸的固定功能的功能還不太熟悉，在經過同學詳細的幫助下也已經知道怎麼如何正確操作各種功能了。</p>
 <hr>
-<p>Solidworks零件圖檔下載(SPD檔): <a href="/downloads/所有零件">全部零件</a></p>
-<p>Coppeliasim組合零件下載:<a href="/downloads/w16.ttt">組合件</a></p>
+<p>(第一題)</p>
+<p>Solidworks零件圖檔下載(SPD檔): <a href="/downloads/所有零件.rar">全部零件</a></p>
+<p>Coppeliasim組合零件下載(有UI版):<a href="/downloads/w16.ttt">組合件</a></p>
+<p>(第二題)</p>
+<p>Coppeliasim組合零件下載(有UI版):<a href="/downloads/w16延伸題.ttt">組合件</a></p>
 <p></p>

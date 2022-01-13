@@ -1,0 +1,46 @@
+<h3>40923122</h3>
+<p>這學期有學了兩套繪圖軟體，一個是NX12，另一個是solve spacd，<span>solve spacd這一套是我完全沒有學過的，研究了很久，雖然繪畫了一點點，但畫的速度非常慢，不太熟悉，一些簡單組合式還可以，NX呢，我是算比較熟的，因為以前有學過一點點，所以會比較上手，再來還有學到一個新的程式，就是wink，算是一個可以記錄你操作過程的程式，這也是一個新的東西，這我也已經學會了，再來就是coppeliasim，這...我真的沒有很熟悉，但還是有學到一些。</span></p>
+<p><span>2022/01/03期末考</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/DHtr-p_O-mA"></iframe></span></p>
+<p><span>四連趕機構</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/tuo-Vsy_xpI"></iframe></span></p>
+<p><span>機械手臂</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/5yRNeXfF8yc"></iframe></p>
+<p></p>
+<p></p>
+<p>機械手臂零件</p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923122.github.io/cad2021_hw/downloads/NX.mp4" type="video/mp4" /></video></p>
+<p>wink下載教學</p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923122.github.io/cad2021_hw/downloads/test2.mp4" type="video/mp4" /></video></p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923122.github.io/cad2021_hw/downloads/test3.mp4" type="video/mp4" /></video></p>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+<p><span>NX可攜式下載教學&nbsp;</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/mXj7sVWiVh4"></iframe></p>
+<p><br><span>NX操作流程及簡介&nbsp;</span></p>
+<p><span></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/saajcB59x-c"></iframe></span></p>
+<p></p>
+<p><span>NX零件轉出後轉入 CoppeliaSim 操作影片</span></p>
+<p><span></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/prEOELo0tDQ"></iframe></span>SolveSpace</p>
+<p><span>solvespace可攜式下載教學</span></p>
+<p><span></span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/JRGkOAtvksY"></iframe></p>
+<p><br><span>solvespace操作流程及簡介</span></p>
+<p><span></span></p>
+<p><a href="https://youtu.be/6xIrPhM1yY0" rel="nofollow"></a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6xIrPhM1yY0"></iframe></p>
+<p><br><span>solvespace零件轉出後轉入 CoppeliaSim 操作影片</span></p>
+<p><span></span></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/B4wGzqZsTGo"></iframe></p>
