@@ -125,7 +125,7 @@ var winkVideoData = {
 <p><span>&nbsp;</span></p>
 <p>Final</p>
 <p><a href="https://files.gitter.im/61338b9c6da037398484c1bb/Hy34/linkage-dimensioned.png">題目</a> <a href="https://raw.githubusercontent.com/KmolYuan/Pyslvs-UI/master/docs/img/main-win.png">要求</a></p>
-<p></p>
+<p><a href="https://drive.google.com/drive/folders/19PK_lntmxLiaSlOrzMcS3vgrlcptQBQT?usp=sharing">STL檔</a></p>
 <p>零件狀態，solidworks組合</p>
 <script>// <![CDATA[
 var winkVideoData = {
@@ -137,7 +137,7 @@ frameStops: {
 },
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1100" height="700" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<div class="winkVideoContainerClass"><video width="1650" height="1250" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
 <source src="./../downloads/final.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
@@ -150,5 +150,29 @@ frameStops: {
 <div class="winkVideoControlBarClass"></div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p>solidwork組裝+要求</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1650" height="1250" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/final-2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoControlBarClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
 <p><span style="color: #ffffff;"><span style="background-color: #ffffff;">心得：</span></span></p>
-<p><span style="color: #ffffff;"><span style="background-color: #ffffff;">pull requests 一直失敗，尚未解決問題</span></span></p>
+<p><span style="color: #ffffff;"><span style="background-color: #ffffff;">自己做出來的很碰壁，只會基礎的solidworks，只會畫不會組的solvespace，只會匯入移動不會動的coppelia sim，甚至連github 的pull requests 都失敗。不過因為有組長的幫忙我才能做到目前這樣，謝謝我的組長(40723217)</span></span></p>
