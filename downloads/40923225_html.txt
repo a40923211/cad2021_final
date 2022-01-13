@@ -120,15 +120,15 @@ HW11
 </ol>
 連桿尺寸
 <p>固定桿尺寸</p>
-<p><img caption="false" height="366" src="/images/1.png" width="650"></p>
+<p><img caption="false" height="366" src="https://40923225.github.io/cad2021_hw/images/1.png" width="650"></p>
 <p>連桿(長)尺寸</p>
-<p><img caption="false" height="365" src="/images/2.png" width="650"></p>
+<p><img caption="false" height="365" src="https://40923225.github.io/cad2021_hw/images/2.png" width="650"></p>
 <p><span>連桿(中)尺寸</span></p>
-<p><span><img alt="" height="366" src="/images/3.png" width="650"></span></p>
+<p><span><img caption="false" height="366" src="https://40923225.github.io/cad2021_hw/images/3.png" width="650"></span></p>
 <p><span>連桿(短)尺寸</span></p>
-<p><span><img alt="" height="366" src="/images/4.png" width="650"></span></p>
+<p><span><img caption="false" height="366" src="https://40923225.github.io/cad2021_hw/images/4.png" width="650"></span></p>
 <p><span>圓柱尺寸</span></p>
-<p><span><img alt="" height="366" src="/images/5.png" width="650"></span></p>
+<p><span><img caption="false" height="366" src="https://40923225.github.io/cad2021_hw/images/5.png" width="650"></span></p>
 <p></p>
 Onshape零件下載
 <p><a href="https://drive.google.com/file/d/1ZIONy24nYUvS-2H03IEF0p2YTOEOcqMu/view?usp=sharing">固定桿</a></p>
