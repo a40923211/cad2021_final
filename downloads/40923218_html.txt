@@ -53,15 +53,28 @@
 <p></p>
 <hr>
 <p>w17考試內容</p>
-<p><a href="https://drive.google.com/file/d/1ITbses67HFrVaTNzWeBfVLNMsbe-iOj0/view?usp=sharing">組立檔</a></p>
-<p><a href="https://drive.google.com/file/d/1DZe-3h5jJ6-dErPxrL58_H5MDO2jPHB-/view?usp=sharing">Coppeliasim模擬檔</a></p>
+<p><a href="https://drive.google.com/file/d/18_8Fh83vWIzGTDM6gnW1_JPxj7hcip3D/view?usp=sharing">組立檔(含零件檔)</a></p>
+<p><a href="https://drive.google.com/file/d/1jw_xPs2uMgGRSEw7-357jckt1PMgHQUY/view?usp=sharing">Coppeliasim模擬檔</a></p>
 <p>(模擬檔未放ui，如需使用ui，請將資料夾內的ui文件檔內容寫進至腳本)</p>
+<p>(以上檔案皆含連桿對調版本)</p>
+<p></p>
+<p>零件:</p>
+<p><img alt="" height="80%" src="https://40923218.github.io/cad2021_hw/images/%E9%87%8D%E8%87%B4meArm(%E9%80%A3%E6%A1%BF%E5%B0%8D%E8%AA%BF).png" width="80%"></p>
 <p>繪圖過程:</p>
 <p>(因為爪子與組立是不同天做的，忘記錄影，故沒有組立過程影片)</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/rfDRcaTj-90" title="YouTube video player"></iframe></p>
 <p>轉入過程:</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/evMoRi2T1dQ" title="YouTube video player"></iframe></p>
 <p></p>
+<hr>
+<p><strong>以下為連桿對調的部分</strong></p>
+<p></p>
+<p>組立過程:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3_36t1FkPhs" title="YouTube video player"></iframe></p>
+<p>轉入過程:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_qU_Z9oq8s4" title="YouTube video player"></iframe></p>
+<p>模擬過程:</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/vcw2vcP2sns" title="YouTube video player"></iframe></p>
 <hr>
 <p>總結:</p>
 <p>這學期碰到了許多新東西，希望對下學期的協同設計有幫助。</p>
