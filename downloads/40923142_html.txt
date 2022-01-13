@@ -1,0 +1,58 @@
+<h3>40923142</h3>
+<p>這學期學習了兩套新的cad軟體，在畫圖時分別使用NX12.0、inventor，</p>
+<p>但在組合零件時我都使用solidwork繪圖軟體的功能。</p>
+<p>-------------------------------------</p>
+<p>NX<span>零件轉出後轉入 CoppeliaSim 操作影片</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Gl6AqQZUOog"></iframe></span></p>
+<p>-------------------------------------</p>
+<p><span></span>期末課堂考試</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/DK5ZsPbi6A4"></iframe></p>
+<p>-------------------------------------</p>
+<p>meArm模擬</p>
+<script>// <![CDATA[
+var winkVideoData3 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="691" height="389" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData3">
+<source src="https://40923142.github.io/cad2021_hw/downloads/mearm-2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-------------------------------------</p>
+<p>四連桿模擬</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="900" height="600" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923142.github.io/cad2021_hw/downloads/123456789.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>

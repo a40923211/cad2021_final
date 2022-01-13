@@ -1,0 +1,145 @@
+<h3>40923206</h3>
+<p><a href="https://solvespace.com/linkage.pl">期末題目連結</a></p>
+<p>期末零件題目繪製</p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/期1.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p>期末題目零件組裝</p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/期2.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------------------------</p>
+<p>期末零件組裝放入coppeliaSim並轉動</p>
+<p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/LAdkN6RbD-k"></iframe></p>
+<p>---------------------------------------------------------------------------------------------------------------------------------</p>
+<p>學習心得:</p>
+<p>一.新學習到的錄製軟體Wink</p>
+<p>Wink安裝</p>
+<ol>
+<li>在 Google 中搜尋 debugmode&nbsp; wink</li>
+<li>點選 Wink-[Homepage]-WinMorph</li>
+<li>點選 Download Wink 3.0 for Windows 下載</li>
+<li>開啟 winksetup.exe</li>
+<li>點選 I Agree 安裝</li>
+<li>完成後續設定</li>
+<li>點選安裝好的 Wink</li>
+<li>點選資料夾中的 Wink.exe，可打開Wink使用</li>
+</ol>
+<p>Wink操作</p>
+<ol>
+<ol>
+<li>點擊File，選擇New</li>
+<li>選擇Ok，選擇Minimize To Tray</li>
+<li>電腦下方會出現一個Wink的圖示，按右鍵選擇Start Timed Capture</li>
+<li>錄製完後再對圖示按右鍵，選擇Finish&nbsp;<span>Capture</span></li>
+<li><span>等待一會兒Wink頁面會出現即可編輯影片</span></li>
+<li><span>編輯完成後點選上方綠色箭頭，完成後再點選綠色鍵頭旁的地球</span></li>
+<li><span>確認影片成功後複製下方原始碼，將黃底的更改成自訂的大小，橘底更改成自己影片存的名稱</span><span></span></li>
+<li>貼到網站原始碼中，即可完成</li>
+</ol>
+</ol>
+<p><img caption="false" height="508" src="https://40923206-1.github.io/cad2021_hw/images/08.PNG" width="556"></p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<ol>
+<ol>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</ol>
+</ol>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/Wink01.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p></p>
+<p></p>
+<p>二.四連桿</p>
+<p>尺寸圖</p>
+<p><img caption="false" height="608" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%961.PNG" width="163"><img caption="false" height="586" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%964.PNG" width="208"><img caption="false" height="242" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%96.PNG" width="147"><img caption="false" height="268" src="https://40923206-1.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%962.PNG" width="549"></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<ol>
+<ol>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</ol>
+</ol>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/四連.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p>三.學習到了<span>CoppeliaSim軟體，並了解如何轉入組合件、爆炸組合件、裝馬達和放入程式轉動馬達。</span></p>
+<p><span>四.學習到了Onshape和NX兩個繪圖軟體的操作，Onshape的操作比較了解，NX的操作還需繼續研究。</span></p>

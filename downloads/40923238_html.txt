@@ -1,0 +1,16 @@
+<h3>40923238</h3>
+<p>Final Project</p>
+<p>coppeliaSim 運動製作</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/VebSUnqPHlw"></iframe></p>
+<p><span>coppeliaSim 過程</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6dcwo1fAr_c"></iframe></p>
+<p>cad組合</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/8e4EbCW-VvQ"></iframe></p>
+<p>cad繪製</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/8r9gvFYovkE"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GnNtO3yHD9E"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/fyvDGTS4J9Y"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/4QUVNBRRrnE"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/OVvbt90kDQ4"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EJuEI10i7Bs"></iframe></p>
+<p></p>

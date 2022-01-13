@@ -1,5 +1,7 @@
 <h3>40923122</h3>
 <p>這學期有學了兩套繪圖軟體，一個是NX12，另一個是solve spacd，<span>solve spacd這一套是我完全沒有學過的，研究了很久，雖然繪畫了一點點，但畫的速度非常慢，不太熟悉，一些簡單組合式還可以，NX呢，我是算比較熟的，因為以前有學過一點點，所以會比較上手，再來還有學到一個新的程式，就是wink，算是一個可以記錄你操作過程的程式，這也是一個新的東西，這我也已經學會了，再來就是coppeliasim，這...我真的沒有很熟悉，但還是有學到一些。</span></p>
+<p><span>2022/01/03期末考</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/DHtr-p_O-mA"></iframe></span></p>
 <p><span>四連趕機構</span></p>
 <p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/tuo-Vsy_xpI"></iframe></span></p>
 <p><span>機械手臂</span></p>
@@ -7,113 +9,15 @@
 <p></p>
 <p></p>
 <p>機械手臂零件</p>
-<script>// <![CDATA[
-var winkVideoData1 = {
-  dataVersion: 1,
-  frameRate: 10,
-  buttonFrameLength: 5,
-  buttonFrameOffset: 2,
-  frameStops: {
-  },
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="900" height="600" autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData1" loop="loop" muted="" playsinline="">
-<source src="./../downloads/NX.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923122.github.io/cad2021_hw/downloads/NX.mp4" type="video/mp4" /></video></p>
+<p>wink下載教學</p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923122.github.io/cad2021_hw/downloads/test2.mp4" type="video/mp4" /></video></p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923122.github.io/cad2021_hw/downloads/test3.mp4" type="video/mp4" /></video></p>
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-<div class="winkVideoPlayOverlayClass">下載wink</div>
-<p></p>
-<script>// <![CDATA[
-var winkVideoData2 = {
-  dataVersion: 1,
-  frameRate: 10,
-  buttonFrameLength: 5,
-  buttonFrameOffset: 2,
-  frameStops: {
-    "2": [
-      { type: "gotoframe", rect: { x: 549, y: 283, width: 33, height: 17 }, target: 3 },
-    ],
-    "7": [
-      { type: "gotoframe", rect: { x: 496, y: 284, width: 33, height: 17 }, target: 2 },
-      { type: "gotoframe", rect: { x: 529, y: 284, width: 33, height: 17 }, target: 8 },
-    ],
-    "12": [
-      { type: "gotoframe", rect: { x: 575, y: 322, width: 33, height: 17 }, target: 7 },
-    ],
-  },
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="900" height="600" autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData2" loop="loop" muted="" playsinline="">
-<source src="./../downloads/test2.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<script>// <![CDATA[
-var winkVideoData3 = {
-  dataVersion: 1,
-  frameRate: 10,
-  buttonFrameLength: 5,
-  buttonFrameOffset: 2,
-  frameStops: {
-    "2": [
-      { type: "gotoframe", rect: { x: 564, y: 361, width: 60, height: 24 }, target: 3 },
-    ],
-    "7": [
-      { type: "gotoframe", rect: { x: 345, y: 373, width: 60, height: 24 }, target: 2 },
-      { type: "gotoframe", rect: { x: 418, y: 370, width: 60, height: 24 }, target: 8 },
-    ],
-    "12": [
-      { type: "gotoframe", rect: { x: 676, y: 373, width: 60, height: 24 }, target: 7 },
-      { type: "gotoframe", rect: { x: 751, y: 372, width: 60, height: 24 }, target: 13 },
-    ],
-    "17": [
-      { type: "gotoframe", rect: { x: 550, y: 296, width: 60, height: 24 }, target: 12 },
-      { type: "gotoframe", rect: { x: 623, y: 293, width: 60, height: 24 }, target: 18 },
-    ],
-    "22": [
-      { type: "gotoframe", rect: { x: 463, y: 167, width: 60, height: 24 }, target: 17 },
-      { type: "gotoframe", rect: { x: 544, y: 168, width: 60, height: 24 }, target: 23 },
-    ],
-    "27": [
-      { type: "gotoframe", rect: { x: 644, y: 415, width: 60, height: 24 }, target: 22 },
-      { type: "gotoframe", rect: { x: 711, y: 415, width: 60, height: 24 }, target: 28 },
-    ],
-  },
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="900" height="600" autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData3" loop="loop" muted="" playsinline="">
-<source src="./../downloads/test3.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
 <p><span>NX可攜式下載教學&nbsp;</span></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/mXj7sVWiVh4"></iframe></p>
 <p><br><span>NX操作流程及簡介&nbsp;</span></p>
@@ -134,4 +38,3 @@ var winkVideoData3 = {
 <p><span></span></p>
 <p></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/B4wGzqZsTGo"></iframe></p>
-<p></p>

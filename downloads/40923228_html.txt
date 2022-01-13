@@ -1,0 +1,31 @@
+<h3>40923228</h3>
+<p>Final Project</p>
+<p></p>
+<p><span style="background-color: #ffff99;"></span></p>
+<p><strong>零件檔影片</strong></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/KdtZpSYeQEU"></iframe></p>
+<p>wink final test</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923228.github.io/cad2021_hw/downloads/final%20test.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得:這學期學到很多東西，一開始被分配到兩個繪圖軟體.，分別是NX跟onshape，這兩個繪圖軟體對我來說都是新的東西，剛開始很排斥畫，到後來開始做作業的時候，發現繪圖邏輯都是一樣的，只有按鈕長的不一樣，後來又學到coppeliasim要組機械手臂，那真的很難，但到後來詢問組長和同住的室友就有比較了解，謝謝老師這學期的教導。</p>

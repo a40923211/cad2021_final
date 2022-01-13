@@ -1,0 +1,391 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>Final Project</title>
+        <meta charset="utf-8">
+<meta property="head" content="H3">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+        
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <!-- for Wink3 -->
+        <link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css" />
+        <script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"></script>
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDiff.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushRust.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container-fluid'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container-fluid">
+                <div class="row align-items-center">
+                <h1>2021 電腦輔助設計實習課程期末評分網站</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">2021 電腦輔助設計實習課程期末評分網站</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li><a href='About.html'>About</a><li><a href='Final Project-1.html'>Final Project-1</a><li><a href='Notice.html'>Notice</a><li class='has-children'><a href='2a.html'>2a</a><ul class='dropdown'><li class='has-children'><a href='2ag1.html'>2ag1</a><ul class='dropdown'><li><a href='40923156.html'>40923156</a><li><a href='40923113.html'>40923113</a><li><a href='40923108.html'>40923108</a><li><a href='40923103.html'>40923103</a><li><a href='40923101.html'>40923101</a></li></ul><li class='has-children'><a href='2ag2.html'>2ag2</a><ul class='dropdown'><li><a href='40923110.html'>40923110</a><li><a href='40923107.html'>40923107</a><li><a href='40923106.html'>40923106</a><li><a href='40923105.html'>40923105</a><li><a href='40923104.html'>40923104</a><li><a href='40923102.html'>40923102</a></li></ul><li class='has-children'><a href='2ag3.html'>2ag3</a><ul class='dropdown'><li><a href='40971134.html'>40971134</a><li><a href='40923154.html'>40923154</a><li><a href='40923148.html'>40923148</a><li><a href='40923119.html'>40923119</a><li><a href='40923109.html'>40923109</a></li></ul><li class='has-children'><a href='2ag4.html'>2ag4</a><ul class='dropdown'><li><a href='40923146.html'>40923146</a><li><a href='40923129.html'>40923129</a><li><a href='40923122.html'>40923122</a><li><a href='40923116.html'>40923116</a><li><a href='40923115.html'>40923115</a><li><a href='40923114.html'>40923114</a><li><a href='40923111.html'>40923111</a></li></ul><li class='has-children'><a href='2ag5.html'>2ag5</a><ul class='dropdown'><li><a href='40923151.html'>40923151</a><li><a href='40923142.html'>40923142</a><li><a href='40923137.html'>40923137</a><li><a href='40923123.html'>40923123</a></li></ul><li class='has-children'><a href='2ag6.html'>2ag6</a><ul class='dropdown'><li><a href='40923128-1.html'>40923128-1</a><li><a href='40923128-2.html'>40923128-2</a><li><a href='40923125.html'>40923125</a><li><a href='40923120.html'>40923120</a></li></ul><li class='has-children'><a href='2ag7.html'>2ag7</a><ul class='dropdown'><li><a href='40923135.html'>40923135</a></li></li></ul></ul><li class='has-children'><a href='2b.html'>2b</a><ul class='dropdown'><li class='has-children'><a href='2bg1.html'>2bg1</a><ul class='dropdown'><li><a href='40923235.html'>40923235</a><li><a href='40923231.html'>40923231</a><li><a href='40923230.html'>40923230</a><li><a href='40923217.html'>40923217</a><li><a href='40923210.html'>40923210</a><li><a href='40923208.html'>40923208</a><li><a href='40923205.html'>40923205</a><li><a href='40923201.html'>40923201</a></li></ul><li class='has-children'><a href='2bg2.html'>2bg2</a><ul class='dropdown'><li><a href='40923228.html'>40923228</a><li><a href='40923226.html'>40923226</a><li><a href='40923209.html'>40923209</a><li><a href='40923207.html'>40923207</a><li><a href='40923204.html'>40923204</a><li><a href='40923203.html'>40923203</a></li></ul><li class='has-children'><a href='2bg3.html'>2bg3</a><ul class='dropdown'><li><a href='40923252.html'>40923252</a><li><a href='40923249.html'>40923249</a><li><a href='40923248.html'>40923248</a><li><a href='40923247.html'>40923247</a><li><a href='40923245.html'>40923245</a><li><a href='40923216.html'>40923216</a><li><a href='40923206.html'>40923206</a></li></ul><li class='has-children'><a href='2bg4.html'>2bg4</a><ul class='dropdown'><li><a href='40923250.html'>40923250</a><li><a href='40923243.html'>40923243</a><li><a href='40923236.html'>40923236</a><li><a href='40923227.html'>40923227</a><li><a href='40923223.html'>40923223</a><li><a href='40923218.html'>40923218</a><li><a href='40923211.html'>40923211</a></li></ul><li class='has-children'><a href='2bg5.html'>2bg5</a><ul class='dropdown'><li><a href='40923253.html'>40923253</a><li><a href='40923251.html'>40923251</a><li><a href='40923237.html'>40923237</a><li><a href='40923234.html'>40923234</a><li><a href='40923229.html'>40923229</a><li><a href='40923212.html'>40923212</a></li></ul><li class='has-children'><a href='2bg6.html'>2bg6</a><ul class='dropdown'><li><a href='40923246.html'>40923246</a><li><a href='40923225.html'>40923225</a><li><a href='Final Project-2.html'>Final Project-2</a></li></ul><li class='has-children'><a href='2bg7.html'>2bg7</a><ul class='dropdown'><li><a href='40923240.html'>40923240</a><li><a href='40923238.html'>40923238</a><li><a href='40923233.html'>40923233</a><li><a href='40923224.html'>40923224</a><li><a href='40923220.html'>40923220</a></li></ul><li class='has-children'><a href='2bg8.html'>2bg8</a><ul class='dropdown'><li><a href='40971227.html'>40971227</a><li><a href='40871106.html'>40871106</a><li><a href='40823122.html'>40823122</a><li><a href='40823117.html'>40823117</a><li><a href='40823115.html'>40823115</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+          
+        </header>
+    <div id="tipue_search_content">40923246 << <a href='40923246.html'>Previous</a> <a href='Final Project-2.html'>Next</a> >> Final Project-2<br /><h1>40923225</h1>
+CAD1 繪圖(Onshape)
+<p><img alt="首頁- 桂源科技股份有限公司" caption="false" height="210" src="https://www.gtocad.com/wp-content/uploads/2021/03/Onshape-Logo2020.svg" width="550"/></p>
+<p>CAD1 指各學員所分配到的第一套參數式 CAD 套件, 其中包括 Solidworks, Inventor, NX, Onshape 與 Solvespace.</p>
+<p>CAD1 緣起說明與介紹(Onshape)</p>
+<p><span style="color: #ff6600;"><span style="color: #333333;">(origin)<span style="color: #800000;">Jon Hirschtick</span> founded <span style="color: #ff6600;">Solidworks</span> in 1993. He left the <span style="color: #ff6600;">Solidworks</span> team in 2011 and founded <span style="color: #ff6600;">Onshape</span> in 2012. The ideas that were not used in <span style="color: #ff6600;">Solidworks</span> will be put on<span style="color: #ff6600;"> Onshape</span>.</span></span></p>
+<div aria-hidden="true" class="UdTY9 BwTYAc" data-location="1" jsaction="rcuQ6b:gXkcrf;agoMJf:gXkcrf;h5CHLc:RHer4,P6Fjxb;rpiAHc:GitQp,fNH7he" jscontroller="ZbunN" jsname="ymb6re">
+<div class="kO6q6e" jsname="jTaUub">(Feature introduction)</div>
+</div>
+<div jsname="OeZ3nd">1.Collaboration function</div>
+<div jsname="OeZ3nd">Share designs across devices. Edit with collaboration</div>
+<div jsname="OeZ3nd">2.Convenience and time saving</div>
+<div jsname="OeZ3nd">The parts modified by the designer will be uploaded to the cloud in real time. Customers can view the modified parts on the cloud from a distance. The whole process is faster than previous programs</div>
+<div jsname="OeZ3nd">中:</div>
+<div jsname="OeZ3nd"><span style="color: #ff6600;"><span style="color: #333333;">(緣起)<span style="color: #800000;">Jon Hirschtick</span>於1993年創辦了<span style="color: #ff6600;">Solidworks</span>.在2011年離開<span style="color: #ff6600;">Solidworks</span>團隊,並於2012年創立了<span style="color: #ff6600;">Onshape</span>公司.將沒在<span style="color: #ff6600;">Solidworks</span>上發揮的創意.投注到了<span style="color: #ff6600;">Onshape</span>上</span></span></div>
+<div jsname="OeZ3nd">(特色介紹)</div>
+<div jsname="OeZ3nd">1.協作功能</div>
+<div jsname="OeZ3nd">跨設備分享設計.與可協作編輯</div>
+<div jsname="OeZ3nd">2.便利與省時</div>
+<div jsname="OeZ3nd">設計者所修改後的零件.會即時上傳雲端.客戶可以在遠方上雲端查看修改的部分.整個過程比以往的程式更快速</div>
+<div jsname="OeZ3nd"></div>
+CAD1 安裝配置(Onshape)
+<p><a href="https://youtu.be/9LeVLRZyzqg[https://youtu.be/9LeVLRZyzqg](url)">OnShape使用註冊</a><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/9LeVLRZyzqg" title="YouTube video player" width="560"></iframe></p>
+<p style="text-align: center;"><sup><span style="color: #ff0000;"><strong>1.首先到Onshape的首頁，然後選擇學生註冊帳號</strong></span></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="386" src="https://40923225.github.io/cad2021_hw/images/1.png" width="781"/></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">2.進行註冊</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="454" src="https://40923225.github.io/cad2021_hw/images/2.png" width="917"/></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">3.註冊學校的相關資料.之後就到信箱點開激活碼</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="445" src="https://40923225.github.io/cad2021_hw/images/3.png" width="900"/></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">4.設定基礎單位</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="439" src="https://40923225.github.io/cad2021_hw/images/4.png" width="900"/></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">5.首頁</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="439" src="https://40923225.github.io/cad2021_hw/images/5.png" width="900"/></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">6.繪圖畫面</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="439" src="https://40923225.github.io/cad2021_hw/images/6.png" width="900"/></span></strong></sup></p>
+CAD1 操作流程(Onshape)
+<p><a href="https://youtu.be/9esL2qFSnMs[https://youtu.be/9esL2qFSnMs](url)">Onshape 零組件繪圖教學</a></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/9esL2qFSnMs" title="YouTube video player" width="560"></iframe></p>
+CAD2 繪圖(SOLVESPACE)
+<p><b>SOLVESPACE</b><span>是一个参数化的3D CAD程序</span></p>
+<p><span>功能包括：</span></p>
+<ul>
+<li><strong><span>3D零件建模</span></strong><span>— 使用拉伸、掃略以及布爾（合集/差集）運算繪製。</span></li>
+<li><strong><span>2D零件建模</span></strong><span>— 繪製零件的截面圖，</span><span>輸出</span><span>為DXF，PDF，SVG；並在3D組建來驗證外形。</span></li>
+<li><strong><span>3D打印機零件</span></strong><span>—</span><span>輸出</span><span>為STL或者三角網格，對3D打印機友好。</span></li>
+<li><strong><span>準備CAM數據</span></strong><span>— 為高壓水切、激光等切割機</span><span>輸出</span><span>2D矢量；或者</span><span>生成</span><span>STEP或STL，輸入第三方CAM軟件用於加工。</span></li>
+<li><strong><span>機械設計</span></strong><span>— 使用約束求解器來使用Pin，ball或slide節點模擬水平的或空</span><span>間的</span><span>鏈接</span><span>。</span></li>
+<li><strong><span>平面和實體幾何</span></strong><span>— 使用動態的標註繪製取代手工的剪裁和表格。</span></li>
+</ul>
+CAD2 安裝配置(solvespace)
+<p><a href="https://youtu.be/-Xzkz0hrfg4[https://youtu.be/-Xzkz0hrfg4](url)">solvespace下載</a></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/-Xzkz0hrfg4" title="YouTube video player" width="560"></iframe></p>
+CAD2 操作流程(solvespace)
+<p><a href="https://youtu.be/r9KgcdabH8E[https://youtu.be/r9KgcdabH8E](url)">solvespace繪圖教學</a></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/r9KgcdabH8E" title="YouTube video player" width="560"></iframe></p>
+運動場景
+<h4>CAD1(<span>OnShape)</span>:</h4>
+<p style="padding-left: 30px;">CAD1 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD1 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD1 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 - </span><span>OnShape</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff99;"> </span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.<br/></span></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/gM2XuRRMtC4" title="YouTube video player" width="560"></iframe></p>
+<h4>CAD2(<span>solvespace)</span>:</h4>
+<p style="padding-left: 30px;">CAD2 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD2 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD2 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 -</span><span>solvespace</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff99;"></span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.</span>.</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Mt57K00LYrE" title="YouTube video player" width="560"></iframe></p>
+W13
+<script>
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="800" width="1200">
+<source src="./../downloads/o.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="https://github.com/40923225/cad2021_final/new/main/downloads"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<script>
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="800" width="1200">
+<source src="./../downloads/s.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+HW11
+<h4>驗收交付內容:</h4>
+<ol>
+<li>各<span>零件尺寸圖</span>與<span> </span><span>3D 零件檔案</span>, 請放入各學員的倉儲中並在 W11 標題 H2 頁面中<span>提供下載</span>.</li>
+<li>請將兩套 CAD<span> </span><span>繪圖過程製作成一份 Wink 影片</span>檔案, 並放入 W11 標題 H2 頁面中..</li>
+<li>請將組立件轉入 CoppeliaSim, 並製作運動<span>模擬場景的過程, 製作成一份 Wink 影片</span>檔案, 並放入個人網頁中的 W11 標題 H2 頁面中</li>
+</ol>
+連桿尺寸
+<p>固定桿尺寸</p>
+<p><img caption="false" height="366" src="./../images/1.png" width="650"/></p>
+<p>連桿(長)尺寸</p>
+<p><img caption="false" height="365" src="./../images/2.png" width="650"/></p>
+<p><span>連桿(中)尺寸</span></p>
+<p><span><img alt="" height="366" src="./../images/3.png" width="650"/></span></p>
+<p><span>連桿(短)尺寸</span></p>
+<p><span><img alt="" height="366" src="./../images/4.png" width="650"/></span></p>
+<p><span>圓柱尺寸</span></p>
+<p><span><img alt="" height="366" src="./../images/5.png" width="650"/></span></p>
+
+Onshape零件下載
+<p><a href="https://drive.google.com/file/d/1ZIONy24nYUvS-2H03IEF0p2YTOEOcqMu/view?usp=sharing">固定桿</a></p>
+<p><a href="https://drive.google.com/file/d/1cM02Gv3-hfKaT7HuzHWk3pB1qJ_JlaPD/view?usp=sharing">連桿(長)</a></p>
+<p><a href="https://drive.google.com/file/d/1YiBp7EVIaxiMQruovwlmnr9JVI9ZK_i_/view?usp=sharing">連桿(中)</a></p>
+<p><a href="https://drive.google.com/file/d/1HSLzF48lYX0JBEfaAgTYvYwZjPbgQWRT/view?usp=sharing">連桿(短)</a></p>
+<p><a href="https://drive.google.com/file/d/1tA4oREK6uI0v6v9f7dMcWXPti3rG_tKx/view?usp=sharing">圓柱</a></p>
+Onshape零件影片
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/6rw3ChYI81Q" title="YouTube video player" width="560"></iframe></p>
+Onshape動態模擬
+<p><img alt="" height="235" src="./../images/10.jpg" width="214"/></p>
+Solvespace零件下載
+<p><a href="https://drive.google.com/file/d/1cM02Gv3-hfKaT7HuzHWk3pB1qJ_JlaPD/view?usp=sharing"></a></p>
+<p><a href="https://drive.google.com/file/d/1HSLzF48lYX0JBEfaAgTYvYwZjPbgQWRT/view?usp=sharing">連桿(短)</a></p>
+<p><a href="https://drive.google.com/file/d/1YiBp7EVIaxiMQruovwlmnr9JVI9ZK_i_/view?usp=sharing">連桿(中)</a></p>
+<p><a href="https://drive.google.com/file/d/1cM02Gv3-hfKaT7HuzHWk3pB1qJ_JlaPD/view?usp=sharing">連桿(長)</a></p>
+<p><a href="https://drive.google.com/file/d/1ZIONy24nYUvS-2H03IEF0p2YTOEOcqMu/view?usp=sharing">固定桿</a></p>
+<p><a href="https://drive.google.com/file/d/1tA4oREK6uI0v6v9f7dMcWXPti3rG_tKx/view?usp=sharing">圓柱</a></p>
+Solvespace零件影片
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/nRQKMV21YLw" title="YouTube video player" width="560"></iframe></p>
+Solvespace動態模擬
+<p><img alt="" height="235" src="./../images/10.jpg" width="214"/></p>
+<p>零件繪製過程</p>
+<script>
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="712" width="1138">
+<source src="./../downloads/01.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>轉檔過程</p>
+<script>
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="712" width="1138">
+<source src="./../downloads/2.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<br />40923246 << <a href='40923246.html'>Previous</a> <a href='Final Project-2.html'>Next</a> >> Final Project-2</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        

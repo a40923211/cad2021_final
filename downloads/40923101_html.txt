@@ -1,5 +1,20 @@
 <h3>40923101</h3>
-<p><span>請自選 <strong>CAD</strong> 套件，</span><span>完成零組件繪圖後， 轉入 <strong>CoppeliaSim</strong>，以 <strong>Slider 0-360</strong> 度控制藍色搖桿轉動.</span></p>
+<p><span><strong>第一階段</strong>: 請將自己所完成繪製的 meArm Robot 零件與組立檔案畫面呈現在網頁中，</span></p>
+<p><span> 並將所有零件與組立檔案壓縮成"學號_final.zip" 送到個人的&nbsp;</span><span>GDrive，並將連結轉為公開下載。</span></p>
+<p><span style="background-color: #cc99ff;">meArm Robot 零件與組立檔下載</span></p>
+<p><a href="https://drive.google.com/file/d/1E040yAglk14i4q_jkw9qVQkEhlMPF8lV/view?usp=sharing">https://drive.google.com/file/d/1E040yAglk14i4q_jkw9qVQkEhlMPF8lV/view?usp=sharing</a></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/78.png" alt="" width="500" height="281"></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/79.png" alt="" width="500" height="281"></p>
+<p><br><span><strong>第二階段</strong>: 請修改第一階段個人所完成的 meArm 組立檔案，</span></p>
+<p><span>將兩側連桿機構互換， 即將帶有三角形連桿的機構與另一方機構互相對調。</span></p>
+<p><span>完成後在網頁中呈現所完成的組立圖畫面，</span></p>
+<p><span>並將零組件檔案壓縮成"學號_final_stage2.zip" 送到個人的</span><span>&nbsp;GDrive， 並將連結轉為公開下載。</span></p>
+<p><span style="background-color: #cc99ff;">meArm 零件與組立檔下載</span></p>
+<p><span><a href="https://drive.google.com/file/d/1hkae5JA148rwG2aVY1FEd3FtQfKxp8c7/view?usp=sharing">https://drive.google.com/file/d/1hkae5JA148rwG2aVY1FEd3FtQfKxp8c7/view?usp=sharing</a></span></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/75.png" width="500"></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/76.png" alt="" width="500" height="281"></p>
+<p><span>請自選 <strong>CAD</strong> 套件</span><span>完成零組件繪圖後， </span></p>
+<p><span>轉入 <strong>CoppeliaSim&nbsp;</strong>以 <strong>Slider 0-360</strong> 度控制藍色搖桿轉動。</span></p>
 <p><span>零件繪製</span></p>
 <p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_3BmKB4n2ro.png" width="500"></p>
 <p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_wZ8GT67QH5.png" width="500"></p>
@@ -11,9 +26,16 @@
 <p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_GnCu4oQRdV.png" width="500"></p>
 <p>零件組合圖</p>
 <p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_ZedJoaIHiA.png" width="500"></p>
-<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/deI4Z7HfVE4"></iframe><span style="background-color: #ccffff;"><strong><br></strong></span></p>
-<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/NDHH_xiibPE"></iframe></p>
-<p><span>以相同尺寸完成對稱之連桿機構，</span><span>&nbsp;從 CAD 套件轉入 CoppeliaSim 後， 以 Slider 0-360 度控制 Point0-Point1 搖桿轉動.</span></p>
+<p><strong><span style="background-color: #ccffff;">連桿機構繪圖組合影片</span></strong></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/deI4Z7HfVE4"></iframe></p>
+<p><strong><span style="background-color: #ccffff;">連桿機構CoppeliaSim影片</span></strong></p>
+<p><span style="background-color: #ccffff;"><strong><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ybEOXYlYOZQ"></iframe></strong></span></p>
+<p><span>以相同尺寸完成對稱之連桿機構，</span><span>&nbsp;</span></p>
+<p><span>從 CAD 套件轉入 CoppeliaSim 以 Slider 0-360 度控制 Point0-Point1 搖桿轉動。</span></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/SLDWORKS_wCeuehmmea.png" width="500"></p>
+<p><strong><span style="background-color: #ccffff;">對稱之連桿機構CoppeliaSim影片</span></strong></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/YAtANoNa96k"></iframe></p>
+<p><span></span></p>
 <p><strong>這學期分配到&nbsp;Solvespace&nbsp;及 NX，</strong></p>
 <p><strong>之前都沒接觸過這兩款繪圖軟體，</strong></p>
 <p><strong>趁著這次機會學會了利用這兩個軟體來製圖，</strong></p>
@@ -21,16 +43,33 @@
 <p><span style="background-color: #ffcc99;"><strong>Solvespace</strong></span></p>
 <p>SolveSpace&nbsp;<span>是一個免費和開源的&nbsp;</span><span><span style="color: #ff0000;"><strong>2D</strong></span>&nbsp;和&nbsp;<span style="color: #ff0000;"><strong>3D CAD</strong></span>&nbsp;</span><span>程序，</span></p>
 <p><span><span>它是一個基於約束的<span style="color: #ff0000;"><strong>參數建模器</strong></span>，具有簡單的機械仿真功能。</span></span></p>
+<p>先下載<strong>&nbsp;</strong>SolveSpace</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/13.png" width="500"></p>
+<p>按下&nbsp;<strong>Download</strong></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/14.png" width="500"></p>
+<p>點開<span>&nbsp;</span><strong>3.0stable</strong></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/15.png" width="500"></p>
+<p><span>就來到<strong>github</strong>，在選擇<span>&nbsp;</span><strong>solvespace.exe&nbsp;</strong>下載下來</span></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/16.png" width="500"></p>
+<p>下載完後將小白窗開啟，加入&nbsp;<span style="background-color: #ccffcc;"><strong>star %Disk%solvespace.exe</strong></span><span>&nbsp;</span>，儲存下來</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/17.png" width="500"></p>
+<p>重啟<span>&nbsp;</span><strong>start_ipv4</strong><span>&nbsp;</span>後，就會直接開啟&nbsp;<strong>solvespace</strong><br><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/22.png" width="500"></p>
+<p><span style="background-color: #ccffff;"><strong>SolveSpace下載</strong><strong>影片</strong></span></p>
+<p><strong><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/zSXl1I6kAqg"></iframe></strong></p>
+<p><strong><span style="background-color: #ccffff;"></span></strong></p>
+<p><strong><span style="background-color: #ccffff;">SolveSpace繪圖影片</span></strong></p>
 <p><span><span><strong><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/YnoBgcOz6Yc"></iframe></strong></span></span></p>
 <p><span style="background-color: #ffcc99;"><strong>NX</strong></span></p>
 <p>NX&nbsp;是<strong><span>&nbsp;</span><span style="color: #ff0000;">西門子 Siemens PLM Software</span>&nbsp;</strong>公司出品的一個產品工程解決方案，</p>
 <p>它為用户的產品設計及加工過程提供了數字化造型和驗證手段，</p>
 <p>NX&nbsp;這是一個交互式<span>&nbsp;</span><strong><span style="color: #ff0000;">CAD/CAM</span>&nbsp;<span style="color: #ff0000;">計算機輔助設計與計算機輔助製造</span><span style="color: #ff0000;">系統</span></strong>，</p>
 <p>它功能強大可以輕鬆實現各種複雜實體及造型的建構。</p>
+<p><strong><span style="background-color: #ccffff;">NX&nbsp;繪圖影片</span></strong></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/28HzJwKTcJw"></iframe></p>
 <p><span style="background-color: #ffcc99;"><strong>CoppeliaSim</strong></span></p>
 <p><span>將&nbsp;<strong><span style="color: #ff0000;">meArm</span>&nbsp;</strong></span>的零件繪製好後組裝，在<strong><span>&nbsp;</span></strong>CoppeliaSim&nbsp;模擬運動，</p>
 <p>可以透過&nbsp;<strong><span style="color: #ff0000;">UI</span>&nbsp;</strong>介面中的<span>&nbsp;</span><span style="color: #ff0000;"><strong>slider</strong></span><span>&nbsp;</span>控制各軸作動旋轉的運動模型。</p>
+<p><strong><span style="background-color: #ccffff;">meArm機構CoppeliaSim影片</span></strong></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xC1s0Vccgns"></iframe></p>
 <p></p>
 <p><strong>再來還有學習如何使用&nbsp;wink&nbsp;來製作影片，並放上自己的網站上面</strong></p>
@@ -38,5 +77,94 @@
 <p>wink<span>&nbsp;製作影片是用多張照片<strong><span style="color: #ff0000;">截圖編輯</span></strong>，</span></p>
 <p><span>在這些照片上面編輯文字或鼠標，</span></p>
 <p>形成一部影片。</p>
-<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EvvBaMt1ob0"></iframe><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/TcUFYGTy2Rs"></iframe></p>
+<p>Google尋找<span>&nbsp;</span><span style="background-color: #ccffcc;"><strong>debugmode wink</strong></span></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/11.png" width="500"></p>
+<p>將<span>&nbsp;</span><strong>wink</strong><span>&nbsp;</span>下載</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/12.png" width="500"></p>
+<p>點開<span>&nbsp;</span><strong>winksetup</strong>，按下<span>&nbsp;</span><strong>I Agree</strong></p>
+<p><img alt="" height="321" src="https://a40923101.github.io/cad2021_hw/images/18.png" width="500"></p>
+<p>按&nbsp;<strong>Browse&nbsp;</strong>將資料存在&nbsp;<strong>date&nbsp;</strong>裡的&nbsp;<strong>wink</strong>，最後&nbsp;<strong>Install&nbsp;</strong>就下載好了</p>
+<p><img alt="" height="320" src="https://a40923101.github.io/cad2021_hw/images/19.png" width="500"></p>
+<p>點開<span>&nbsp;</span><strong>wink.exe</strong></p>
+<p><img alt="" height="320" src="https://a40923101.github.io/cad2021_hw/images/20.png" width="500"></p>
+<p>開啟後就可以使用<span>&nbsp;</span><strong>wink</strong><span>&nbsp;</span>製作影片</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/21.png" width="500"></p>
+<p><strong><span style="background-color: #ccffff;">wink下載影片</span></strong></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EvvBaMt1ob0"></iframe></p>
+<p>將&nbsp;<strong>wink&nbsp;</strong>放進倉儲裡面</p>
+<p>先到老師的&nbsp;<span><strong>wink&nbsp;</strong>影片開啟原始碼</span></p>
+<p><span><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/42.png" width="500"></span></p>
+<p><span>複製原始碼</span><br><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/40.png" width="500"></p>
+<p><span>將複製下來的原始碼貼在&nbsp;</span><strong>Source code</strong></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/37.png" width="500"></p>
+<p>接著開啟錄好的&nbsp;<strong>wink&nbsp;</strong>影片開啟原始碼</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/39.png" width="500"></p>
+<p>在複製一次原始碼</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/38.png" width="500"></p>
+<p>將複製下來的原始碼貼在&nbsp;<strong>Source code</strong></p>
+<p>並且修改</p>
+<p><span style="background-color: #ccffcc;"><strong>&lt;video width="960" height="540"</strong></span>&nbsp;(影片的尺寸)</p>
+<p><strong>data-dirname="<span style="background-color: #ccffcc;">/static</span>" data-varname="winkVideoData" video=""&gt;</strong><br><strong></strong></p>
+<p><strong>&lt;source src="<span style="background-color: #ccffcc;">/downloads/</span>wink 4.mp4"</strong></p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/41.png" width="500"></p>
+<p>要將影片放進&nbsp;<strong>downloads<span>&nbsp;</span></strong>裡面</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/43.png" width="500"></p>
+<p>就可以看到&nbsp;<strong>wink&nbsp;</strong>影片</p>
+<p><img alt="" height="281" src="https://a40923101.github.io/cad2021_hw/images/44.png" width="500"></p>
+<p><strong><span style="background-color: #ccffff;">wink放進網站影片</span></strong></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/TcUFYGTy2Rs"></iframe></p>
 <p></p>
+<p>說明從 1950 年至 2020 年從 2D CAD 至目前常見的 3D 套件發展分別具備哪些功能與特性。</p>
+<p><strong>第一代1946-1958</strong></p>
+<p><strong><span style="background-color: #ffcc99;">使用元件</span></strong>:真空管</p>
+<p><strong><span style="background-color: #99ccff;">軟體</span></strong>:機器語言或組合語言</p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/47.jpg" alt="" width="500" height="382"></p>
+<p>在1950年代早期的電腦繪圖 (CG，ComputerGraphics) 萌芽初期，</p>
+<p>電腦本身仍屬於初始的技術研發階段，</p>
+<p>大致是應用於科學運算的模擬運作，如<strong>太空飛行</strong>、<strong>軍事演模擬</strong>等</p>
+<p>此時的電腦繪圖僅限於<strong><span style="color: #ff0000;">數字</span><span style="color: #ff0000;">的運算</span></strong>和<strong><span style="color: #ff0000;">科技</span></strong>的使用範圍，</p>
+<p>經過電腦的輸出入方法進一步的發展可以直接處理視覺性的圖形之後，</p>
+<p>電腦開始引起了一些從事藝術工作者的注意，</p>
+<p>於是利用電腦從事藝術創作的活動便逐漸的活躍了起來。</p>
+<p></p>
+<p><strong>第二代1959-1964</strong></p>
+<p><span><span style="background-color: #ffcc99;"><strong>使用元件</strong></span><span>:</span>使用電晶體</span></p>
+<p><span><strong><span style="background-color: #99ccff;">軟體</span></strong><span>:</span>高階語言或等來設計應用程式</span></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/50.jpg" alt="" width="500" height="396"></p>
+<p><span>在1960年代在美國波音公司的研究報告中</span><span>出現了「<span style="color: #ff0000;"><strong>電腦繪圖</strong></span>」。</span></p>
+<p><span>這一時期大部分藝術家停在觀望的腳步，</span></p>
+<p><span>主要電腦繪圖的研究人員仍是科學家，</span></p>
+<p><span>由於在發展的初期電腦繪圖必須由人設計程式的方式展現，</span></p>
+<p><span>操空介面<strong>人性化程度低</strong>，</span></p>
+<p><span>此階段所呈現的作品以<strong>點線面</strong>的變化為主，</span></p>
+<p><span>此時的作品以<strong>數學運算為基礎</strong>，</span></p>
+<p><span>在呈現上非常難以直觀與具體的控制呈現，</span></p>
+<p><span>直到<strong><span style="color: #ff0000;">數位描繪板</span></strong>的發明，</span></p>
+<p><span>電腦繪圖對使用者而言可以說是劃時代的突破。</span></p>
+<p><span></span></p>
+<p><strong>第三代1965-1970</strong></p>
+<p><strong><span style="background-color: #ffcc99;">使用元件</span></strong><span>:</span>使用機體電路IC</p>
+<p><strong><span style="background-color: #99ccff;">軟體</span></strong><span>:</span>繼續發展簡易的<span>高階語言，使用作業系統與套裝軟體是本階段的重要特色</span></p>
+<p><span></span></p>
+<p><strong><img src="https://a40923101.github.io/cad2021_hw/images/48.jpg" alt="" width="500" height="375"></strong></p>
+<p><strong>第四代1971-今日</strong></p>
+<p><span><strong><span style="background-color: #ffcc99;">使用元件</span></strong><span>:</span>使用大型機體電路LSI或使用超大型機體電路VLSI</span></p>
+<p><span><strong><span style="background-color: #99ccff;">軟體</span></strong><span>:</span>以功能導向接近自然語言的第四代電腦語言<strong></strong></span></p>
+<p><img src="https://a40923101.github.io/cad2021_hw/images/49.jpg" alt="" width="500" height="476"></p>
+<p><span>1970年代以後，在電子科技的強</span><span>勁發展中產生了功能強大的「<span style="color: #ff0000;"><strong>超大型積體電路</strong></span>」，</span></p>
+<p><span>之後產生的第四代電腦不斷升級發展，</span><strong>個人微電腦時代</strong>已經來臨了，</p>
+<p>此時期由於電腦體積縮小了許多，也不再是高價電腦時代。</p>
+<p><span>自1984年美國蘋果電腦公司發展麥金塔電腦系統以來，</span></p>
+<p><span>短短十年間，設計者對此軟硬體之神奇著迷不已，</span></p>
+<p><span>改變了設計者之思考及工作方式，我們稱為<strong>電腦革命</strong>。</span></p>
+<p><span><strong>多媒體時代</strong>的來臨也是一個明顯的發展，這種<strong>整合科技</strong>應用在藝術上的表現方式，</span></p>
+<p><span>就是把攝影、電影、通訊、視訊、音樂、表演等特殊的專業知識結合電腦一起運用，</span></p>
+<p><span>此時的電腦藝術創作，已經跳離了單人的藝術創作層面，而進入集體創作的型態。</span></p>
+<p><span>現今的電腦繪圖發展多彩多姿，</span></p>
+<p><span><strong>虛擬實境技術發明</strong>、<strong>娛樂遊戲方面</strong>、<strong>設計與藝術方面</strong>、<strong>醫療方面</strong>、<strong>軍事科技方面</strong>等，</span></p>
+<p><span>上述</span><span>只是電腦繪圖在今日的部分應用，</span></p>
+<p><span>電腦繪圖正改變人的圖文傳播與呈現方式，</span></p>
+<p><span>可預期電腦繪圖在未來的發展中，</span></p>
+<p><span>只要是有關圖文的產業發展，</span></p>
+<p><span>絕對是成為非常重要的工具之一，</span></p>
+<p><span>電腦繪圖的發展與知識將會成為在人類歷史中重要的一環。</span></p>
