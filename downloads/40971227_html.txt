@@ -4,8 +4,6 @@
 <p><span><span>以前同樣由 Westhues 開發的名為 SketchFlat 的軟件包已被 SolveSpace 取代。</span></span></p>
 <p><span></span></p>
 <p>solvespace下載方法</p>
-<p><a href="https://youtu.be/z1pvsTnX8Mw">https://youtu.be/z1pvsTnX8Mw</a></p>
-<p></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/z1pvsTnX8Mw"></iframe></p>
 <p>solvespace操作方法</p>
 <h4>快捷指令介紹</h4>
