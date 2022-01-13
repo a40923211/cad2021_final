@@ -1,8 +1,46 @@
 <h3>40923125</h3>
-<p>已完成sw繪製及組立mearm</p>
+<p><span>mearm</span></p>
+<p>sw繪製及組立</p>
 <p><img height="560" src="https://40923125.github.io/cad2021_hw/images/m1.png" width="900"></p>
 <p>匯入coppeliaSim</p>
 <p><img height="560" src="https://40923125.github.io/cad2021_hw/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-01-01%20164043.png" width="900"></p>
+<p>整體操作流程</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/_GIiNxAed1g"></iframe></p>
 <p>mearm第一軸模擬</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/UPOdGTPBYis"></iframe></p>
-<p>W16測驗</p>
+<p>mearm零件下載</p>
+<p><a href="https://drive.google.com/drive/folders/1bod58dlo1emJTpFEvdgPTA4Xd8r_kGEi?usp=sharing">https://drive.google.com/drive/folders/1bod58dlo1emJTpFEvdgPTA4Xd8r_kGEi?usp=sharing</a></p>
+<p>mearm置換三角連桿</p>
+<p><img caption="false" height="486" src="https://40923125.github.io/cad2021_hw/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-01-13%20213520.png" width="900"></p>
+<p>零件下載</p>
+<p><a href="https://drive.google.com/drive/folders/1U9qUuDswJ79kUSKdR43Wq9hotz2MM1nm?usp=sharing">https://drive.google.com/drive/folders/1U9qUuDswJ79kUSKdR43Wq9hotz2MM1nm?usp=sharing</a></p>
+<p>w11test</p>
+<p>操作過程</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="540" autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923125.github.io/cad2021_hw/downloads/4.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>因調整旋轉軸與桿件相關數值的畫面擷取不到，故沒製作該細目。</p>
+<p>模擬影片</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/WQODvZEfXFg"></iframe></p>
+<p>零件下載</p>
+<p><a href="https://github.com/40923125/Four-bar-linkage">https://github.com/40923125/Four-bar-linkage</a></p>
+<p>test2</p>

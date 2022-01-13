@@ -1,0 +1,9 @@
+<h3>40923133</h3>
+<p><strong>作業1</strong>&nbsp; <a href="https://drive.google.com/drive/folders/1vcQYJwRXxJ1qjseEpe0Y-dFS5t4uPUNC?usp=sharinghttps://drive.google.com/drive/folders/1vcQYJwRXxJ1qjseEpe0Y-dFS5t4uPUNC?usp=sharing">零件檔案</a>&nbsp;<a href="https://www.youtube.com/watch?v=uDaqeqa24z4">影片</a></p>
+<p><img alt="" height="631" src="/images/linkage-dimensioned.png" width="573"></p>
+<p>coppeliaSim&nbsp;</p>
+<p><img alt="" height="437" src="/images/擷取.PNG" width="807"></p>
+<p><strong>作業2</strong>&nbsp;<a href="https://drive.google.com/drive/folders/1aWfmWWOJDGaL0w6xmO2Z6TSyi2exOPSx?usp=sharinghttps://drive.google.com/drive/folders/1aWfmWWOJDGaL0w6xmO2Z6TSyi2exOPSx?usp=sharing">零件檔案</a>&nbsp;<a href="https://www.youtube.com/watch?v=tlHNSG5NzwI">影片</a></p>
+<p><img alt="" height="435" src="/images/main-win.png" width="724"></p>
+<p>coppeliaSim</p>
+<p><img alt="" height="457" src="/images/擷取2.PNG" width="843"></p>
