@@ -1,0 +1,199 @@
+<h3>40923225</h3>
+CAD1 繪圖(Onshape)
+<p><img alt="首頁- 桂源科技股份有限公司" caption="false" height="210" src="https://www.gtocad.com/wp-content/uploads/2021/03/Onshape-Logo2020.svg" width="550"></p>
+<p>CAD1 指各學員所分配到的第一套參數式 CAD 套件, 其中包括 Solidworks, Inventor, NX, Onshape 與 Solvespace.</p>
+<p>CAD1 緣起說明與介紹(Onshape)</p>
+<p><span style="color: #ff6600;"><span style="color: #333333;">(origin)<span style="color: #800000;">Jon Hirschtick</span> founded <span style="color: #ff6600;">Solidworks</span> in 1993. He left the <span style="color: #ff6600;">Solidworks</span> team in 2011 and founded <span style="color: #ff6600;">Onshape</span> in 2012. The ideas that were not used in <span style="color: #ff6600;">Solidworks</span> will be put on<span style="color: #ff6600;"> Onshape</span>.</span></span></p>
+<div aria-hidden="true" class="UdTY9 BwTYAc" data-location="1" jsaction="rcuQ6b:gXkcrf;agoMJf:gXkcrf;h5CHLc:RHer4,P6Fjxb;rpiAHc:GitQp,fNH7he" jscontroller="ZbunN" jsname="ymb6re">
+<div class="kO6q6e" jsname="jTaUub">(Feature introduction)</div>
+</div>
+<div jsname="OeZ3nd">1.Collaboration function</div>
+<div jsname="OeZ3nd">Share designs across devices. Edit with collaboration</div>
+<div jsname="OeZ3nd">2.Convenience and time saving</div>
+<div jsname="OeZ3nd">The parts modified by the designer will be uploaded to the cloud in real time. Customers can view the modified parts on the cloud from a distance. The whole process is faster than previous programs</div>
+<div jsname="OeZ3nd">中:</div>
+<div jsname="OeZ3nd"><span style="color: #ff6600;"><span style="color: #333333;">(緣起)<span style="color: #800000;">Jon Hirschtick</span>於1993年創辦了<span style="color: #ff6600;">Solidworks</span>.在2011年離開<span style="color: #ff6600;">Solidworks</span>團隊,並於2012年創立了<span style="color: #ff6600;">Onshape</span>公司.將沒在<span style="color: #ff6600;">Solidworks</span>上發揮的創意.投注到了<span style="color: #ff6600;">Onshape</span>上</span></span></div>
+<div jsname="OeZ3nd">(特色介紹)</div>
+<div jsname="OeZ3nd">1.協作功能</div>
+<div jsname="OeZ3nd">跨設備分享設計.與可協作編輯</div>
+<div jsname="OeZ3nd">2.便利與省時</div>
+<div jsname="OeZ3nd">設計者所修改後的零件.會即時上傳雲端.客戶可以在遠方上雲端查看修改的部分.整個過程比以往的程式更快速</div>
+<div jsname="OeZ3nd"></div>
+CAD1 安裝配置(Onshape)
+<p><a href="https://youtu.be/9LeVLRZyzqg[https://youtu.be/9LeVLRZyzqg](url)">OnShape使用註冊</a><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/9LeVLRZyzqg" title="YouTube video player"></iframe></p>
+<p style="text-align: center;"><sup><span style="color: #ff0000;"><strong>1.首先到Onshape的首頁，然後選擇學生註冊帳號</strong></span></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="386" src="https://40923225.github.io/cad2021_hw/images/1.png" width="781"></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">2.進行註冊</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="454" src="https://40923225.github.io/cad2021_hw/images/2.png" width="917"></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">3.註冊學校的相關資料.之後就到信箱點開激活碼</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="445" src="https://40923225.github.io/cad2021_hw/images/3.png" width="900"></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">4.設定基礎單位</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="439" src="https://40923225.github.io/cad2021_hw/images/4.png" width="900"></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">5.首頁</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="439" src="https://40923225.github.io/cad2021_hw/images/5.png" width="900"></span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;">6.繪圖畫面</span></strong></sup></p>
+<p style="text-align: center;"><sup><strong><span style="color: #ff0000;"><img caption="false" height="439" src="https://40923225.github.io/cad2021_hw/images/6.png" width="900"></span></strong></sup></p>
+CAD1 操作流程(Onshape)
+<p><a href="https://youtu.be/9esL2qFSnMs[https://youtu.be/9esL2qFSnMs](url)">Onshape 零組件繪圖教學</a></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/9esL2qFSnMs" title="YouTube video player"></iframe></p>
+CAD2 繪圖(SOLVESPACE)
+<p><b>SOLVESPACE</b><span>是一个参数化的3D CAD程序</span></p>
+<p><span>功能包括：</span></p>
+<ul>
+<li><strong><span>3D零件建模</span></strong><span>&mdash; 使用拉伸、掃略以及布爾（合集/差集）運算繪製。</span></li>
+<li><strong><span>2D零件建模</span></strong><span>&mdash; 繪製零件的截面圖，</span><span>輸出</span><span>為DXF，PDF，SVG；並在3D組建來驗證外形。</span></li>
+<li><strong><span>3D打印機零件</span></strong><span>&mdash;</span><span>輸出</span><span>為STL或者三角網格，對3D打印機友好。</span></li>
+<li><strong><span>準備CAM數據</span></strong><span>&mdash; 為高壓水切、激光等切割機</span><span>輸出</span><span>2D矢量；或者</span><span>生成</span><span>STEP或STL，輸入第三方CAM軟件用於加工。</span></li>
+<li><strong><span>機械設計</span></strong><span>&mdash; 使用約束求解器來使用Pin，ball或slide節點模擬水平的或空</span><span>間的</span><span>鏈接</span><span>。</span></li>
+<li><strong><span>平面和實體幾何</span></strong><span>&mdash; 使用動態的標註繪製取代手工的剪裁和表格。</span></li>
+</ul>
+CAD2 安裝配置(solvespace)
+<p><a href="https://youtu.be/-Xzkz0hrfg4[https://youtu.be/-Xzkz0hrfg4](url)">solvespace下載</a></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/-Xzkz0hrfg4" title="YouTube video player"></iframe></p>
+CAD2 操作流程(solvespace)
+<p><a href="https://youtu.be/r9KgcdabH8E[https://youtu.be/r9KgcdabH8E](url)">solvespace繪圖教學</a></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/r9KgcdabH8E" title="YouTube video player"></iframe></p>
+運動場景
+<h4>CAD1(<span>OnShape)</span>:</h4>
+<p style="padding-left: 30px;">CAD1 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD1 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD1 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 -&nbsp;</span><span>OnShape</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff99;"> </span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.<br></span></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/gM2XuRRMtC4" title="YouTube video player"></iframe></p>
+<h4>CAD2(<span>solvespace)</span>:</h4>
+<p style="padding-left: 30px;">CAD2 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD2 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD2 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 -</span><span>solvespace</span></p>
+<p style="padding-left: 30px;"><span style="background-color: #ffff99;"></span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.</span>.</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Mt57K00LYrE" title="YouTube video player"></iframe></p>
+W13
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/o.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="https://github.com/40923225/cad2021_final/new/main/downloads"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/s.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+HW11
+<h4>驗收交付內容:</h4>
+<ol>
+<li>各<span>零件尺寸圖</span>與<span>&nbsp;</span><span>3D 零件檔案</span>, 請放入各學員的倉儲中並在 W11 標題 H2 頁面中<span>提供下載</span>.</li>
+<li>請將兩套 CAD<span>&nbsp;</span><span>繪圖過程製作成一份 Wink 影片</span>檔案, 並放入 W11 標題 H2 頁面中..</li>
+<li>請將組立件轉入 CoppeliaSim, 並製作運動<span>模擬場景的過程, 製作成一份 Wink 影片</span>檔案, 並放入個人網頁中的 W11 標題 H2 頁面中</li>
+</ol>
+連桿尺寸
+<p>固定桿尺寸</p>
+<p><img caption="false" height="366" src="/images/1.png" width="650"></p>
+<p>連桿(長)尺寸</p>
+<p><img caption="false" height="365" src="/images/2.png" width="650"></p>
+<p><span>連桿(中)尺寸</span></p>
+<p><span><img alt="" height="366" src="/images/3.png" width="650"></span></p>
+<p><span>連桿(短)尺寸</span></p>
+<p><span><img alt="" height="366" src="/images/4.png" width="650"></span></p>
+<p><span>圓柱尺寸</span></p>
+<p><span><img alt="" height="366" src="/images/5.png" width="650"></span></p>
+<p></p>
+Onshape零件下載
+<p><a href="https://drive.google.com/file/d/1ZIONy24nYUvS-2H03IEF0p2YTOEOcqMu/view?usp=sharing">固定桿</a></p>
+<p><a href="https://drive.google.com/file/d/1cM02Gv3-hfKaT7HuzHWk3pB1qJ_JlaPD/view?usp=sharing">連桿(長)</a></p>
+<p><a href="https://drive.google.com/file/d/1YiBp7EVIaxiMQruovwlmnr9JVI9ZK_i_/view?usp=sharing">連桿(中)</a></p>
+<p><a href="https://drive.google.com/file/d/1HSLzF48lYX0JBEfaAgTYvYwZjPbgQWRT/view?usp=sharing">連桿(短)</a></p>
+<p><a href="https://drive.google.com/file/d/1tA4oREK6uI0v6v9f7dMcWXPti3rG_tKx/view?usp=sharing">圓柱</a></p>
+Onshape零件影片
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6rw3ChYI81Q" title="YouTube video player"></iframe></p>
+Onshape動態模擬
+<p><img alt="" height="235" src="/images/10.jpg" width="214"></p>
+Solvespace零件下載
+<p><a href="https://drive.google.com/file/d/1cM02Gv3-hfKaT7HuzHWk3pB1qJ_JlaPD/view?usp=sharing"></a></p>
+<p><a href="https://drive.google.com/file/d/1HSLzF48lYX0JBEfaAgTYvYwZjPbgQWRT/view?usp=sharing">連桿(短)</a></p>
+<p><a href="https://drive.google.com/file/d/1YiBp7EVIaxiMQruovwlmnr9JVI9ZK_i_/view?usp=sharing">連桿(中)</a></p>
+<p><a href="https://drive.google.com/file/d/1cM02Gv3-hfKaT7HuzHWk3pB1qJ_JlaPD/view?usp=sharing">連桿(長)</a></p>
+<p><a href="https://drive.google.com/file/d/1ZIONy24nYUvS-2H03IEF0p2YTOEOcqMu/view?usp=sharing">固定桿</a></p>
+<p><a href="https://drive.google.com/file/d/1tA4oREK6uI0v6v9f7dMcWXPti3rG_tKx/view?usp=sharing">圓柱</a></p>
+Solvespace零件影片
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/nRQKMV21YLw" title="YouTube video player"></iframe></p>
+Solvespace動態模擬
+<p><img alt="" height="235" src="/images/10.jpg" width="214"></p>
+<p>零件繪製過程</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1138" height="712" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/01.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>轉檔過程</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1138" height="712" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
