@@ -9,9 +9,84 @@
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/dAAg6qi5iQU" title="YouTube video player"></iframe></p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/lJZfQq21yHk" title="YouTube video player"></iframe></p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1dDQOssfL0A" title="YouTube video player"></iframe></p>
-<p>兩種版本的模擬影片</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/vClOzbUYo18" title="YouTube video player"></iframe></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/8yR8RkuNwhc" title="YouTube video player"></iframe></p>
+<p><span>--------(wink)-----------------------</span></p>
+<p><span>零件進度</span></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData3 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="800" height="600" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData3" loop="loop" muted="" playsinline="">
+<source src="https://40823122.github.io/cad2021_hw/downloads/ONSHAPE.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-----------------------------------------------------------------</p>
+<p><span>&nbsp;meArm 機械手臂第一軸 360度</span></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData1 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="800" height="600" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData1">
+<source src="https://40823122.github.io/cad2021_hw/downloads/360.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-----------------------------------------------------------------</p>
+<p><span>meArm 機械手臂一到三軸模擬</span></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData2 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="800" height="600" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData2">
+<source src="https://40823122.github.io/cad2021_hw/downloads/1-3.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
 <p>-----------------------------------------------------------------</p>
 <p>Jansens linkage</p>
 <p><a href="https://cad.onshape.com/documents/0cf69bdc9ccfabf8a6fcc566/w/0b43a0b6e622d4c07c9ec9a0/e/be31a234c9f22a55a999acd9">onshape組合圖</a></p>
@@ -24,10 +99,53 @@
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/h8Bcg-of9Lg" title="YouTube video player"></iframe></p>
 <p>-----------------------------------------------------------------</p>
 <p>期末考試</p>
-<p><a href="https://40823122.github.io/cad2021_hw/content/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A9%A6.html">期末考試頁面連結</a></p>
 <p><a href="https://cad.onshape.com/documents/9a981c2bc71f8e276fe9c67b/w/7335de64ea419016a1c1f0d8/e/0dcde31ec63bc8bc3452018f">原版</a>&nbsp; &nbsp;<a href="https://cad.onshape.com/documents/d86e8f692d34ad579b65a9b2/w/fe49da53bccb85ac852eaf31/e/175808100258fe0d3b7470a2">左右對調版</a></p>
 <p>兩個版本的模擬檔連結</p>
 <p><a href="https://drive.google.com/drive/folders/16LqUD-nSE2Ld5mF-9D1BfoWs_50QjBdt?usp=sharing">CoppeliaSim檔案連結</a></p>
+<script>// <![CDATA[
+var winkVideoData4 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData4" loop="loop" muted="" playsinline="">
+<source src="https://40823122.github.io/cad2021_hw/downloads/final.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<script>// <![CDATA[
+var winkVideoData5 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="800" height="600" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData5">
+<source src="https://40823122.github.io/cad2021_hw/downloads/456.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
 <p>左右對調版(有建立時間紀錄)</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/v9o91xnhtKY" title="YouTube video player"></iframe></p>
 <p>兩種版本的模擬影片</p>
