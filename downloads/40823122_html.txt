@@ -24,6 +24,7 @@
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/h8Bcg-of9Lg" title="YouTube video player"></iframe></p>
 <p>-----------------------------------------------------------------</p>
 <p>期末考試</p>
+<p><a href="https://40823122.github.io/cad2021_hw/content/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A9%A6.html">期末考試頁面連結</a></p>
 <p><a href="https://cad.onshape.com/documents/9a981c2bc71f8e276fe9c67b/w/7335de64ea419016a1c1f0d8/e/0dcde31ec63bc8bc3452018f">原版</a>&nbsp; &nbsp;<a href="https://cad.onshape.com/documents/d86e8f692d34ad579b65a9b2/w/fe49da53bccb85ac852eaf31/e/175808100258fe0d3b7470a2">左右對調版</a></p>
 <p>兩個版本的模擬檔連結</p>
 <p><a href="https://drive.google.com/drive/folders/16LqUD-nSE2Ld5mF-9D1BfoWs_50QjBdt?usp=sharing">CoppeliaSim檔案連結</a></p>
