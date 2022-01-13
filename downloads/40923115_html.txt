@@ -134,8 +134,7 @@ var winkVideoData2 = {
     ],
     "550": [
       { type: "gotoframe", rect: { x: 560, y: 679, width: 60, height: 24 }, target: 520 },
-      { type: "gotoframe", rect: { x: 627, y: 
-678, width: 60, height: 24 }, target: 551 },
+      { type: "gotoframe", rect: { x: 627, y: 678, width: 60, height: 24 }, target: 551 },
     ],
     "570": [
       { type: "gotoframe", rect: { x: 598, y: 628, width: 60, height: 24 }, target: 550 },
@@ -143,7 +142,7 @@ var winkVideoData2 = {
   },
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1300" height="756" class="winkVideoClass" data-dirname="cmsimde/static" data-varname="winkVideoData2">
+<div class="winkVideoContainerClass"><video width="1300" height="756" class="winkVideoClass2" data-dirname="cmsimde/static" data-varname="winkVideoData2">
 <source src="./../downloads/繪圖.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
@@ -191,7 +190,7 @@ var winkVideoData3 = {
   },
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1300" height="756" class="winkVideoClass" data-dirname="cmsimde/static" data-varname="winkVideoData3">
+<div class="winkVideoContainerClass"><video width="1300" height="756" class="winkVideoClass3" data-dirname="cmsimde/static" data-varname="winkVideoData3">
 <source src="./../downloads/轉出wink.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
@@ -215,7 +214,7 @@ var winkVideoData3 = {
 <p></p>
 <p></p>
 <p>課堂考試 20220103</p>
-<p>心得:經過這次考試又更加熟悉 onshape 的零件組合過程，還有 coppeliasim 的模擬組合過程</p>
+<p>心得:經過這次考試又更加熟悉 SW 的零件組合過程，還有 coppeliasim 的模擬組合過程</p>
 <p><a href="https://drive.google.com/file/d/1u9x0Ng_xCC1avEiZKAgE1dwudrv5scT-/view?usp=sharing">下載檔</a></p>
 <p></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/0cl0vCm0Vnw"></iframe></p>
