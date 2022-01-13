@@ -1,4 +1,78 @@
 <h3>40923234</h3>
+<p>期末考</p>
+<p>1/6期末考試</p>
 <p><a href="https://www.youtube.com/watch?v=Xf439EnrCCc">期末零組件繪製&nbsp;</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Xf439EnrCCc"></iframe></p>
 <p><a href="https://www.youtube.com/watch?v=Uz-3zae2G5w">期末零組件搖動</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Uz-3zae2G5w"></iframe></p>
 <p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/Final Project34.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>Final Project 佔學期成績 40%</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p>彈性製造系統場景設計與製作</p>
+<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
+<p>彈性製造系統內容說明</p>
+<h4>範例:</h4>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player"></iframe></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player"></iframe></p>
+<p></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoPlayOverlayClass"></div>
+<button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<p>學期心得</p>
+<p>一. NX12 &amp; solvespace</p>
+<p>&nbsp; &nbsp; 這學期抽到兩種不同的繪圖軟體一個是NX12，另一個則是<span>solvespace</span>，上學期接觸過NX所以使用上還算熟悉，<span>solvespace是全新完全沒接觸過的的軟體使用介面較為陌生，一開始花蠻長時間去摸索，後來解決轉檔匯入的問題後，使用上沒太大問題。</span></p>
+<p><a href="https://www.youtube.com/watch?v=zdiU-a_9feI">NX安裝配置影片</a></p>
+<p><a href="https://www.youtube.com/watch?v=jFGPy9QDJ2o">NX操作流程影片</a></p>
+<p><a href="https://www.youtube.com/watch?v=F3kjpG8hmfk">solvespace下載教學影片</a></p>
+<p><a href="https://www.youtube.com/watch?v=5WCdv3iBGKo">solvepace 操作流程影片</a></p>
+<p>二. wink&nbsp;</p>
+<p>&nbsp; &nbsp; 大二以前只學過obs和windows內建錄影，這學期學了wink後，了解他是一幀<span>一</span><span>幀</span>的方式去錄影，以後在錄製影片時候多了一種選擇。</p>
+<p>三. Four-bar mechanism</p>
+<p>&nbsp; &nbsp; 第一次接數連桿機構，<span>從繪製到組裝到轉stl檔再匯入CoppeliaSim，雖然過程很麻煩但是我也學到了更多技巧</span><span>，也學到了如何操作。</span></p>
+<p><span><a href="https://www.youtube.com/watch?v=fHeluePrWkw">零件轉出後轉入 CoppeliaSim 操作影片</a></span></p>
+<p><span>四.期末考試</span></p>
+<p>&nbsp; &nbsp;&nbsp;心得: 這學期學了CoppeliaSim 、wink、nx12、solvespace，雖然以前都沒學過，經過這學期的學習，CoppeliaSim是我認為最難但也學到最多的軟體，但請教會使用的同學後，才發現這軟體在模擬的功能上很棒，剪輯上使用了wink這套軟體，使用上容易，剪輯效果也不錯，以後在作業上會有更多的軟體去做選擇來使用。</p>
+<p><a href="https://www.youtube.com/watch?v=Xf439EnrCCc"></a>1/6</p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Xf439EnrCCc"></iframe></span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" 
