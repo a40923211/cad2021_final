@@ -30,3 +30,22 @@
 <p>心得:這次又更加了解繪圖軟體和模擬器</p>
 <p></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/m16uctCBwWI"></iframe></p>
+<p></p>
+<h4>期末考試</h4>
+<p><span>第一階段: 請將自己所完成繪製的 meArm Robot 零件與組立檔案畫面呈現在網頁中, 並將所有零件與組立檔案壓縮成"學號_final.zip" 送到個人的&nbsp;</span><a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/gm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gm">@gm</a><span><span>&nbsp;</span>帳號 GDrive, 並將連結轉為公開下載. (若採用 Onshape 請將零組件繪圖連結設為公開分享後, 放入頁面).</span></p>
+<p><span>meArm Robot 零件與組立檔下載</span></p>
+<p><a href="https://drive.google.com/drive/folders/1zMg0VILd8BzripKet9vsVBXiAWrgx3zY?usp=sharing">https://drive.google.com/drive/folders/1zMg0VILd8BzripKet9vsVBXiAWrgx3zY?usp=sharing</a></p>
+<p>因為還不清楚NX和slov的組合怎麼搞，因為時間的關係我將NX畫的零件轉檔到個人拿手的inventor來做</p>
+<p>組合來增加效率。</p>
+<p><img alt="" height="600" src="/images/組合三角左.jpg" width="1149"></p>
+<p><span>第二階段: 請修改第一階段個人所完成的 meArm 組立檔案, 將兩側連桿機構互換, 亦即將帶有三角形連桿的機構與另一方機構互相對調. 完成後, 請在網頁中呈現所完成的組立圖畫面, 並將零組件檔案壓縮成"學號_final_stage2.zip" 送到個人的&nbsp;</span><a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/gm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gm">@gm</a><span><span>&nbsp;</span>帳號 GDrive, 並將連結轉為公開下載. (若採用 Onshape 請將零組件繪圖連結設為公開分享後, 放入頁面).</span></p>
+<p><span>meArm 零件與組立檔下載</span></p>
+<p><span><a href="https://drive.google.com/drive/folders/119CcOJsjAthu5clJ5zdIbSCk1p_dw6Lc?usp=sharing">https://drive.google.com/drive/folders/119CcOJsjAthu5clJ5zdIbSCk1p_dw6Lc?usp=sharing</a></span></p>
+<p><span><img alt="" height="600" src="/images/組合三角右.jpg" width="1067"><img alt="" height="600" src="/images/組合三角左2.jpg" width="1076"></span></p>
+<p><span>第三階段: 請將第二階段新完成的 meArm 零組件轉入 CoppeliaSim 後, 利用 Slider 控制其中的各轉動軸, 完成後請以 Wink 影片呈現製作過程, 並將"學號_final.ttt" 檔案壓縮為"學號_final_ttt.zip" 送到個人的&nbsp;<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/gm/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gm">@gm</a><span><span>&nbsp;</span>帳號 GDrive, 並將連結轉為公開下載.</span></span></p>
+<p><span><span>模擬檔下載&nbsp;</span></span></p>
+<p><span><span><a href="https://drive.google.com/drive/folders/1W3VjDhMm4-DM6GfHXymJeE5cEyMOCWyG?usp=sharing">https://drive.google.com/drive/folders/1W3VjDhMm4-DM6GfHXymJeE5cEyMOCWyG?usp=sharing</a></span></span></p>
+<p>因先前已有使用老師給的未編排的組合檔來做編排模擬，但目前自己的組合件匯入模擬器後錯誤不斷還邊不太出來，所以此wink先以先前已編好的來做講解過程</p>
+<p></p>
+<p><video width="600" height="300" controls="controls">
+<source src="https://40923111.github.io/cad2021_hw/downloads/robot.mp4" type="video/mp4" /></video></p>
